@@ -1,0 +1,37 @@
+---
+title: "Phase 07 – Exploratory Data Analysis"
+format: html
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(janitor)
+master <- read_csv("../data_final/team_match_master.csv")
+```
+
+## Elevation Distribution
+```{r elevation-dist}
+master %>%
+  ggplot(aes(x = elevation_m)) +
+  geom_histogram(binwidth = 100, fill = "steelblue", color = "white") +
+  labs(title = "Distribution of Stadium Elevation (m)", x = "Elevation (m)", y = "Count")
+```
+
+## Confound Check: Elo Difference vs. Goal Difference
+```{r confound-elo}
+master %>%
+  mutate(goal_diff_2h = goals_against_2h - goals_for_2h) %>%
+  ggplot(aes(x = elo_diff, y = goal_diff_2h)) +
+  geom_point(alpha = 0.6) +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  labs(title = "Elo Difference vs. Goal Difference (Second Half)", x = "Elo Difference", y = "Goal Difference (2H)")
+```
+
+## Overdispersion Check
+```{r overdispersion}
+mu <- mean(master$goals_against_2h)
+var <- var(master$goals_against_2h)
+cat("Mean:", mu, "Variance:", var, "\n")
+```
+
+*If variance > mean, consider Negative Binomial models.*

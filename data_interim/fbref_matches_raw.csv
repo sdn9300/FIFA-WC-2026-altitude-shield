@@ -1,0 +1,385 @@
+match_id,home_team,away_team,year,goal_times
+2022_0,Argentina,France,2022,36;108;81
+2022_1,Croatia,Morocco,2022,7;42;9
+2022_2,France,Morocco,2022,5;79
+2022_3,Argentina,Croatia,2022,39;69
+2022_4,Morocco,Portugal,2022,42
+2022_5,England,France,2022,17;78
+2022_6,Croatia,Brazil,2022,117;105
+2022_7,Netherlands,Argentina,2022,83;90;35
+2022_8,Morocco,Spain,2022,
+2022_9,Portugal,Switzerland,2022,17;33;51;55;67;90;58
+2022_10,Japan,Croatia,2022,43;55
+2022_11,Brazil,Korea Republic,2022,7;29;36;76
+2022_12,France,Poland,2022,44;74;90
+2022_13,England,Senegal,2022,39;45;57
+2022_14,Netherlands,United States,2022,10;45;81;76
+2022_15,Argentina,Australia,2022,35;57
+2022_16,Korea Republic,Portugal,2022,27;90;5
+2022_17,Ghana,Uruguay,2022,26;32
+2022_18,Cameroon,Brazil,2022,90
+2022_19,Serbia,Switzerland,2022,26;35;20;44;48
+2022_20,Canada,Morocco,2022,4;23
+2022_21,Croatia,Belgium,2022,
+2022_22,Costa Rica,Germany,2022,58;10;73;85;90
+2022_23,Japan,Spain,2022,48;51;12
+2022_24,Australia,Denmark,2022,60
+2022_25,Tunisia,France,2022,58
+2022_26,Saudi Arabia,Mexico,2022,90;47;52
+2022_27,Poland,Argentina,2022,46;67
+2022_28,Ecuador,Senegal,2022,67;70
+2022_29,Netherlands,Qatar,2022,26;49
+2022_30,IR Iran,United States,2022,38
+2022_31,Wales,England,2022,50;52;68
+2022_32,Cameroon,Serbia,2022,29;64;66;45;45;53
+2022_33,Korea Republic,Ghana,2022,58;61;24;34;68
+2022_34,Brazil,Switzerland,2022,83
+2022_35,Portugal,Uruguay,2022,54
+2022_36,Japan,Costa Rica,2022,81
+2022_37,Belgium,Morocco,2022,73;90
+2022_38,Croatia,Canada,2022,36;44;70;90;2
+2022_39,Spain,Germany,2022,62;83
+2022_40,Tunisia,Australia,2022,23
+2022_41,Poland,Saudi Arabia,2022,39;82
+2022_42,France,Denmark,2022,61;86;68
+2022_43,Argentina,Mexico,2022,64;87
+2022_44,Wales,IR Iran,2022,90;90
+2022_45,Qatar,Senegal,2022,78;41;48;84
+2022_46,Netherlands,Ecuador,2022,6;49
+2022_47,England,United States,2022,
+2022_48,Switzerland,Cameroon,2022,48
+2022_49,Uruguay,Korea Republic,2022,
+2022_50,Portugal,Ghana,2022,78;80;73;89
+2022_51,Brazil,Serbia,2022,62;73
+2022_52,Morocco,Croatia,2022,
+2022_53,Germany,Japan,2022,75;83
+2022_54,Spain,Costa Rica,2022,11;21;54;74;90;90
+2022_55,Belgium,Canada,2022,44
+2022_56,Argentina,Saudi Arabia,2022,48;53
+2022_57,Denmark,Tunisia,2022,
+2022_58,Mexico,Poland,2022,
+2022_59,France,Australia,2022,27;32;68;71;9
+2022_60,England,IR Iran,2022,35;43;45;62;71;90;65
+2022_61,Senegal,Netherlands,2022,84;90
+2022_62,United States,Wales,2022,36
+2022_63,Qatar,Ecuador,2022,31
+2018_64,France,Croatia,2018,59;65;28;69
+2018_65,Belgium,England,2018,4;82
+2018_66,Croatia,England,2018,68;109;5
+2018_67,France,Belgium,2018,51
+2018_68,Sweden,England,2018,30;59
+2018_69,Russia,Croatia,2018,31;115;39;101
+2018_70,Uruguay,France,2018,40;61
+2018_71,Brazil,Belgium,2018,76;32
+2018_72,Sweden,Switzerland,2018,66
+2018_73,Colombia,England,2018,90
+2018_74,Brazil,Mexico,2018,51;88
+2018_75,Belgium,Japan,2018,69;74;90;48;52
+2018_76,Spain,Russia,2018,
+2018_77,Croatia,Denmark,2018,4;1
+2018_78,France,Argentina,2018,57;64;68;41;48;90
+2018_79,Uruguay,Portugal,2018,7;62;55
+2018_80,Japan,Poland,2018,59
+2018_81,Senegal,Colombia,2018,74
+2018_82,England,Belgium,2018,51
+2018_83,Panama,Tunisia,2018,51;66
+2018_84,Korea Republic,Germany,2018,90;90
+2018_85,Mexico,Sweden,2018,50
+2018_86,Switzerland,Costa Rica,2018,31;88;56
+2018_87,Serbia,Brazil,2018,36;68
+2018_88,Australia,Peru,2018,18;50
+2018_89,Denmark,France,2018,
+2018_90,Iceland,Croatia,2018,53;90
+2018_91,Nigeria,Argentina,2018,14;86
+2018_92,Saudi Arabia,Egypt,2018,90;22
+2018_93,Uruguay,Russia,2018,10;90
+2018_94,Spain,Morocco,2018,19;90;14;81
+2018_95,IR Iran,Portugal,2018,45
+2018_96,England,Panama,2018,8;36;40;62;78
+2018_97,Japan,Senegal,2018,34;78;12;71
+2018_98,Poland,Colombia,2018,40;70;75
+2018_99,Belgium,Tunisia,2018,16;45;51;90;18;90
+2018_100,Korea Republic,Mexico,2018,90;66
+2018_101,Germany,Sweden,2018,48;90;32
+2018_102,Brazil,Costa Rica,2018,90;90
+2018_103,Nigeria,Iceland,2018,49;75
+2018_104,Serbia,Switzerland,2018,5;52;90
+2018_105,Denmark,Australia,2018,7
+2018_106,France,Peru,2018,34
+2018_107,Argentina,Croatia,2018,53;80;90
+2018_108,Portugal,Morocco,2018,4
+2018_109,Uruguay,Saudi Arabia,2018,23
+2018_110,IR Iran,Spain,2018,54
+2018_111,Colombia,Japan,2018,39;73
+2018_112,Poland,Senegal,2018,86;61
+2018_113,Russia,Egypt,2018,59;62
+2018_114,Sweden,Korea Republic,2018,
+2018_115,Belgium,Panama,2018,48;69;75
+2018_116,Tunisia,England,2018,11;90
+2018_117,Costa Rica,Serbia,2018,56
+2018_118,Germany,Mexico,2018,35
+2018_119,Brazil,Switzerland,2018,20;50
+2018_120,France,Australia,2018,
+2018_121,Argentina,Iceland,2018,19;23
+2018_122,Peru,Denmark,2018,59
+2018_123,Croatia,Nigeria,2018,
+2018_124,Egypt,Uruguay,2018,89
+2018_125,Morocco,IR Iran,2018,
+2018_126,Portugal,Spain,2018,44;88;24;55;58
+2018_127,Russia,Saudi Arabia,2018,12;43;71;90;90
+2014_128,Germany,Argentina,2014,113
+2014_129,Brazil,Netherlands,2014,17;90
+2014_130,Netherlands,Argentina,2014,
+2014_131,Brazil,Germany,2014,90;11;23;24;26;29;69;79
+2014_132,Argentina,Belgium,2014,8
+2014_133,Netherlands,Costa Rica,2014,
+2014_134,France,Germany,2014,13
+2014_135,Brazil,Colombia,2014,7;69
+2014_136,Argentina,Switzerland,2014,118
+2014_137,Belgium,United States,2014,93;105;107
+2014_138,France,Nigeria,2014,79
+2014_139,Germany,Algeria,2014,92;119;120
+2014_140,Netherlands,Mexico,2014,88;48
+2014_141,Costa Rica,Greece,2014,52;90
+2014_142,Brazil,Chile,2014,18;32
+2014_143,Colombia,Uruguay,2014,29;50
+2014_144,United States,Germany,2014,55
+2014_145,Portugal,Ghana,2014,80;57
+2014_146,Korea Republic,Belgium,2014,77
+2014_147,Algeria,Russia,2014,60;6
+2014_148,Bosnia and Herzegovina,IR Iran,2014,23;59;83;82
+2014_149,Nigeria,Argentina,2014,4;47;3;45;50
+2014_150,Honduras,Switzerland,2014,6;31;71
+2014_151,Ecuador,France,2014,
+2014_152,Costa Rica,England,2014,
+2014_153,Italy,Uruguay,2014,81
+2014_154,Japan,Colombia,2014,45;55;82;90
+2014_155,Greece,Côte d'Ivoire,2014,42;74
+2014_156,Australia,Spain,2014,36;69;82
+2014_157,Netherlands,Chile,2014,77;90
+2014_158,Croatia,Mexico,2014,87;72;75;82
+2014_159,Cameroon,Brazil,2014,26;17;35;49;84
+2014_160,Belgium,Russia,2014,88
+2014_161,Korea Republic,Algeria,2014,50;72;26;28;38;62
+2014_162,United States,Portugal,2014,64;81;5;90
+2014_163,Argentina,IR Iran,2014,90
+2014_164,Germany,Ghana,2014,51;71;54;63
+2014_165,Nigeria,Bosnia and Herzegovina,2014,29
+2014_166,Italy,Costa Rica,2014,44
+2014_167,Switzerland,France,2014,81;87;17;18;40;67;73
+2014_168,Honduras,Ecuador,2014,31;34;65
+2014_169,Colombia,Côte d'Ivoire,2014,64;70;73
+2014_170,Uruguay,England,2014,39;85;75
+2014_171,Japan,Greece,2014,
+2014_172,Australia,Netherlands,2014,21;20;58;68
+2014_173,Spain,Chile,2014,20;43
+2014_174,Cameroon,Croatia,2014,11;48;61;73
+2014_175,Belgium,Algeria,2014,70;80
+2014_176,Brazil,Mexico,2014,
+2014_177,Russia,Korea Republic,2014,74;68
+2014_178,Germany,Portugal,2014,32;45;78
+2014_179,IR Iran,Nigeria,2014,
+2014_180,Ghana,United States,2014,82;1;86
+2014_181,Switzerland,Ecuador,2014,48;90;22
+2014_182,France,Honduras,2014,72
+2014_183,Argentina,Bosnia and Herzegovina,2014,65;85
+2014_184,Colombia,Greece,2014,6;58;90
+2014_185,Uruguay,Costa Rica,2014,54;57;84
+2014_186,England,Italy,2014,37;35;50
+2014_187,Côte d'Ivoire,Japan,2014,64;66;16
+2014_188,Mexico,Cameroon,2014,61
+2014_189,Spain,Netherlands,2014,44;53;65;72;80
+2014_190,Chile,Australia,2014,12;14;90;35
+2014_191,Brazil,Croatia,2014,29;90
+2010_192,Netherlands,Spain,2010,116
+2010_193,Uruguay,Germany,2010,28;51;19;56;82
+2010_194,Germany,Spain,2010,73
+2010_195,Uruguay,Netherlands,2010,41;90;18;70;73
+2010_196,Argentina,Germany,2010,3;68;74;89
+2010_197,Paraguay,Spain,2010,83
+2010_198,Netherlands,Brazil,2010,53;68;10
+2010_199,Uruguay,Ghana,2010,55;45
+2010_200,Paraguay,Japan,2010,
+2010_201,Spain,Portugal,2010,63
+2010_202,Netherlands,Slovakia,2010,18;84
+2010_203,Brazil,Chile,2010,35;38;59
+2010_204,Germany,England,2010,20;32;67;70;37
+2010_205,Argentina,Mexico,2010,26;33;52;71
+2010_206,Uruguay,Korea Republic,2010,8;80;68
+2010_207,United States,Ghana,2010,5;93
+2010_208,Portugal,Brazil,2010,
+2010_209,Korea DPR,Côte d'Ivoire,2010,14;20;82
+2010_210,Chile,Spain,2010,47;24;37
+2010_211,Switzerland,Honduras,2010,
+2010_212,Paraguay,New Zealand,2010,
+2010_213,Slovakia,Italy,2010,25;73;89;81;90
+2010_214,Denmark,Japan,2010,81;17;30;87
+2010_215,Cameroon,Netherlands,2010,36;83
+2010_216,Slovenia,England,2010,23
+2010_217,United States,Algeria,2010,90
+2010_218,Ghana,Germany,2010,60
+2010_219,Australia,Serbia,2010,69;73;84
+2010_220,Mexico,Uruguay,2010,43
+2010_221,France,South Africa,2010,70;20;37
+2010_222,Nigeria,Korea Republic,2010,12;38;49
+2010_223,Greece,Argentina,2010,77;89
+2010_224,Portugal,Korea DPR,2010,29;53;56;60;81;87;89
+2010_225,Chile,Switzerland,2010,75
+2010_226,Spain,Honduras,2010,17;51
+2010_227,Slovakia,Paraguay,2010,27;86
+2010_228,Italy,New Zealand,2010,7
+2010_229,Brazil,Côte d'Ivoire,2010,25;50;62;79
+2010_230,Netherlands,Japan,2010,53
+2010_231,Ghana,Australia,2010,11
+2010_232,Cameroon,Denmark,2010,10;33;61
+2010_233,Germany,Serbia,2010,38
+2010_234,Slovenia,United States,2010,13;42;48;82
+2010_235,England,Algeria,2010,
+2010_236,Argentina,Korea Republic,2010,33;76;80;45
+2010_237,Greece,Nigeria,2010,44;71;16
+2010_238,France,Mexico,2010,64
+2010_239,Honduras,Chile,2010,34
+2010_240,Spain,Switzerland,2010,52
+2010_241,South Africa,Uruguay,2010,24;90
+2010_242,New Zealand,Slovakia,2010,90;50
+2010_243,Côte d'Ivoire,Portugal,2010,
+2010_244,Brazil,Korea DPR,2010,55;72;89
+2010_245,Netherlands,Denmark,2010,85
+2010_246,Japan,Cameroon,2010,39
+2010_247,Italy,Paraguay,2010,63;39
+2010_248,Algeria,Slovenia,2010,79
+2010_249,Serbia,Ghana,2010,
+2010_250,Germany,Australia,2010,8;26;68;70
+2010_251,Korea Republic,Greece,2010,7;52
+2010_252,Argentina,Nigeria,2010,6
+2010_253,England,United States,2010,4;40
+2010_254,South Africa,Mexico,2010,55;79
+2010_255,Uruguay,France,2010,
+2006_256,Italy,France,2006,19
+2006_257,Germany,Portugal,2006,56;78;88
+2006_258,Portugal,France,2006,
+2006_259,Germany,Italy,2006,119;120
+2006_260,England,Portugal,2006,
+2006_261,Brazil,France,2006,57
+2006_262,Germany,Argentina,2006,80;49
+2006_263,Italy,Ukraine,2006,6;59;69
+2006_264,Brazil,Ghana,2006,5;45;84
+2006_265,Spain,France,2006,41;83;90
+2006_266,Italy,Australia,2006,
+2006_267,Switzerland,Ukraine,2006,
+2006_268,England,Ecuador,2006,60
+2006_269,Portugal,Netherlands,2006,23
+2006_270,Germany,Sweden,2006,4;12
+2006_271,Argentina,Mexico,2006,10;6
+2006_272,Saudi Arabia,Spain,2006,36
+2006_273,Ukraine,Tunisia,2006,
+2006_274,Togo,France,2006,55;61
+2006_275,Switzerland,Korea Republic,2006,23;77
+2006_276,Ghana,United States,2006,22;43
+2006_277,Czech Republic,Italy,2006,26;87
+2006_278,Japan,Brazil,2006,34;45;53;59;81
+2006_279,Croatia,Australia,2006,2;56;79
+2006_280,Portugal,Mexico,2006,6;29
+2006_281,IR Iran,Angola,2006,75;60
+2006_282,Côte d'Ivoire,Serbia and Montenegro,2006,67;10;20;20
+2006_283,Netherlands,Argentina,2006,
+2006_284,Costa Rica,Poland,2006,25;33;66
+2006_285,Ecuador,Germany,2006,4;44;57
+2006_286,Paraguay,Trinidad and Tobago,2006,86
+2006_287,Sweden,England,2006,51;90;34;85
+2006_288,Togo,Switzerland,2006,16;88
+2006_289,Saudi Arabia,Ukraine,2006,4;36;46;84
+2006_290,Spain,Tunisia,2006,71;76;8
+2006_291,Japan,Croatia,2006,
+2006_292,Brazil,Australia,2006,49;90
+2006_293,France,Korea Republic,2006,9;81
+2006_294,Portugal,IR Iran,2006,63
+2006_295,Czech Republic,Ghana,2006,2;82
+2006_296,Italy,United States,2006,22
+2006_297,Argentina,Serbia and Montenegro,2006,6;31;41;78;84;88
+2006_298,Netherlands,Côte d'Ivoire,2006,23;27;38
+2006_299,Mexico,Angola,2006,
+2006_300,Ecuador,Costa Rica,2006,8;54;90
+2006_301,England,Trinidad and Tobago,2006,83;90
+2006_302,Sweden,Paraguay,2006,89
+2006_303,Spain,Ukraine,2006,13;17;81
+2006_304,Tunisia,Saudi Arabia,2006,23;90;57;84
+2006_305,Germany,Poland,2006,90
+2006_306,Korea Republic,Togo,2006,54;72;31
+2006_307,France,Switzerland,2006,
+2006_308,Brazil,Croatia,2006,44
+2006_309,Australia,Japan,2006,84;89;90;26
+2006_310,United States,Czech Republic,2006,5;36;76
+2006_311,Italy,Ghana,2006,40;83
+2006_312,Serbia and Montenegro,Netherlands,2006,18
+2006_313,Mexico,IR Iran,2006,28;76;79;36
+2006_314,Angola,Portugal,2006,4
+2006_315,England,Paraguay,2006,
+2006_316,Trinidad and Tobago,Sweden,2006,
+2006_317,Argentina,Côte d'Ivoire,2006,24;38;82
+2006_318,Germany,Costa Rica,2006,6;17;61;87;12;73
+2006_319,Poland,Ecuador,2006,24;80
+2002_320,Germany,Brazil,2002,67;79
+2002_321,Korea Republic,Türkiye,2002,9;90;1;13;32
+2002_322,Brazil,Türkiye,2002,49
+2002_323,Germany,Korea Republic,2002,75
+2002_324,Spain,Korea Republic,2002,
+2002_325,Senegal,Türkiye,2002,94
+2002_326,England,Brazil,2002,23;45;50
+2002_327,Germany,United States,2002,39
+2002_328,Japan,Türkiye,2002,12
+2002_329,Korea Republic,Italy,2002,88;117;18
+2002_330,Mexico,United States,2002,8;65
+2002_331,Brazil,Belgium,2002,67;87
+2002_332,Sweden,Senegal,2002,11;37;104
+2002_333,Spain,Republic of Ireland,2002,8
+2002_334,Germany,Paraguay,2002,88
+2002_335,Denmark,England,2002,5;22;44
+2002_336,Tunisia,Japan,2002,48;75
+2002_337,Belgium,Russia,2002,7;78;82;52;88
+2002_338,Portugal,Korea Republic,2002,70
+2002_339,Poland,United States,2002,3;5;66;83
+2002_340,Costa Rica,Brazil,2002,39;56;10;13;38;62;64
+2002_341,Türkiye,China PR,2002,6;9;85
+2002_342,Mexico,Italy,2002,34;85
+2002_343,Ecuador,Croatia,2002,48
+2002_344,Sweden,Argentina,2002,59;88
+2002_345,Nigeria,England,2002,
+2002_346,South Africa,Spain,2002,31;53;4;45;56
+2002_347,Slovenia,Paraguay,2002,45;65;73;84
+2002_348,Denmark,France,2002,22;67
+2002_349,Senegal,Uruguay,2002,20;26;38;46;69
+2002_350,Saudi Arabia,Republic of Ireland,2002,7;61;87
+2002_351,Cameroon,Germany,2002,50;79
+2002_352,Korea Republic,United States,2002,78;24
+2002_353,Tunisia,Belgium,2002,17;13
+2002_354,Portugal,Poland,2002,14;65;77;88
+2002_355,Mexico,Ecuador,2002,28;57;5
+2002_356,Costa Rica,Türkiye,2002,86;56
+2002_357,Japan,Russia,2002,51
+2002_358,South Africa,Slovenia,2002,4
+2002_359,Italy,Croatia,2002,55;73;76
+2002_360,Brazil,China PR,2002,15;32;55
+2002_361,Sweden,Nigeria,2002,35;27
+2002_362,Spain,Paraguay,2002,53;69
+2002_363,Argentina,England,2002,
+2002_364,Denmark,Senegal,2002,52
+2002_365,Cameroon,Saudi Arabia,2002,66
+2002_366,France,Uruguay,2002,
+2002_367,Russia,Tunisia,2002,59
+2002_368,United States,Portugal,2002,4;36;39
+2002_369,Germany,Republic of Ireland,2002,19;90
+2002_370,China PR,Costa Rica,2002,61;65
+2002_371,Japan,Belgium,2002,59;67;57;75
+2002_372,Korea Republic,Poland,2002,26;53
+2002_373,Croatia,Mexico,2002,
+2002_374,Brazil,Türkiye,2002,50;45
+2002_375,Italy,Ecuador,2002,7;27
+2002_376,Argentina,Nigeria,2002,63
+2002_377,Paraguay,South Africa,2002,39;55;63
+2002_378,England,Sweden,2002,24;59
+2002_379,Spain,Slovenia,2002,44;74;82
+2002_380,Republic of Ireland,Cameroon,2002,52;39
+2002_381,Uruguay,Denmark,2002,47;45;83
+2002_382,Germany,Saudi Arabia,2002,20;25;40;45;70;72;84;90
+2002_383,France,Senegal,2002,30

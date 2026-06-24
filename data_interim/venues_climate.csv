@@ -1,0 +1,40 @@
+tournament_year,stadium_name,city,country,temp_c,rh_pct
+2002,Seoul World Cup Stadium,Seoul,South Korea,24.0,75.0
+2002,Daegu World Cup Stadium,Daegu,South Korea,25.0,70.0
+2002,Suwon World Cup Stadium,Suwon,South Korea,24.0,75.0
+2002,Busan Asiad Main Stadium,Busan,South Korea,23.0,80.0
+2002,Gwangju World Cup Stadium,Gwangju,South Korea,24.0,75.0
+2002,Jeonju World Cup Stadium,Jeonju,South Korea,24.0,75.0
+2006,Olympiastadion Berlin,Berlin,Germany,18.5,68.0
+2006,Signal Iduna Park,Dortmund,Germany,18.5,68.0
+2006,Allianz Arena,Munich,Germany,18.5,68.0
+2006,Volksparkstadion Hamburg,Hamburg,Germany,18.5,68.0
+2006,Stadion Anfield,Liverpool,Germany,16.0,75.0
+2006,Stadion Friedrich-Ludwig-Jahn,Berlin,Germany,18.5,68.0
+2010,Soccer City,Johannesburg,South Africa,10.0,45.0
+2010,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,14.0,65.0
+2010,Moses Mabhida Stadium,Durban,South Africa,17.0,70.0
+2010,Green Point Stadium,Cape Town,South Africa,12.0,75.0
+2010,Mbombela Stadium,Nelspruit,South Africa,16.0,50.0
+2010,Royal Bafokeng Stadium,Sun City,South Africa,14.0,45.0
+2014,Estádio do Maracanã,Rio de Janeiro,Brazil,22.0,75.0
+2014,Arena Corinthians,São Paulo,Brazil,18.0,75.0
+2014,Arena Fonte Nova,Salvador,Brazil,24.0,80.0
+2014,Arena Pernambuco,Recife,Brazil,25.0,80.0
+2014,Arena Castelão,Fortaleza,Brazil,26.0,78.0
+2014,Estádio Mineirão,Belo Horizonte,Brazil,19.0,65.0
+2018,Luzhniki Stadium,Moscow,Russia,18.0,65.0
+2018,Kazan Arena,Kazan,Russia,18.0,65.0
+2018,Spartak Stadium,Moscow,Russia,18.0,65.0
+2018,Saint Petersburg Stadium,Saint Petersburg,Russia,18.0,65.0
+2018,Kaliningrad Stadium,Kaliningrad,Russia,18.0,65.0
+2018,Ekaterinburg Arena,Yekaterinburg,Russia,18.0,65.0
+2022,Al Bayt Stadium,Al Khor,Qatar,25.0,60.0
+2022,Al Thumama Stadium,Doha,Qatar,25.0,60.0
+2022,Al Janoub Stadium,Al Wakrah,Qatar,25.0,60.0
+2022,Education City Stadium,Al Rayyan,Qatar,25.0,60.0
+2022,Ahmad Bin Ali Stadium,Al Rayyan,Qatar,25.0,60.0
+2022,Khalifa International Stadium,Doha,Qatar,25.0,60.0
+2026,MetLife Stadium (NY/NJ),East Rutherford,USA,24.0,65.0
+2026,AT&T Stadium (Dallas),Arlington,USA,28.0,60.0
+2026,Estadio Azteca (Mexico City),Mexico City,Mexico,17.0,65.0
