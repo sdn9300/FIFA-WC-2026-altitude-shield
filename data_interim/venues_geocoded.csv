@@ -1,0 +1,40 @@
+tournament_year,stadium_name,city,country,full_address,latitude,longitude
+2002,Seoul World Cup Stadium,Seoul,South Korea,"Seoul, South Korea",37.5666791,126.9782914
+2002,Daegu World Cup Stadium,Daegu,South Korea,"Daegu, South Korea",35.8713,128.6018
+2002,Suwon World Cup Stadium,Suwon,South Korea,"Suwon, South Korea",37.2633325,127.0287472
+2002,Busan Asiad Main Stadium,Busan,South Korea,"Busan, South Korea",35.1799528,129.0752365
+2002,Gwangju World Cup Stadium,Gwangju,South Korea,"Gwangju, South Korea",35.1594647,126.8515034
+2002,Jeonju World Cup Stadium,Jeonju,South Korea,"Jeonju, South Korea",35.8237631,127.1472805
+2006,Olympiastadion Berlin,Berlin,Germany,"Berlin, Germany",52.5173885,13.3951309
+2006,Signal Iduna Park,Dortmund,Germany,"Dortmund, Germany",51.5142273,7.4652789
+2006,Allianz Arena,Munich,Germany,"Munich, Germany",48.1371079,11.5753822
+2006,Volksparkstadion Hamburg,Hamburg,Germany,"Hamburg, Germany",53.5501721,10.0013165
+2006,Stadion Anfield,Liverpool,Germany,"Liverpool, Germany",54.9348217,8.3256902
+2006,Stadion Friedrich-Ludwig-Jahn,Berlin,Germany,"Berlin, Germany",52.5173885,13.3951309
+2010,Soccer City,Johannesburg,South Africa,"Johannesburg, South Africa",-26.205,28.049722
+2010,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,"Port Elizabeth, South Africa",-33.9618598,25.6186731
+2010,Moses Mabhida Stadium,Durban,South Africa,"Durban, South Africa",-29.861825,31.009909
+2010,Green Point Stadium,Cape Town,South Africa,"Cape Town, South Africa",-33.9288301,18.4172197
+2010,Mbombela Stadium,Nelspruit,South Africa,"Nelspruit, South Africa",-25.4729094,30.9772719
+2010,Royal Bafokeng Stadium,Sun City,South Africa,"Sun City, South Africa",-25.3487816,27.0950203
+2014,Estádio do Maracanã,Rio de Janeiro,Brazil,"Rio de Janeiro, Brazil",-22.9110137,-43.2093727
+2014,Arena Corinthians,São Paulo,Brazil,"São Paulo, Brazil",-23.5506507,-46.6333824
+2014,Arena Fonte Nova,Salvador,Brazil,"Salvador, Brazil",-12.9822499,-38.4812772
+2014,Arena Pernambuco,Recife,Brazil,"Recife, Brazil",-8.0584933,-34.8848193
+2014,Arena Castelão,Fortaleza,Brazil,"Fortaleza, Brazil",-3.7932167,-38.5280359
+2014,Estádio Mineirão,Belo Horizonte,Brazil,"Belo Horizonte, Brazil",-19.9227318,-43.9450948
+2018,Luzhniki Stadium,Moscow,Russia,"Moscow, Russia",55.625578,37.6063916
+2018,Kazan Arena,Kazan,Russia,"Kazan, Russia",55.7946485,49.1115022
+2018,Spartak Stadium,Moscow,Russia,"Moscow, Russia",55.625578,37.6063916
+2018,Saint Petersburg Stadium,Saint Petersburg,Russia,"Saint Petersburg, Russia",59.9606739,30.1586551
+2018,Kaliningrad Stadium,Kaliningrad,Russia,"Kaliningrad, Russia",54.710128,20.5105838
+2018,Ekaterinburg Arena,Yekaterinburg,Russia,"Yekaterinburg, Russia",56.8382071,60.6007886
+2022,Al Bayt Stadium,Al Khor,Qatar,"Al Khor, Qatar",25.7567822,51.3269839
+2022,Al Thumama Stadium,Doha,Qatar,"Doha, Qatar",25.3108807,51.5081812
+2022,Al Janoub Stadium,Al Wakrah,Qatar,"Al Wakrah, Qatar",25.0037453,51.4103338
+2022,Education City Stadium,Al Rayyan,Qatar,"Al Rayyan, Qatar",25.0819602,51.158416
+2022,Ahmad Bin Ali Stadium,Al Rayyan,Qatar,"Al Rayyan, Qatar",25.0819602,51.158416
+2022,Khalifa International Stadium,Doha,Qatar,"Doha, Qatar",25.3108807,51.5081812
+2026,MetLife Stadium (NY/NJ),East Rutherford,USA,"East Rutherford, USA",40.833989,-74.0970865
+2026,AT&T Stadium (Dallas),Arlington,USA,"Arlington, USA",32.7355816,-97.1071186
+2026,Estadio Azteca (Mexico City),Mexico City,Mexico,"Mexico City, Mexico",19.3207722,-99.1514678

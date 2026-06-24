@@ -1,0 +1,6211 @@
+Country,wc_year,rating
+Afghanistan,1930,NA
+Albania,1930,NA
+Algeria,1930,NA
+Andorra,1930,NA
+Angola,1930,NA
+Anguilla,1930,NA
+Antigua and Barbuda,1930,NA
+Argentina,1930,NA
+Armenia,1930,NA
+Aruba,1930,NA
+Australia,1930,NA
+Austria,1930,NA
+Azerbaijan,1930,NA
+Bahamas,1930,NA
+Bahrain,1930,NA
+Bangladesh,1930,NA
+Barbados,1930,NA
+Belarus,1930,NA
+Belgium,1930,NA
+Belize,1930,NA
+Benin,1930,NA
+Bermuda,1930,NA
+Bhutan,1930,NA
+Bolivia,1930,NA
+Bonaire,1930,NA
+Bosnia and Herzegovina,1930,NA
+Botswana,1930,NA
+Brazil,1930,NA
+British Guiana,1930,NA
+British Virgin Islands,1930,NA
+Brunei,1930,NA
+Bulgaria,1930,NA
+Burkina Faso,1930,NA
+Burma,1930,NA
+Burundi,1930,NA
+Cambodia,1930,NA
+Cameroon,1930,NA
+Canada,1930,NA
+Cape Verde,1930,NA
+Cayman Islands,1930,NA
+Central African Republic,1930,NA
+Ceylon,1930,NA
+Chad,1930,NA
+Chagos Islands,1930,NA
+Chile,1930,NA
+China,1930,NA
+Christmas Island,1930,NA
+Cocos Islands,1930,NA
+Colombia,1930,NA
+Comoros,1930,NA
+Congo,1930,NA
+Congo-Brazzaville,1930,NA
+Cook Islands,1930,NA
+Costa Rica,1930,NA
+Croatia,1930,NA
+Cuba,1930,NA
+Curaçao,1930,NA
+Cyprus,1930,NA
+Czechia,1930,NA
+Czechoslovakia,1930,NA
+Dahomey,1930,NA
+Democratic Republic of Congo,1930,NA
+Denmark,1930,NA
+Djibouti,1930,NA
+Dominica,1930,NA
+Dominican Republic,1930,NA
+East Germany,1930,NA
+East Timor,1930,NA
+Eastern Samoa,1930,NA
+Ecuador,1930,NA
+Egypt,1930,NA
+El Salvador,1930,NA
+England,1930,2050
+Equatorial Guinea,1930,NA
+Eritrea,1930,NA
+Estonia,1930,NA
+Eswatini,1930,NA
+Ethiopia,1930,NA
+Falkland Islands,1930,NA
+Faroe Islands,1930,NA
+Federated States of Micronesia,1930,NA
+Fiji,1930,NA
+Finland,1930,NA
+France,1930,NA
+French Guiana,1930,NA
+Gabon,1930,NA
+Gambia,1930,NA
+Georgia,1930,NA
+Germany,1930,NA
+Ghana,1930,NA
+Gibraltar,1930,NA
+Greece,1930,NA
+Greenland,1930,NA
+Grenada,1930,NA
+Guadeloupe,1930,NA
+Guam,1930,NA
+Guatemala,1930,NA
+Guinea,1930,NA
+Guinea-Bissau,1930,NA
+Guyana,1930,NA
+Haiti,1930,NA
+Honduras,1930,NA
+Hong Kong,1930,NA
+Hungary,1930,NA
+Iceland,1930,NA
+India,1930,NA
+Indonesia,1930,NA
+Iran,1930,NA
+Iraq,1930,NA
+Ireland,1930,1325
+Israel,1930,NA
+Italy,1930,NA
+Ivory Coast,1930,NA
+Jamaica,1930,NA
+Japan,1930,NA
+Jordan,1930,NA
+Kazakhstan,1930,NA
+Kenya,1930,NA
+Khmer Republic,1930,NA
+Kiribati,1930,NA
+Kosovo,1930,NA
+Kurdistan,1930,NA
+Kuwait,1930,NA
+Kyrgyzstan,1930,NA
+Laos,1930,NA
+Latvia,1930,NA
+Lebanon,1930,NA
+Lesotho,1930,NA
+Liberia,1930,NA
+Libya,1930,NA
+Liechtenstein,1930,NA
+Lithuania,1930,NA
+Luxembourg,1930,NA
+Macao,1930,NA
+Macedonia,1930,NA
+Madagascar,1930,NA
+Malawi,1930,NA
+Malaya,1930,NA
+Malaysia,1930,NA
+Maldives,1930,NA
+Mali,1930,NA
+Malta,1930,NA
+Marshall Islands,1930,NA
+Martinique,1930,NA
+Mauritania,1930,NA
+Mauritius,1930,NA
+Mayotte,1930,NA
+Mexico,1930,NA
+Moldova,1930,NA
+Monaco,1930,NA
+Mongolia,1930,NA
+Montenegro,1930,NA
+Montserrat,1930,NA
+Morocco,1930,NA
+Mozambique,1930,NA
+Myanmar,1930,NA
+Namibia,1930,NA
+Nepal,1930,NA
+Netherlands,1930,NA
+Netherlands Antilles,1930,NA
+New Caledonia,1930,NA
+New Zealand,1930,NA
+Nicaragua,1930,NA
+Niger,1930,NA
+Nigeria,1930,NA
+Niue,1930,NA
+North Korea,1930,NA
+North Macedonia,1930,NA
+North Vietnam,1930,NA
+North Yemen,1930,NA
+Northern Cyprus,1930,NA
+Northern Ireland,1930,NA
+Northern Mariana Islands,1930,NA
+Northern Rhodesia,1930,NA
+Norway,1930,NA
+Oman,1930,NA
+Pakistan,1930,NA
+Palau,1930,NA
+Palestine,1930,NA
+Panama,1930,NA
+Papua New Guinea,1930,NA
+Paraguay,1930,NA
+Peru,1930,NA
+Philippines,1930,NA
+Poland,1930,NA
+Portugal,1930,NA
+Puerto Rico,1930,NA
+Qatar,1930,NA
+Reunion,1930,NA
+Romania,1930,NA
+Russia,1930,NA
+Rwanda,1930,NA
+Saba,1930,NA
+Saint Barthelemy,1930,NA
+Saint Kitts and Nevis,1930,NA
+Saint Lucia,1930,NA
+Saint Martin,1930,NA
+Saint Pierre and Miquelon,1930,NA
+Saint Vincent and the Grenadines,1930,NA
+Samoa,1930,NA
+San Marino,1930,NA
+Sao Tome and Principe,1930,NA
+Saudi Arabia,1930,NA
+Scotland,1930,1991
+Senegal,1930,NA
+Serbia,1930,NA
+Serbia and Montenegro,1930,NA
+Seychelles,1930,NA
+Sierra Leone,1930,NA
+Singapore,1930,NA
+Sint Eustatius,1930,NA
+Sint Maarten,1930,NA
+Slovakia,1930,NA
+Slovenia,1930,NA
+Solomon Islands,1930,NA
+Somalia,1930,NA
+Somaliland,1930,NA
+South Africa,1930,NA
+South Korea,1930,NA
+South Sudan,1930,NA
+South Vietnam,1930,NA
+South Yemen,1930,NA
+Southern Rhodesia,1930,NA
+Soviet Union,1930,NA
+Spain,1930,NA
+Sri Lanka,1930,NA
+Sudan,1930,NA
+Surinam,1930,NA
+Suriname,1930,NA
+Swaziland,1930,NA
+Sweden,1930,NA
+Switzerland,1930,NA
+Syria,1930,NA
+Tahiti,1930,NA
+Taiwan,1930,NA
+Tajikistan,1930,NA
+Tanganyika,1930,NA
+Tanzania,1930,NA
+Thailand,1930,NA
+Tibet,1930,NA
+Togo,1930,NA
+Tonga,1930,NA
+Trinidad and Tobago,1930,NA
+Tunisia,1930,NA
+Turkey,1930,NA
+Turkmenistan,1930,NA
+Turks and Caicos Islands,1930,NA
+Tuvalu,1930,NA
+Uganda,1930,NA
+Ukraine,1930,NA
+United Arab Emirates,1930,NA
+United Arab Republic,1930,NA
+United States,1930,NA
+Upper Volta,1930,NA
+Uruguay,1930,NA
+US Virgin Islands,1930,NA
+Uzbekistan,1930,NA
+Vanuatu,1930,NA
+Vatican,1930,NA
+Venezuela,1930,NA
+Vietnam,1930,NA
+Wales,1930,1439
+Wallis and Futuna,1930,NA
+West Germany,1930,NA
+Western Sahara,1930,NA
+Yemen,1930,NA
+Yugoslavia,1930,NA
+Zambia,1930,NA
+Zanzibar,1930,NA
+Zimbabwe,1930,NA
+Afghanistan,1934,NA
+Albania,1934,NA
+Algeria,1934,NA
+Andorra,1934,NA
+Angola,1934,NA
+Anguilla,1934,NA
+Antigua and Barbuda,1934,NA
+Argentina,1934,NA
+Armenia,1934,NA
+Aruba,1934,NA
+Australia,1934,NA
+Austria,1934,NA
+Azerbaijan,1934,NA
+Bahamas,1934,NA
+Bahrain,1934,NA
+Bangladesh,1934,NA
+Barbados,1934,NA
+Belarus,1934,NA
+Belgium,1934,NA
+Belize,1934,NA
+Benin,1934,NA
+Bermuda,1934,NA
+Bhutan,1934,NA
+Bolivia,1934,NA
+Bonaire,1934,NA
+Bosnia and Herzegovina,1934,NA
+Botswana,1934,NA
+Brazil,1934,NA
+British Guiana,1934,NA
+British Virgin Islands,1934,NA
+Brunei,1934,NA
+Bulgaria,1934,NA
+Burkina Faso,1934,NA
+Burma,1934,NA
+Burundi,1934,NA
+Cambodia,1934,NA
+Cameroon,1934,NA
+Canada,1934,NA
+Cape Verde,1934,NA
+Cayman Islands,1934,NA
+Central African Republic,1934,NA
+Ceylon,1934,NA
+Chad,1934,NA
+Chagos Islands,1934,NA
+Chile,1934,NA
+China,1934,NA
+Christmas Island,1934,NA
+Cocos Islands,1934,NA
+Colombia,1934,NA
+Comoros,1934,NA
+Congo,1934,NA
+Congo-Brazzaville,1934,NA
+Cook Islands,1934,NA
+Costa Rica,1934,NA
+Croatia,1934,NA
+Cuba,1934,NA
+Curaçao,1934,NA
+Cyprus,1934,NA
+Czechia,1934,NA
+Czechoslovakia,1934,NA
+Dahomey,1934,NA
+Democratic Republic of Congo,1934,NA
+Denmark,1934,NA
+Djibouti,1934,NA
+Dominica,1934,NA
+Dominican Republic,1934,NA
+East Germany,1934,NA
+East Timor,1934,NA
+Eastern Samoa,1934,NA
+Ecuador,1934,NA
+Egypt,1934,NA
+El Salvador,1934,NA
+England,1934,2050
+Equatorial Guinea,1934,NA
+Eritrea,1934,NA
+Estonia,1934,NA
+Eswatini,1934,NA
+Ethiopia,1934,NA
+Falkland Islands,1934,NA
+Faroe Islands,1934,NA
+Federated States of Micronesia,1934,NA
+Fiji,1934,NA
+Finland,1934,NA
+France,1934,NA
+French Guiana,1934,NA
+Gabon,1934,NA
+Gambia,1934,NA
+Georgia,1934,NA
+Germany,1934,NA
+Ghana,1934,NA
+Gibraltar,1934,NA
+Greece,1934,NA
+Greenland,1934,NA
+Grenada,1934,NA
+Guadeloupe,1934,NA
+Guam,1934,NA
+Guatemala,1934,NA
+Guinea,1934,NA
+Guinea-Bissau,1934,NA
+Guyana,1934,NA
+Haiti,1934,NA
+Honduras,1934,NA
+Hong Kong,1934,NA
+Hungary,1934,NA
+Iceland,1934,NA
+India,1934,NA
+Indonesia,1934,NA
+Iran,1934,NA
+Iraq,1934,NA
+Ireland,1934,1325
+Israel,1934,NA
+Italy,1934,NA
+Ivory Coast,1934,NA
+Jamaica,1934,NA
+Japan,1934,NA
+Jordan,1934,NA
+Kazakhstan,1934,NA
+Kenya,1934,NA
+Khmer Republic,1934,NA
+Kiribati,1934,NA
+Kosovo,1934,NA
+Kurdistan,1934,NA
+Kuwait,1934,NA
+Kyrgyzstan,1934,NA
+Laos,1934,NA
+Latvia,1934,NA
+Lebanon,1934,NA
+Lesotho,1934,NA
+Liberia,1934,NA
+Libya,1934,NA
+Liechtenstein,1934,NA
+Lithuania,1934,NA
+Luxembourg,1934,NA
+Macao,1934,NA
+Macedonia,1934,NA
+Madagascar,1934,NA
+Malawi,1934,NA
+Malaya,1934,NA
+Malaysia,1934,NA
+Maldives,1934,NA
+Mali,1934,NA
+Malta,1934,NA
+Marshall Islands,1934,NA
+Martinique,1934,NA
+Mauritania,1934,NA
+Mauritius,1934,NA
+Mayotte,1934,NA
+Mexico,1934,NA
+Moldova,1934,NA
+Monaco,1934,NA
+Mongolia,1934,NA
+Montenegro,1934,NA
+Montserrat,1934,NA
+Morocco,1934,NA
+Mozambique,1934,NA
+Myanmar,1934,NA
+Namibia,1934,NA
+Nepal,1934,NA
+Netherlands,1934,NA
+Netherlands Antilles,1934,NA
+New Caledonia,1934,NA
+New Zealand,1934,NA
+Nicaragua,1934,NA
+Niger,1934,NA
+Nigeria,1934,NA
+Niue,1934,NA
+North Korea,1934,NA
+North Macedonia,1934,NA
+North Vietnam,1934,NA
+North Yemen,1934,NA
+Northern Cyprus,1934,NA
+Northern Ireland,1934,NA
+Northern Mariana Islands,1934,NA
+Northern Rhodesia,1934,NA
+Norway,1934,NA
+Oman,1934,NA
+Pakistan,1934,NA
+Palau,1934,NA
+Palestine,1934,NA
+Panama,1934,NA
+Papua New Guinea,1934,NA
+Paraguay,1934,NA
+Peru,1934,NA
+Philippines,1934,NA
+Poland,1934,NA
+Portugal,1934,NA
+Puerto Rico,1934,NA
+Qatar,1934,NA
+Reunion,1934,NA
+Romania,1934,NA
+Russia,1934,NA
+Rwanda,1934,NA
+Saba,1934,NA
+Saint Barthelemy,1934,NA
+Saint Kitts and Nevis,1934,NA
+Saint Lucia,1934,NA
+Saint Martin,1934,NA
+Saint Pierre and Miquelon,1934,NA
+Saint Vincent and the Grenadines,1934,NA
+Samoa,1934,NA
+San Marino,1934,NA
+Sao Tome and Principe,1934,NA
+Saudi Arabia,1934,NA
+Scotland,1934,1991
+Senegal,1934,NA
+Serbia,1934,NA
+Serbia and Montenegro,1934,NA
+Seychelles,1934,NA
+Sierra Leone,1934,NA
+Singapore,1934,NA
+Sint Eustatius,1934,NA
+Sint Maarten,1934,NA
+Slovakia,1934,NA
+Slovenia,1934,NA
+Solomon Islands,1934,NA
+Somalia,1934,NA
+Somaliland,1934,NA
+South Africa,1934,NA
+South Korea,1934,NA
+South Sudan,1934,NA
+South Vietnam,1934,NA
+South Yemen,1934,NA
+Southern Rhodesia,1934,NA
+Soviet Union,1934,NA
+Spain,1934,NA
+Sri Lanka,1934,NA
+Sudan,1934,NA
+Surinam,1934,NA
+Suriname,1934,NA
+Swaziland,1934,NA
+Sweden,1934,NA
+Switzerland,1934,NA
+Syria,1934,NA
+Tahiti,1934,NA
+Taiwan,1934,NA
+Tajikistan,1934,NA
+Tanganyika,1934,NA
+Tanzania,1934,NA
+Thailand,1934,NA
+Tibet,1934,NA
+Togo,1934,NA
+Tonga,1934,NA
+Trinidad and Tobago,1934,NA
+Tunisia,1934,NA
+Turkey,1934,NA
+Turkmenistan,1934,NA
+Turks and Caicos Islands,1934,NA
+Tuvalu,1934,NA
+Uganda,1934,NA
+Ukraine,1934,NA
+United Arab Emirates,1934,NA
+United Arab Republic,1934,NA
+United States,1934,NA
+Upper Volta,1934,NA
+Uruguay,1934,NA
+US Virgin Islands,1934,NA
+Uzbekistan,1934,NA
+Vanuatu,1934,NA
+Vatican,1934,NA
+Venezuela,1934,NA
+Vietnam,1934,NA
+Wales,1934,1439
+Wallis and Futuna,1934,NA
+West Germany,1934,NA
+Western Sahara,1934,NA
+Yemen,1934,NA
+Yugoslavia,1934,NA
+Zambia,1934,NA
+Zanzibar,1934,NA
+Zimbabwe,1934,NA
+Afghanistan,1938,NA
+Albania,1938,NA
+Algeria,1938,NA
+Andorra,1938,NA
+Angola,1938,NA
+Anguilla,1938,NA
+Antigua and Barbuda,1938,NA
+Argentina,1938,NA
+Armenia,1938,NA
+Aruba,1938,NA
+Australia,1938,NA
+Austria,1938,NA
+Azerbaijan,1938,NA
+Bahamas,1938,NA
+Bahrain,1938,NA
+Bangladesh,1938,NA
+Barbados,1938,NA
+Belarus,1938,NA
+Belgium,1938,NA
+Belize,1938,NA
+Benin,1938,NA
+Bermuda,1938,NA
+Bhutan,1938,NA
+Bolivia,1938,NA
+Bonaire,1938,NA
+Bosnia and Herzegovina,1938,NA
+Botswana,1938,NA
+Brazil,1938,NA
+British Guiana,1938,NA
+British Virgin Islands,1938,NA
+Brunei,1938,NA
+Bulgaria,1938,NA
+Burkina Faso,1938,NA
+Burma,1938,NA
+Burundi,1938,NA
+Cambodia,1938,NA
+Cameroon,1938,NA
+Canada,1938,NA
+Cape Verde,1938,NA
+Cayman Islands,1938,NA
+Central African Republic,1938,NA
+Ceylon,1938,NA
+Chad,1938,NA
+Chagos Islands,1938,NA
+Chile,1938,NA
+China,1938,NA
+Christmas Island,1938,NA
+Cocos Islands,1938,NA
+Colombia,1938,NA
+Comoros,1938,NA
+Congo,1938,NA
+Congo-Brazzaville,1938,NA
+Cook Islands,1938,NA
+Costa Rica,1938,NA
+Croatia,1938,NA
+Cuba,1938,NA
+Curaçao,1938,NA
+Cyprus,1938,NA
+Czechia,1938,NA
+Czechoslovakia,1938,NA
+Dahomey,1938,NA
+Democratic Republic of Congo,1938,NA
+Denmark,1938,NA
+Djibouti,1938,NA
+Dominica,1938,NA
+Dominican Republic,1938,NA
+East Germany,1938,NA
+East Timor,1938,NA
+Eastern Samoa,1938,NA
+Ecuador,1938,NA
+Egypt,1938,NA
+El Salvador,1938,NA
+England,1938,2050
+Equatorial Guinea,1938,NA
+Eritrea,1938,NA
+Estonia,1938,NA
+Eswatini,1938,NA
+Ethiopia,1938,NA
+Falkland Islands,1938,NA
+Faroe Islands,1938,NA
+Federated States of Micronesia,1938,NA
+Fiji,1938,NA
+Finland,1938,NA
+France,1938,NA
+French Guiana,1938,NA
+Gabon,1938,NA
+Gambia,1938,NA
+Georgia,1938,NA
+Germany,1938,NA
+Ghana,1938,NA
+Gibraltar,1938,NA
+Greece,1938,NA
+Greenland,1938,NA
+Grenada,1938,NA
+Guadeloupe,1938,NA
+Guam,1938,NA
+Guatemala,1938,NA
+Guinea,1938,NA
+Guinea-Bissau,1938,NA
+Guyana,1938,NA
+Haiti,1938,NA
+Honduras,1938,NA
+Hong Kong,1938,NA
+Hungary,1938,NA
+Iceland,1938,NA
+India,1938,NA
+Indonesia,1938,NA
+Iran,1938,NA
+Iraq,1938,NA
+Ireland,1938,1325
+Israel,1938,NA
+Italy,1938,NA
+Ivory Coast,1938,NA
+Jamaica,1938,NA
+Japan,1938,NA
+Jordan,1938,NA
+Kazakhstan,1938,NA
+Kenya,1938,NA
+Khmer Republic,1938,NA
+Kiribati,1938,NA
+Kosovo,1938,NA
+Kurdistan,1938,NA
+Kuwait,1938,NA
+Kyrgyzstan,1938,NA
+Laos,1938,NA
+Latvia,1938,NA
+Lebanon,1938,NA
+Lesotho,1938,NA
+Liberia,1938,NA
+Libya,1938,NA
+Liechtenstein,1938,NA
+Lithuania,1938,NA
+Luxembourg,1938,NA
+Macao,1938,NA
+Macedonia,1938,NA
+Madagascar,1938,NA
+Malawi,1938,NA
+Malaya,1938,NA
+Malaysia,1938,NA
+Maldives,1938,NA
+Mali,1938,NA
+Malta,1938,NA
+Marshall Islands,1938,NA
+Martinique,1938,NA
+Mauritania,1938,NA
+Mauritius,1938,NA
+Mayotte,1938,NA
+Mexico,1938,NA
+Moldova,1938,NA
+Monaco,1938,NA
+Mongolia,1938,NA
+Montenegro,1938,NA
+Montserrat,1938,NA
+Morocco,1938,NA
+Mozambique,1938,NA
+Myanmar,1938,NA
+Namibia,1938,NA
+Nepal,1938,NA
+Netherlands,1938,NA
+Netherlands Antilles,1938,NA
+New Caledonia,1938,NA
+New Zealand,1938,NA
+Nicaragua,1938,NA
+Niger,1938,NA
+Nigeria,1938,NA
+Niue,1938,NA
+North Korea,1938,NA
+North Macedonia,1938,NA
+North Vietnam,1938,NA
+North Yemen,1938,NA
+Northern Cyprus,1938,NA
+Northern Ireland,1938,NA
+Northern Mariana Islands,1938,NA
+Northern Rhodesia,1938,NA
+Norway,1938,NA
+Oman,1938,NA
+Pakistan,1938,NA
+Palau,1938,NA
+Palestine,1938,NA
+Panama,1938,NA
+Papua New Guinea,1938,NA
+Paraguay,1938,NA
+Peru,1938,NA
+Philippines,1938,NA
+Poland,1938,NA
+Portugal,1938,NA
+Puerto Rico,1938,NA
+Qatar,1938,NA
+Reunion,1938,NA
+Romania,1938,NA
+Russia,1938,NA
+Rwanda,1938,NA
+Saba,1938,NA
+Saint Barthelemy,1938,NA
+Saint Kitts and Nevis,1938,NA
+Saint Lucia,1938,NA
+Saint Martin,1938,NA
+Saint Pierre and Miquelon,1938,NA
+Saint Vincent and the Grenadines,1938,NA
+Samoa,1938,NA
+San Marino,1938,NA
+Sao Tome and Principe,1938,NA
+Saudi Arabia,1938,NA
+Scotland,1938,1991
+Senegal,1938,NA
+Serbia,1938,NA
+Serbia and Montenegro,1938,NA
+Seychelles,1938,NA
+Sierra Leone,1938,NA
+Singapore,1938,NA
+Sint Eustatius,1938,NA
+Sint Maarten,1938,NA
+Slovakia,1938,NA
+Slovenia,1938,NA
+Solomon Islands,1938,NA
+Somalia,1938,NA
+Somaliland,1938,NA
+South Africa,1938,NA
+South Korea,1938,NA
+South Sudan,1938,NA
+South Vietnam,1938,NA
+South Yemen,1938,NA
+Southern Rhodesia,1938,NA
+Soviet Union,1938,NA
+Spain,1938,NA
+Sri Lanka,1938,NA
+Sudan,1938,NA
+Surinam,1938,NA
+Suriname,1938,NA
+Swaziland,1938,NA
+Sweden,1938,NA
+Switzerland,1938,NA
+Syria,1938,NA
+Tahiti,1938,NA
+Taiwan,1938,NA
+Tajikistan,1938,NA
+Tanganyika,1938,NA
+Tanzania,1938,NA
+Thailand,1938,NA
+Tibet,1938,NA
+Togo,1938,NA
+Tonga,1938,NA
+Trinidad and Tobago,1938,NA
+Tunisia,1938,NA
+Turkey,1938,NA
+Turkmenistan,1938,NA
+Turks and Caicos Islands,1938,NA
+Tuvalu,1938,NA
+Uganda,1938,NA
+Ukraine,1938,NA
+United Arab Emirates,1938,NA
+United Arab Republic,1938,NA
+United States,1938,NA
+Upper Volta,1938,NA
+Uruguay,1938,NA
+US Virgin Islands,1938,NA
+Uzbekistan,1938,NA
+Vanuatu,1938,NA
+Vatican,1938,NA
+Venezuela,1938,NA
+Vietnam,1938,NA
+Wales,1938,1439
+Wallis and Futuna,1938,NA
+West Germany,1938,NA
+Western Sahara,1938,NA
+Yemen,1938,NA
+Yugoslavia,1938,NA
+Zambia,1938,NA
+Zanzibar,1938,NA
+Zimbabwe,1938,NA
+Afghanistan,1950,NA
+Albania,1950,NA
+Algeria,1950,NA
+Andorra,1950,NA
+Angola,1950,NA
+Anguilla,1950,NA
+Antigua and Barbuda,1950,NA
+Argentina,1950,NA
+Armenia,1950,NA
+Aruba,1950,NA
+Australia,1950,NA
+Austria,1950,NA
+Azerbaijan,1950,NA
+Bahamas,1950,NA
+Bahrain,1950,NA
+Bangladesh,1950,NA
+Barbados,1950,NA
+Belarus,1950,NA
+Belgium,1950,NA
+Belize,1950,NA
+Benin,1950,NA
+Bermuda,1950,NA
+Bhutan,1950,NA
+Bolivia,1950,NA
+Bonaire,1950,NA
+Bosnia and Herzegovina,1950,NA
+Botswana,1950,NA
+Brazil,1950,NA
+British Guiana,1950,NA
+British Virgin Islands,1950,NA
+Brunei,1950,NA
+Bulgaria,1950,NA
+Burkina Faso,1950,NA
+Burma,1950,NA
+Burundi,1950,NA
+Cambodia,1950,NA
+Cameroon,1950,NA
+Canada,1950,NA
+Cape Verde,1950,NA
+Cayman Islands,1950,NA
+Central African Republic,1950,NA
+Ceylon,1950,NA
+Chad,1950,NA
+Chagos Islands,1950,NA
+Chile,1950,NA
+China,1950,NA
+Christmas Island,1950,NA
+Cocos Islands,1950,NA
+Colombia,1950,NA
+Comoros,1950,NA
+Congo,1950,NA
+Congo-Brazzaville,1950,NA
+Cook Islands,1950,NA
+Costa Rica,1950,NA
+Croatia,1950,NA
+Cuba,1950,NA
+Curaçao,1950,NA
+Cyprus,1950,NA
+Czechia,1950,NA
+Czechoslovakia,1950,NA
+Dahomey,1950,NA
+Democratic Republic of Congo,1950,NA
+Denmark,1950,NA
+Djibouti,1950,NA
+Dominica,1950,NA
+Dominican Republic,1950,NA
+East Germany,1950,NA
+East Timor,1950,NA
+Eastern Samoa,1950,NA
+Ecuador,1950,NA
+Egypt,1950,NA
+El Salvador,1950,NA
+England,1950,2050
+Equatorial Guinea,1950,NA
+Eritrea,1950,NA
+Estonia,1950,NA
+Eswatini,1950,NA
+Ethiopia,1950,NA
+Falkland Islands,1950,NA
+Faroe Islands,1950,NA
+Federated States of Micronesia,1950,NA
+Fiji,1950,NA
+Finland,1950,NA
+France,1950,NA
+French Guiana,1950,NA
+Gabon,1950,NA
+Gambia,1950,NA
+Georgia,1950,NA
+Germany,1950,NA
+Ghana,1950,NA
+Gibraltar,1950,NA
+Greece,1950,NA
+Greenland,1950,NA
+Grenada,1950,NA
+Guadeloupe,1950,NA
+Guam,1950,NA
+Guatemala,1950,NA
+Guinea,1950,NA
+Guinea-Bissau,1950,NA
+Guyana,1950,NA
+Haiti,1950,NA
+Honduras,1950,NA
+Hong Kong,1950,NA
+Hungary,1950,NA
+Iceland,1950,NA
+India,1950,NA
+Indonesia,1950,NA
+Iran,1950,NA
+Iraq,1950,NA
+Ireland,1950,1325
+Israel,1950,NA
+Italy,1950,NA
+Ivory Coast,1950,NA
+Jamaica,1950,NA
+Japan,1950,NA
+Jordan,1950,NA
+Kazakhstan,1950,NA
+Kenya,1950,NA
+Khmer Republic,1950,NA
+Kiribati,1950,NA
+Kosovo,1950,NA
+Kurdistan,1950,NA
+Kuwait,1950,NA
+Kyrgyzstan,1950,NA
+Laos,1950,NA
+Latvia,1950,NA
+Lebanon,1950,NA
+Lesotho,1950,NA
+Liberia,1950,NA
+Libya,1950,NA
+Liechtenstein,1950,NA
+Lithuania,1950,NA
+Luxembourg,1950,NA
+Macao,1950,NA
+Macedonia,1950,NA
+Madagascar,1950,NA
+Malawi,1950,NA
+Malaya,1950,NA
+Malaysia,1950,NA
+Maldives,1950,NA
+Mali,1950,NA
+Malta,1950,NA
+Marshall Islands,1950,NA
+Martinique,1950,NA
+Mauritania,1950,NA
+Mauritius,1950,NA
+Mayotte,1950,NA
+Mexico,1950,NA
+Moldova,1950,NA
+Monaco,1950,NA
+Mongolia,1950,NA
+Montenegro,1950,NA
+Montserrat,1950,NA
+Morocco,1950,NA
+Mozambique,1950,NA
+Myanmar,1950,NA
+Namibia,1950,NA
+Nepal,1950,NA
+Netherlands,1950,NA
+Netherlands Antilles,1950,NA
+New Caledonia,1950,NA
+New Zealand,1950,NA
+Nicaragua,1950,NA
+Niger,1950,NA
+Nigeria,1950,NA
+Niue,1950,NA
+North Korea,1950,NA
+North Macedonia,1950,NA
+North Vietnam,1950,NA
+North Yemen,1950,NA
+Northern Cyprus,1950,NA
+Northern Ireland,1950,NA
+Northern Mariana Islands,1950,NA
+Northern Rhodesia,1950,NA
+Norway,1950,NA
+Oman,1950,NA
+Pakistan,1950,NA
+Palau,1950,NA
+Palestine,1950,NA
+Panama,1950,NA
+Papua New Guinea,1950,NA
+Paraguay,1950,NA
+Peru,1950,NA
+Philippines,1950,NA
+Poland,1950,NA
+Portugal,1950,NA
+Puerto Rico,1950,NA
+Qatar,1950,NA
+Reunion,1950,NA
+Romania,1950,NA
+Russia,1950,NA
+Rwanda,1950,NA
+Saba,1950,NA
+Saint Barthelemy,1950,NA
+Saint Kitts and Nevis,1950,NA
+Saint Lucia,1950,NA
+Saint Martin,1950,NA
+Saint Pierre and Miquelon,1950,NA
+Saint Vincent and the Grenadines,1950,NA
+Samoa,1950,NA
+San Marino,1950,NA
+Sao Tome and Principe,1950,NA
+Saudi Arabia,1950,NA
+Scotland,1950,1991
+Senegal,1950,NA
+Serbia,1950,NA
+Serbia and Montenegro,1950,NA
+Seychelles,1950,NA
+Sierra Leone,1950,NA
+Singapore,1950,NA
+Sint Eustatius,1950,NA
+Sint Maarten,1950,NA
+Slovakia,1950,NA
+Slovenia,1950,NA
+Solomon Islands,1950,NA
+Somalia,1950,NA
+Somaliland,1950,NA
+South Africa,1950,NA
+South Korea,1950,NA
+South Sudan,1950,NA
+South Vietnam,1950,NA
+South Yemen,1950,NA
+Southern Rhodesia,1950,NA
+Soviet Union,1950,NA
+Spain,1950,NA
+Sri Lanka,1950,NA
+Sudan,1950,NA
+Surinam,1950,NA
+Suriname,1950,NA
+Swaziland,1950,NA
+Sweden,1950,NA
+Switzerland,1950,NA
+Syria,1950,NA
+Tahiti,1950,NA
+Taiwan,1950,NA
+Tajikistan,1950,NA
+Tanganyika,1950,NA
+Tanzania,1950,NA
+Thailand,1950,NA
+Tibet,1950,NA
+Togo,1950,NA
+Tonga,1950,NA
+Trinidad and Tobago,1950,NA
+Tunisia,1950,NA
+Turkey,1950,NA
+Turkmenistan,1950,NA
+Turks and Caicos Islands,1950,NA
+Tuvalu,1950,NA
+Uganda,1950,NA
+Ukraine,1950,NA
+United Arab Emirates,1950,NA
+United Arab Republic,1950,NA
+United States,1950,NA
+Upper Volta,1950,NA
+Uruguay,1950,NA
+US Virgin Islands,1950,NA
+Uzbekistan,1950,NA
+Vanuatu,1950,NA
+Vatican,1950,NA
+Venezuela,1950,NA
+Vietnam,1950,NA
+Wales,1950,1439
+Wallis and Futuna,1950,NA
+West Germany,1950,NA
+Western Sahara,1950,NA
+Yemen,1950,NA
+Yugoslavia,1950,NA
+Zambia,1950,NA
+Zanzibar,1950,NA
+Zimbabwe,1950,NA
+Afghanistan,1954,NA
+Albania,1954,NA
+Algeria,1954,NA
+Andorra,1954,NA
+Angola,1954,NA
+Anguilla,1954,NA
+Antigua and Barbuda,1954,NA
+Argentina,1954,NA
+Armenia,1954,NA
+Aruba,1954,NA
+Australia,1954,NA
+Austria,1954,NA
+Azerbaijan,1954,NA
+Bahamas,1954,NA
+Bahrain,1954,NA
+Bangladesh,1954,NA
+Barbados,1954,NA
+Belarus,1954,NA
+Belgium,1954,NA
+Belize,1954,NA
+Benin,1954,NA
+Bermuda,1954,NA
+Bhutan,1954,NA
+Bolivia,1954,NA
+Bonaire,1954,NA
+Bosnia and Herzegovina,1954,NA
+Botswana,1954,NA
+Brazil,1954,NA
+British Guiana,1954,NA
+British Virgin Islands,1954,NA
+Brunei,1954,NA
+Bulgaria,1954,NA
+Burkina Faso,1954,NA
+Burma,1954,NA
+Burundi,1954,NA
+Cambodia,1954,NA
+Cameroon,1954,NA
+Canada,1954,NA
+Cape Verde,1954,NA
+Cayman Islands,1954,NA
+Central African Republic,1954,NA
+Ceylon,1954,NA
+Chad,1954,NA
+Chagos Islands,1954,NA
+Chile,1954,NA
+China,1954,NA
+Christmas Island,1954,NA
+Cocos Islands,1954,NA
+Colombia,1954,NA
+Comoros,1954,NA
+Congo,1954,NA
+Congo-Brazzaville,1954,NA
+Cook Islands,1954,NA
+Costa Rica,1954,NA
+Croatia,1954,NA
+Cuba,1954,NA
+Curaçao,1954,NA
+Cyprus,1954,NA
+Czechia,1954,NA
+Czechoslovakia,1954,NA
+Dahomey,1954,NA
+Democratic Republic of Congo,1954,NA
+Denmark,1954,NA
+Djibouti,1954,NA
+Dominica,1954,NA
+Dominican Republic,1954,NA
+East Germany,1954,NA
+East Timor,1954,NA
+Eastern Samoa,1954,NA
+Ecuador,1954,NA
+Egypt,1954,NA
+El Salvador,1954,NA
+England,1954,2050
+Equatorial Guinea,1954,NA
+Eritrea,1954,NA
+Estonia,1954,NA
+Eswatini,1954,NA
+Ethiopia,1954,NA
+Falkland Islands,1954,NA
+Faroe Islands,1954,NA
+Federated States of Micronesia,1954,NA
+Fiji,1954,NA
+Finland,1954,NA
+France,1954,NA
+French Guiana,1954,NA
+Gabon,1954,NA
+Gambia,1954,NA
+Georgia,1954,NA
+Germany,1954,NA
+Ghana,1954,NA
+Gibraltar,1954,NA
+Greece,1954,NA
+Greenland,1954,NA
+Grenada,1954,NA
+Guadeloupe,1954,NA
+Guam,1954,NA
+Guatemala,1954,NA
+Guinea,1954,NA
+Guinea-Bissau,1954,NA
+Guyana,1954,NA
+Haiti,1954,NA
+Honduras,1954,NA
+Hong Kong,1954,NA
+Hungary,1954,NA
+Iceland,1954,NA
+India,1954,NA
+Indonesia,1954,NA
+Iran,1954,NA
+Iraq,1954,NA
+Ireland,1954,1325
+Israel,1954,NA
+Italy,1954,NA
+Ivory Coast,1954,NA
+Jamaica,1954,NA
+Japan,1954,NA
+Jordan,1954,NA
+Kazakhstan,1954,NA
+Kenya,1954,NA
+Khmer Republic,1954,NA
+Kiribati,1954,NA
+Kosovo,1954,NA
+Kurdistan,1954,NA
+Kuwait,1954,NA
+Kyrgyzstan,1954,NA
+Laos,1954,NA
+Latvia,1954,NA
+Lebanon,1954,NA
+Lesotho,1954,NA
+Liberia,1954,NA
+Libya,1954,NA
+Liechtenstein,1954,NA
+Lithuania,1954,NA
+Luxembourg,1954,NA
+Macao,1954,NA
+Macedonia,1954,NA
+Madagascar,1954,NA
+Malawi,1954,NA
+Malaya,1954,NA
+Malaysia,1954,NA
+Maldives,1954,NA
+Mali,1954,NA
+Malta,1954,NA
+Marshall Islands,1954,NA
+Martinique,1954,NA
+Mauritania,1954,NA
+Mauritius,1954,NA
+Mayotte,1954,NA
+Mexico,1954,NA
+Moldova,1954,NA
+Monaco,1954,NA
+Mongolia,1954,NA
+Montenegro,1954,NA
+Montserrat,1954,NA
+Morocco,1954,NA
+Mozambique,1954,NA
+Myanmar,1954,NA
+Namibia,1954,NA
+Nepal,1954,NA
+Netherlands,1954,NA
+Netherlands Antilles,1954,NA
+New Caledonia,1954,NA
+New Zealand,1954,NA
+Nicaragua,1954,NA
+Niger,1954,NA
+Nigeria,1954,NA
+Niue,1954,NA
+North Korea,1954,NA
+North Macedonia,1954,NA
+North Vietnam,1954,NA
+North Yemen,1954,NA
+Northern Cyprus,1954,NA
+Northern Ireland,1954,NA
+Northern Mariana Islands,1954,NA
+Northern Rhodesia,1954,NA
+Norway,1954,NA
+Oman,1954,NA
+Pakistan,1954,NA
+Palau,1954,NA
+Palestine,1954,NA
+Panama,1954,NA
+Papua New Guinea,1954,NA
+Paraguay,1954,NA
+Peru,1954,NA
+Philippines,1954,NA
+Poland,1954,NA
+Portugal,1954,NA
+Puerto Rico,1954,NA
+Qatar,1954,NA
+Reunion,1954,NA
+Romania,1954,NA
+Russia,1954,NA
+Rwanda,1954,NA
+Saba,1954,NA
+Saint Barthelemy,1954,NA
+Saint Kitts and Nevis,1954,NA
+Saint Lucia,1954,NA
+Saint Martin,1954,NA
+Saint Pierre and Miquelon,1954,NA
+Saint Vincent and the Grenadines,1954,NA
+Samoa,1954,NA
+San Marino,1954,NA
+Sao Tome and Principe,1954,NA
+Saudi Arabia,1954,NA
+Scotland,1954,1991
+Senegal,1954,NA
+Serbia,1954,NA
+Serbia and Montenegro,1954,NA
+Seychelles,1954,NA
+Sierra Leone,1954,NA
+Singapore,1954,NA
+Sint Eustatius,1954,NA
+Sint Maarten,1954,NA
+Slovakia,1954,NA
+Slovenia,1954,NA
+Solomon Islands,1954,NA
+Somalia,1954,NA
+Somaliland,1954,NA
+South Africa,1954,NA
+South Korea,1954,NA
+South Sudan,1954,NA
+South Vietnam,1954,NA
+South Yemen,1954,NA
+Southern Rhodesia,1954,NA
+Soviet Union,1954,NA
+Spain,1954,NA
+Sri Lanka,1954,NA
+Sudan,1954,NA
+Surinam,1954,NA
+Suriname,1954,NA
+Swaziland,1954,NA
+Sweden,1954,NA
+Switzerland,1954,NA
+Syria,1954,NA
+Tahiti,1954,NA
+Taiwan,1954,NA
+Tajikistan,1954,NA
+Tanganyika,1954,NA
+Tanzania,1954,NA
+Thailand,1954,NA
+Tibet,1954,NA
+Togo,1954,NA
+Tonga,1954,NA
+Trinidad and Tobago,1954,NA
+Tunisia,1954,NA
+Turkey,1954,NA
+Turkmenistan,1954,NA
+Turks and Caicos Islands,1954,NA
+Tuvalu,1954,NA
+Uganda,1954,NA
+Ukraine,1954,NA
+United Arab Emirates,1954,NA
+United Arab Republic,1954,NA
+United States,1954,NA
+Upper Volta,1954,NA
+Uruguay,1954,NA
+US Virgin Islands,1954,NA
+Uzbekistan,1954,NA
+Vanuatu,1954,NA
+Vatican,1954,NA
+Venezuela,1954,NA
+Vietnam,1954,NA
+Wales,1954,1439
+Wallis and Futuna,1954,NA
+West Germany,1954,NA
+Western Sahara,1954,NA
+Yemen,1954,NA
+Yugoslavia,1954,NA
+Zambia,1954,NA
+Zanzibar,1954,NA
+Zimbabwe,1954,NA
+Afghanistan,1958,NA
+Albania,1958,NA
+Algeria,1958,NA
+Andorra,1958,NA
+Angola,1958,NA
+Anguilla,1958,NA
+Antigua and Barbuda,1958,NA
+Argentina,1958,NA
+Armenia,1958,NA
+Aruba,1958,NA
+Australia,1958,NA
+Austria,1958,NA
+Azerbaijan,1958,NA
+Bahamas,1958,NA
+Bahrain,1958,NA
+Bangladesh,1958,NA
+Barbados,1958,NA
+Belarus,1958,NA
+Belgium,1958,NA
+Belize,1958,NA
+Benin,1958,NA
+Bermuda,1958,NA
+Bhutan,1958,NA
+Bolivia,1958,NA
+Bonaire,1958,NA
+Bosnia and Herzegovina,1958,NA
+Botswana,1958,NA
+Brazil,1958,NA
+British Guiana,1958,NA
+British Virgin Islands,1958,NA
+Brunei,1958,NA
+Bulgaria,1958,NA
+Burkina Faso,1958,NA
+Burma,1958,NA
+Burundi,1958,NA
+Cambodia,1958,NA
+Cameroon,1958,NA
+Canada,1958,NA
+Cape Verde,1958,NA
+Cayman Islands,1958,NA
+Central African Republic,1958,NA
+Ceylon,1958,NA
+Chad,1958,NA
+Chagos Islands,1958,NA
+Chile,1958,NA
+China,1958,NA
+Christmas Island,1958,NA
+Cocos Islands,1958,NA
+Colombia,1958,NA
+Comoros,1958,NA
+Congo,1958,NA
+Congo-Brazzaville,1958,NA
+Cook Islands,1958,NA
+Costa Rica,1958,NA
+Croatia,1958,NA
+Cuba,1958,NA
+Curaçao,1958,NA
+Cyprus,1958,NA
+Czechia,1958,NA
+Czechoslovakia,1958,NA
+Dahomey,1958,NA
+Democratic Republic of Congo,1958,NA
+Denmark,1958,NA
+Djibouti,1958,NA
+Dominica,1958,NA
+Dominican Republic,1958,NA
+East Germany,1958,NA
+East Timor,1958,NA
+Eastern Samoa,1958,NA
+Ecuador,1958,NA
+Egypt,1958,NA
+El Salvador,1958,NA
+England,1958,2050
+Equatorial Guinea,1958,NA
+Eritrea,1958,NA
+Estonia,1958,NA
+Eswatini,1958,NA
+Ethiopia,1958,NA
+Falkland Islands,1958,NA
+Faroe Islands,1958,NA
+Federated States of Micronesia,1958,NA
+Fiji,1958,NA
+Finland,1958,NA
+France,1958,NA
+French Guiana,1958,NA
+Gabon,1958,NA
+Gambia,1958,NA
+Georgia,1958,NA
+Germany,1958,NA
+Ghana,1958,NA
+Gibraltar,1958,NA
+Greece,1958,NA
+Greenland,1958,NA
+Grenada,1958,NA
+Guadeloupe,1958,NA
+Guam,1958,NA
+Guatemala,1958,NA
+Guinea,1958,NA
+Guinea-Bissau,1958,NA
+Guyana,1958,NA
+Haiti,1958,NA
+Honduras,1958,NA
+Hong Kong,1958,NA
+Hungary,1958,NA
+Iceland,1958,NA
+India,1958,NA
+Indonesia,1958,NA
+Iran,1958,NA
+Iraq,1958,NA
+Ireland,1958,1325
+Israel,1958,NA
+Italy,1958,NA
+Ivory Coast,1958,NA
+Jamaica,1958,NA
+Japan,1958,NA
+Jordan,1958,NA
+Kazakhstan,1958,NA
+Kenya,1958,NA
+Khmer Republic,1958,NA
+Kiribati,1958,NA
+Kosovo,1958,NA
+Kurdistan,1958,NA
+Kuwait,1958,NA
+Kyrgyzstan,1958,NA
+Laos,1958,NA
+Latvia,1958,NA
+Lebanon,1958,NA
+Lesotho,1958,NA
+Liberia,1958,NA
+Libya,1958,NA
+Liechtenstein,1958,NA
+Lithuania,1958,NA
+Luxembourg,1958,NA
+Macao,1958,NA
+Macedonia,1958,NA
+Madagascar,1958,NA
+Malawi,1958,NA
+Malaya,1958,NA
+Malaysia,1958,NA
+Maldives,1958,NA
+Mali,1958,NA
+Malta,1958,NA
+Marshall Islands,1958,NA
+Martinique,1958,NA
+Mauritania,1958,NA
+Mauritius,1958,NA
+Mayotte,1958,NA
+Mexico,1958,NA
+Moldova,1958,NA
+Monaco,1958,NA
+Mongolia,1958,NA
+Montenegro,1958,NA
+Montserrat,1958,NA
+Morocco,1958,NA
+Mozambique,1958,NA
+Myanmar,1958,NA
+Namibia,1958,NA
+Nepal,1958,NA
+Netherlands,1958,NA
+Netherlands Antilles,1958,NA
+New Caledonia,1958,NA
+New Zealand,1958,NA
+Nicaragua,1958,NA
+Niger,1958,NA
+Nigeria,1958,NA
+Niue,1958,NA
+North Korea,1958,NA
+North Macedonia,1958,NA
+North Vietnam,1958,NA
+North Yemen,1958,NA
+Northern Cyprus,1958,NA
+Northern Ireland,1958,NA
+Northern Mariana Islands,1958,NA
+Northern Rhodesia,1958,NA
+Norway,1958,NA
+Oman,1958,NA
+Pakistan,1958,NA
+Palau,1958,NA
+Palestine,1958,NA
+Panama,1958,NA
+Papua New Guinea,1958,NA
+Paraguay,1958,NA
+Peru,1958,NA
+Philippines,1958,NA
+Poland,1958,NA
+Portugal,1958,NA
+Puerto Rico,1958,NA
+Qatar,1958,NA
+Reunion,1958,NA
+Romania,1958,NA
+Russia,1958,NA
+Rwanda,1958,NA
+Saba,1958,NA
+Saint Barthelemy,1958,NA
+Saint Kitts and Nevis,1958,NA
+Saint Lucia,1958,NA
+Saint Martin,1958,NA
+Saint Pierre and Miquelon,1958,NA
+Saint Vincent and the Grenadines,1958,NA
+Samoa,1958,NA
+San Marino,1958,NA
+Sao Tome and Principe,1958,NA
+Saudi Arabia,1958,NA
+Scotland,1958,1991
+Senegal,1958,NA
+Serbia,1958,NA
+Serbia and Montenegro,1958,NA
+Seychelles,1958,NA
+Sierra Leone,1958,NA
+Singapore,1958,NA
+Sint Eustatius,1958,NA
+Sint Maarten,1958,NA
+Slovakia,1958,NA
+Slovenia,1958,NA
+Solomon Islands,1958,NA
+Somalia,1958,NA
+Somaliland,1958,NA
+South Africa,1958,NA
+South Korea,1958,NA
+South Sudan,1958,NA
+South Vietnam,1958,NA
+South Yemen,1958,NA
+Southern Rhodesia,1958,NA
+Soviet Union,1958,NA
+Spain,1958,NA
+Sri Lanka,1958,NA
+Sudan,1958,NA
+Surinam,1958,NA
+Suriname,1958,NA
+Swaziland,1958,NA
+Sweden,1958,NA
+Switzerland,1958,NA
+Syria,1958,NA
+Tahiti,1958,NA
+Taiwan,1958,NA
+Tajikistan,1958,NA
+Tanganyika,1958,NA
+Tanzania,1958,NA
+Thailand,1958,NA
+Tibet,1958,NA
+Togo,1958,NA
+Tonga,1958,NA
+Trinidad and Tobago,1958,NA
+Tunisia,1958,NA
+Turkey,1958,NA
+Turkmenistan,1958,NA
+Turks and Caicos Islands,1958,NA
+Tuvalu,1958,NA
+Uganda,1958,NA
+Ukraine,1958,NA
+United Arab Emirates,1958,NA
+United Arab Republic,1958,NA
+United States,1958,NA
+Upper Volta,1958,NA
+Uruguay,1958,NA
+US Virgin Islands,1958,NA
+Uzbekistan,1958,NA
+Vanuatu,1958,NA
+Vatican,1958,NA
+Venezuela,1958,NA
+Vietnam,1958,NA
+Wales,1958,1439
+Wallis and Futuna,1958,NA
+West Germany,1958,NA
+Western Sahara,1958,NA
+Yemen,1958,NA
+Yugoslavia,1958,NA
+Zambia,1958,NA
+Zanzibar,1958,NA
+Zimbabwe,1958,NA
+Afghanistan,1962,NA
+Albania,1962,NA
+Algeria,1962,NA
+Andorra,1962,NA
+Angola,1962,NA
+Anguilla,1962,NA
+Antigua and Barbuda,1962,NA
+Argentina,1962,NA
+Armenia,1962,NA
+Aruba,1962,NA
+Australia,1962,NA
+Austria,1962,NA
+Azerbaijan,1962,NA
+Bahamas,1962,NA
+Bahrain,1962,NA
+Bangladesh,1962,NA
+Barbados,1962,NA
+Belarus,1962,NA
+Belgium,1962,NA
+Belize,1962,NA
+Benin,1962,NA
+Bermuda,1962,NA
+Bhutan,1962,NA
+Bolivia,1962,NA
+Bonaire,1962,NA
+Bosnia and Herzegovina,1962,NA
+Botswana,1962,NA
+Brazil,1962,NA
+British Guiana,1962,NA
+British Virgin Islands,1962,NA
+Brunei,1962,NA
+Bulgaria,1962,NA
+Burkina Faso,1962,NA
+Burma,1962,NA
+Burundi,1962,NA
+Cambodia,1962,NA
+Cameroon,1962,NA
+Canada,1962,NA
+Cape Verde,1962,NA
+Cayman Islands,1962,NA
+Central African Republic,1962,NA
+Ceylon,1962,NA
+Chad,1962,NA
+Chagos Islands,1962,NA
+Chile,1962,NA
+China,1962,NA
+Christmas Island,1962,NA
+Cocos Islands,1962,NA
+Colombia,1962,NA
+Comoros,1962,NA
+Congo,1962,NA
+Congo-Brazzaville,1962,NA
+Cook Islands,1962,NA
+Costa Rica,1962,NA
+Croatia,1962,NA
+Cuba,1962,NA
+Curaçao,1962,NA
+Cyprus,1962,NA
+Czechia,1962,NA
+Czechoslovakia,1962,NA
+Dahomey,1962,NA
+Democratic Republic of Congo,1962,NA
+Denmark,1962,NA
+Djibouti,1962,NA
+Dominica,1962,NA
+Dominican Republic,1962,NA
+East Germany,1962,NA
+East Timor,1962,NA
+Eastern Samoa,1962,NA
+Ecuador,1962,NA
+Egypt,1962,NA
+El Salvador,1962,NA
+England,1962,2050
+Equatorial Guinea,1962,NA
+Eritrea,1962,NA
+Estonia,1962,NA
+Eswatini,1962,NA
+Ethiopia,1962,NA
+Falkland Islands,1962,NA
+Faroe Islands,1962,NA
+Federated States of Micronesia,1962,NA
+Fiji,1962,NA
+Finland,1962,NA
+France,1962,NA
+French Guiana,1962,NA
+Gabon,1962,NA
+Gambia,1962,NA
+Georgia,1962,NA
+Germany,1962,NA
+Ghana,1962,NA
+Gibraltar,1962,NA
+Greece,1962,NA
+Greenland,1962,NA
+Grenada,1962,NA
+Guadeloupe,1962,NA
+Guam,1962,NA
+Guatemala,1962,NA
+Guinea,1962,NA
+Guinea-Bissau,1962,NA
+Guyana,1962,NA
+Haiti,1962,NA
+Honduras,1962,NA
+Hong Kong,1962,NA
+Hungary,1962,NA
+Iceland,1962,NA
+India,1962,NA
+Indonesia,1962,NA
+Iran,1962,NA
+Iraq,1962,NA
+Ireland,1962,1325
+Israel,1962,NA
+Italy,1962,NA
+Ivory Coast,1962,NA
+Jamaica,1962,NA
+Japan,1962,NA
+Jordan,1962,NA
+Kazakhstan,1962,NA
+Kenya,1962,NA
+Khmer Republic,1962,NA
+Kiribati,1962,NA
+Kosovo,1962,NA
+Kurdistan,1962,NA
+Kuwait,1962,NA
+Kyrgyzstan,1962,NA
+Laos,1962,NA
+Latvia,1962,NA
+Lebanon,1962,NA
+Lesotho,1962,NA
+Liberia,1962,NA
+Libya,1962,NA
+Liechtenstein,1962,NA
+Lithuania,1962,NA
+Luxembourg,1962,NA
+Macao,1962,NA
+Macedonia,1962,NA
+Madagascar,1962,NA
+Malawi,1962,NA
+Malaya,1962,NA
+Malaysia,1962,NA
+Maldives,1962,NA
+Mali,1962,NA
+Malta,1962,NA
+Marshall Islands,1962,NA
+Martinique,1962,NA
+Mauritania,1962,NA
+Mauritius,1962,NA
+Mayotte,1962,NA
+Mexico,1962,NA
+Moldova,1962,NA
+Monaco,1962,NA
+Mongolia,1962,NA
+Montenegro,1962,NA
+Montserrat,1962,NA
+Morocco,1962,NA
+Mozambique,1962,NA
+Myanmar,1962,NA
+Namibia,1962,NA
+Nepal,1962,NA
+Netherlands,1962,NA
+Netherlands Antilles,1962,NA
+New Caledonia,1962,NA
+New Zealand,1962,NA
+Nicaragua,1962,NA
+Niger,1962,NA
+Nigeria,1962,NA
+Niue,1962,NA
+North Korea,1962,NA
+North Macedonia,1962,NA
+North Vietnam,1962,NA
+North Yemen,1962,NA
+Northern Cyprus,1962,NA
+Northern Ireland,1962,NA
+Northern Mariana Islands,1962,NA
+Northern Rhodesia,1962,NA
+Norway,1962,NA
+Oman,1962,NA
+Pakistan,1962,NA
+Palau,1962,NA
+Palestine,1962,NA
+Panama,1962,NA
+Papua New Guinea,1962,NA
+Paraguay,1962,NA
+Peru,1962,NA
+Philippines,1962,NA
+Poland,1962,NA
+Portugal,1962,NA
+Puerto Rico,1962,NA
+Qatar,1962,NA
+Reunion,1962,NA
+Romania,1962,NA
+Russia,1962,NA
+Rwanda,1962,NA
+Saba,1962,NA
+Saint Barthelemy,1962,NA
+Saint Kitts and Nevis,1962,NA
+Saint Lucia,1962,NA
+Saint Martin,1962,NA
+Saint Pierre and Miquelon,1962,NA
+Saint Vincent and the Grenadines,1962,NA
+Samoa,1962,NA
+San Marino,1962,NA
+Sao Tome and Principe,1962,NA
+Saudi Arabia,1962,NA
+Scotland,1962,1991
+Senegal,1962,NA
+Serbia,1962,NA
+Serbia and Montenegro,1962,NA
+Seychelles,1962,NA
+Sierra Leone,1962,NA
+Singapore,1962,NA
+Sint Eustatius,1962,NA
+Sint Maarten,1962,NA
+Slovakia,1962,NA
+Slovenia,1962,NA
+Solomon Islands,1962,NA
+Somalia,1962,NA
+Somaliland,1962,NA
+South Africa,1962,NA
+South Korea,1962,NA
+South Sudan,1962,NA
+South Vietnam,1962,NA
+South Yemen,1962,NA
+Southern Rhodesia,1962,NA
+Soviet Union,1962,NA
+Spain,1962,NA
+Sri Lanka,1962,NA
+Sudan,1962,NA
+Surinam,1962,NA
+Suriname,1962,NA
+Swaziland,1962,NA
+Sweden,1962,NA
+Switzerland,1962,NA
+Syria,1962,NA
+Tahiti,1962,NA
+Taiwan,1962,NA
+Tajikistan,1962,NA
+Tanganyika,1962,NA
+Tanzania,1962,NA
+Thailand,1962,NA
+Tibet,1962,NA
+Togo,1962,NA
+Tonga,1962,NA
+Trinidad and Tobago,1962,NA
+Tunisia,1962,NA
+Turkey,1962,NA
+Turkmenistan,1962,NA
+Turks and Caicos Islands,1962,NA
+Tuvalu,1962,NA
+Uganda,1962,NA
+Ukraine,1962,NA
+United Arab Emirates,1962,NA
+United Arab Republic,1962,NA
+United States,1962,NA
+Upper Volta,1962,NA
+Uruguay,1962,NA
+US Virgin Islands,1962,NA
+Uzbekistan,1962,NA
+Vanuatu,1962,NA
+Vatican,1962,NA
+Venezuela,1962,NA
+Vietnam,1962,NA
+Wales,1962,1439
+Wallis and Futuna,1962,NA
+West Germany,1962,NA
+Western Sahara,1962,NA
+Yemen,1962,NA
+Yugoslavia,1962,NA
+Zambia,1962,NA
+Zanzibar,1962,NA
+Zimbabwe,1962,NA
+Afghanistan,1966,NA
+Albania,1966,NA
+Algeria,1966,NA
+Andorra,1966,NA
+Angola,1966,NA
+Anguilla,1966,NA
+Antigua and Barbuda,1966,NA
+Argentina,1966,NA
+Armenia,1966,NA
+Aruba,1966,NA
+Australia,1966,NA
+Austria,1966,NA
+Azerbaijan,1966,NA
+Bahamas,1966,NA
+Bahrain,1966,NA
+Bangladesh,1966,NA
+Barbados,1966,NA
+Belarus,1966,NA
+Belgium,1966,NA
+Belize,1966,NA
+Benin,1966,NA
+Bermuda,1966,NA
+Bhutan,1966,NA
+Bolivia,1966,NA
+Bonaire,1966,NA
+Bosnia and Herzegovina,1966,NA
+Botswana,1966,NA
+Brazil,1966,NA
+British Guiana,1966,NA
+British Virgin Islands,1966,NA
+Brunei,1966,NA
+Bulgaria,1966,NA
+Burkina Faso,1966,NA
+Burma,1966,NA
+Burundi,1966,NA
+Cambodia,1966,NA
+Cameroon,1966,NA
+Canada,1966,NA
+Cape Verde,1966,NA
+Cayman Islands,1966,NA
+Central African Republic,1966,NA
+Ceylon,1966,NA
+Chad,1966,NA
+Chagos Islands,1966,NA
+Chile,1966,NA
+China,1966,NA
+Christmas Island,1966,NA
+Cocos Islands,1966,NA
+Colombia,1966,NA
+Comoros,1966,NA
+Congo,1966,NA
+Congo-Brazzaville,1966,NA
+Cook Islands,1966,NA
+Costa Rica,1966,NA
+Croatia,1966,NA
+Cuba,1966,NA
+Curaçao,1966,NA
+Cyprus,1966,NA
+Czechia,1966,NA
+Czechoslovakia,1966,NA
+Dahomey,1966,NA
+Democratic Republic of Congo,1966,NA
+Denmark,1966,NA
+Djibouti,1966,NA
+Dominica,1966,NA
+Dominican Republic,1966,NA
+East Germany,1966,NA
+East Timor,1966,NA
+Eastern Samoa,1966,NA
+Ecuador,1966,NA
+Egypt,1966,NA
+El Salvador,1966,NA
+England,1966,2050
+Equatorial Guinea,1966,NA
+Eritrea,1966,NA
+Estonia,1966,NA
+Eswatini,1966,NA
+Ethiopia,1966,NA
+Falkland Islands,1966,NA
+Faroe Islands,1966,NA
+Federated States of Micronesia,1966,NA
+Fiji,1966,NA
+Finland,1966,NA
+France,1966,NA
+French Guiana,1966,NA
+Gabon,1966,NA
+Gambia,1966,NA
+Georgia,1966,NA
+Germany,1966,NA
+Ghana,1966,NA
+Gibraltar,1966,NA
+Greece,1966,NA
+Greenland,1966,NA
+Grenada,1966,NA
+Guadeloupe,1966,NA
+Guam,1966,NA
+Guatemala,1966,NA
+Guinea,1966,NA
+Guinea-Bissau,1966,NA
+Guyana,1966,NA
+Haiti,1966,NA
+Honduras,1966,NA
+Hong Kong,1966,NA
+Hungary,1966,NA
+Iceland,1966,NA
+India,1966,NA
+Indonesia,1966,NA
+Iran,1966,NA
+Iraq,1966,NA
+Ireland,1966,1325
+Israel,1966,NA
+Italy,1966,NA
+Ivory Coast,1966,NA
+Jamaica,1966,NA
+Japan,1966,NA
+Jordan,1966,NA
+Kazakhstan,1966,NA
+Kenya,1966,NA
+Khmer Republic,1966,NA
+Kiribati,1966,NA
+Kosovo,1966,NA
+Kurdistan,1966,NA
+Kuwait,1966,NA
+Kyrgyzstan,1966,NA
+Laos,1966,NA
+Latvia,1966,NA
+Lebanon,1966,NA
+Lesotho,1966,NA
+Liberia,1966,NA
+Libya,1966,NA
+Liechtenstein,1966,NA
+Lithuania,1966,NA
+Luxembourg,1966,NA
+Macao,1966,NA
+Macedonia,1966,NA
+Madagascar,1966,NA
+Malawi,1966,NA
+Malaya,1966,NA
+Malaysia,1966,NA
+Maldives,1966,NA
+Mali,1966,NA
+Malta,1966,NA
+Marshall Islands,1966,NA
+Martinique,1966,NA
+Mauritania,1966,NA
+Mauritius,1966,NA
+Mayotte,1966,NA
+Mexico,1966,NA
+Moldova,1966,NA
+Monaco,1966,NA
+Mongolia,1966,NA
+Montenegro,1966,NA
+Montserrat,1966,NA
+Morocco,1966,NA
+Mozambique,1966,NA
+Myanmar,1966,NA
+Namibia,1966,NA
+Nepal,1966,NA
+Netherlands,1966,NA
+Netherlands Antilles,1966,NA
+New Caledonia,1966,NA
+New Zealand,1966,NA
+Nicaragua,1966,NA
+Niger,1966,NA
+Nigeria,1966,NA
+Niue,1966,NA
+North Korea,1966,NA
+North Macedonia,1966,NA
+North Vietnam,1966,NA
+North Yemen,1966,NA
+Northern Cyprus,1966,NA
+Northern Ireland,1966,NA
+Northern Mariana Islands,1966,NA
+Northern Rhodesia,1966,NA
+Norway,1966,NA
+Oman,1966,NA
+Pakistan,1966,NA
+Palau,1966,NA
+Palestine,1966,NA
+Panama,1966,NA
+Papua New Guinea,1966,NA
+Paraguay,1966,NA
+Peru,1966,NA
+Philippines,1966,NA
+Poland,1966,NA
+Portugal,1966,NA
+Puerto Rico,1966,NA
+Qatar,1966,NA
+Reunion,1966,NA
+Romania,1966,NA
+Russia,1966,NA
+Rwanda,1966,NA
+Saba,1966,NA
+Saint Barthelemy,1966,NA
+Saint Kitts and Nevis,1966,NA
+Saint Lucia,1966,NA
+Saint Martin,1966,NA
+Saint Pierre and Miquelon,1966,NA
+Saint Vincent and the Grenadines,1966,NA
+Samoa,1966,NA
+San Marino,1966,NA
+Sao Tome and Principe,1966,NA
+Saudi Arabia,1966,NA
+Scotland,1966,1991
+Senegal,1966,NA
+Serbia,1966,NA
+Serbia and Montenegro,1966,NA
+Seychelles,1966,NA
+Sierra Leone,1966,NA
+Singapore,1966,NA
+Sint Eustatius,1966,NA
+Sint Maarten,1966,NA
+Slovakia,1966,NA
+Slovenia,1966,NA
+Solomon Islands,1966,NA
+Somalia,1966,NA
+Somaliland,1966,NA
+South Africa,1966,NA
+South Korea,1966,NA
+South Sudan,1966,NA
+South Vietnam,1966,NA
+South Yemen,1966,NA
+Southern Rhodesia,1966,NA
+Soviet Union,1966,NA
+Spain,1966,NA
+Sri Lanka,1966,NA
+Sudan,1966,NA
+Surinam,1966,NA
+Suriname,1966,NA
+Swaziland,1966,NA
+Sweden,1966,NA
+Switzerland,1966,NA
+Syria,1966,NA
+Tahiti,1966,NA
+Taiwan,1966,NA
+Tajikistan,1966,NA
+Tanganyika,1966,NA
+Tanzania,1966,NA
+Thailand,1966,NA
+Tibet,1966,NA
+Togo,1966,NA
+Tonga,1966,NA
+Trinidad and Tobago,1966,NA
+Tunisia,1966,NA
+Turkey,1966,NA
+Turkmenistan,1966,NA
+Turks and Caicos Islands,1966,NA
+Tuvalu,1966,NA
+Uganda,1966,NA
+Ukraine,1966,NA
+United Arab Emirates,1966,NA
+United Arab Republic,1966,NA
+United States,1966,NA
+Upper Volta,1966,NA
+Uruguay,1966,NA
+US Virgin Islands,1966,NA
+Uzbekistan,1966,NA
+Vanuatu,1966,NA
+Vatican,1966,NA
+Venezuela,1966,NA
+Vietnam,1966,NA
+Wales,1966,1439
+Wallis and Futuna,1966,NA
+West Germany,1966,NA
+Western Sahara,1966,NA
+Yemen,1966,NA
+Yugoslavia,1966,NA
+Zambia,1966,NA
+Zanzibar,1966,NA
+Zimbabwe,1966,NA
+Afghanistan,1970,NA
+Albania,1970,NA
+Algeria,1970,NA
+Andorra,1970,NA
+Angola,1970,NA
+Anguilla,1970,NA
+Antigua and Barbuda,1970,NA
+Argentina,1970,NA
+Armenia,1970,NA
+Aruba,1970,NA
+Australia,1970,NA
+Austria,1970,NA
+Azerbaijan,1970,NA
+Bahamas,1970,NA
+Bahrain,1970,NA
+Bangladesh,1970,NA
+Barbados,1970,NA
+Belarus,1970,NA
+Belgium,1970,NA
+Belize,1970,NA
+Benin,1970,NA
+Bermuda,1970,NA
+Bhutan,1970,NA
+Bolivia,1970,NA
+Bonaire,1970,NA
+Bosnia and Herzegovina,1970,NA
+Botswana,1970,NA
+Brazil,1970,NA
+British Guiana,1970,NA
+British Virgin Islands,1970,NA
+Brunei,1970,NA
+Bulgaria,1970,NA
+Burkina Faso,1970,NA
+Burma,1970,NA
+Burundi,1970,NA
+Cambodia,1970,NA
+Cameroon,1970,NA
+Canada,1970,NA
+Cape Verde,1970,NA
+Cayman Islands,1970,NA
+Central African Republic,1970,NA
+Ceylon,1970,NA
+Chad,1970,NA
+Chagos Islands,1970,NA
+Chile,1970,NA
+China,1970,NA
+Christmas Island,1970,NA
+Cocos Islands,1970,NA
+Colombia,1970,NA
+Comoros,1970,NA
+Congo,1970,NA
+Congo-Brazzaville,1970,NA
+Cook Islands,1970,NA
+Costa Rica,1970,NA
+Croatia,1970,NA
+Cuba,1970,NA
+Curaçao,1970,NA
+Cyprus,1970,NA
+Czechia,1970,NA
+Czechoslovakia,1970,NA
+Dahomey,1970,NA
+Democratic Republic of Congo,1970,NA
+Denmark,1970,NA
+Djibouti,1970,NA
+Dominica,1970,NA
+Dominican Republic,1970,NA
+East Germany,1970,NA
+East Timor,1970,NA
+Eastern Samoa,1970,NA
+Ecuador,1970,NA
+Egypt,1970,NA
+El Salvador,1970,NA
+England,1970,2050
+Equatorial Guinea,1970,NA
+Eritrea,1970,NA
+Estonia,1970,NA
+Eswatini,1970,NA
+Ethiopia,1970,NA
+Falkland Islands,1970,NA
+Faroe Islands,1970,NA
+Federated States of Micronesia,1970,NA
+Fiji,1970,NA
+Finland,1970,NA
+France,1970,NA
+French Guiana,1970,NA
+Gabon,1970,NA
+Gambia,1970,NA
+Georgia,1970,NA
+Germany,1970,NA
+Ghana,1970,NA
+Gibraltar,1970,NA
+Greece,1970,NA
+Greenland,1970,NA
+Grenada,1970,NA
+Guadeloupe,1970,NA
+Guam,1970,NA
+Guatemala,1970,NA
+Guinea,1970,NA
+Guinea-Bissau,1970,NA
+Guyana,1970,NA
+Haiti,1970,NA
+Honduras,1970,NA
+Hong Kong,1970,NA
+Hungary,1970,NA
+Iceland,1970,NA
+India,1970,NA
+Indonesia,1970,NA
+Iran,1970,NA
+Iraq,1970,NA
+Ireland,1970,1325
+Israel,1970,NA
+Italy,1970,NA
+Ivory Coast,1970,NA
+Jamaica,1970,NA
+Japan,1970,NA
+Jordan,1970,NA
+Kazakhstan,1970,NA
+Kenya,1970,NA
+Khmer Republic,1970,NA
+Kiribati,1970,NA
+Kosovo,1970,NA
+Kurdistan,1970,NA
+Kuwait,1970,NA
+Kyrgyzstan,1970,NA
+Laos,1970,NA
+Latvia,1970,NA
+Lebanon,1970,NA
+Lesotho,1970,NA
+Liberia,1970,NA
+Libya,1970,NA
+Liechtenstein,1970,NA
+Lithuania,1970,NA
+Luxembourg,1970,NA
+Macao,1970,NA
+Macedonia,1970,NA
+Madagascar,1970,NA
+Malawi,1970,NA
+Malaya,1970,NA
+Malaysia,1970,NA
+Maldives,1970,NA
+Mali,1970,NA
+Malta,1970,NA
+Marshall Islands,1970,NA
+Martinique,1970,NA
+Mauritania,1970,NA
+Mauritius,1970,NA
+Mayotte,1970,NA
+Mexico,1970,NA
+Moldova,1970,NA
+Monaco,1970,NA
+Mongolia,1970,NA
+Montenegro,1970,NA
+Montserrat,1970,NA
+Morocco,1970,NA
+Mozambique,1970,NA
+Myanmar,1970,NA
+Namibia,1970,NA
+Nepal,1970,NA
+Netherlands,1970,NA
+Netherlands Antilles,1970,NA
+New Caledonia,1970,NA
+New Zealand,1970,NA
+Nicaragua,1970,NA
+Niger,1970,NA
+Nigeria,1970,NA
+Niue,1970,NA
+North Korea,1970,NA
+North Macedonia,1970,NA
+North Vietnam,1970,NA
+North Yemen,1970,NA
+Northern Cyprus,1970,NA
+Northern Ireland,1970,NA
+Northern Mariana Islands,1970,NA
+Northern Rhodesia,1970,NA
+Norway,1970,NA
+Oman,1970,NA
+Pakistan,1970,NA
+Palau,1970,NA
+Palestine,1970,NA
+Panama,1970,NA
+Papua New Guinea,1970,NA
+Paraguay,1970,NA
+Peru,1970,NA
+Philippines,1970,NA
+Poland,1970,NA
+Portugal,1970,NA
+Puerto Rico,1970,NA
+Qatar,1970,NA
+Reunion,1970,NA
+Romania,1970,NA
+Russia,1970,NA
+Rwanda,1970,NA
+Saba,1970,NA
+Saint Barthelemy,1970,NA
+Saint Kitts and Nevis,1970,NA
+Saint Lucia,1970,NA
+Saint Martin,1970,NA
+Saint Pierre and Miquelon,1970,NA
+Saint Vincent and the Grenadines,1970,NA
+Samoa,1970,NA
+San Marino,1970,NA
+Sao Tome and Principe,1970,NA
+Saudi Arabia,1970,NA
+Scotland,1970,1991
+Senegal,1970,NA
+Serbia,1970,NA
+Serbia and Montenegro,1970,NA
+Seychelles,1970,NA
+Sierra Leone,1970,NA
+Singapore,1970,NA
+Sint Eustatius,1970,NA
+Sint Maarten,1970,NA
+Slovakia,1970,NA
+Slovenia,1970,NA
+Solomon Islands,1970,NA
+Somalia,1970,NA
+Somaliland,1970,NA
+South Africa,1970,NA
+South Korea,1970,NA
+South Sudan,1970,NA
+South Vietnam,1970,NA
+South Yemen,1970,NA
+Southern Rhodesia,1970,NA
+Soviet Union,1970,NA
+Spain,1970,NA
+Sri Lanka,1970,NA
+Sudan,1970,NA
+Surinam,1970,NA
+Suriname,1970,NA
+Swaziland,1970,NA
+Sweden,1970,NA
+Switzerland,1970,NA
+Syria,1970,NA
+Tahiti,1970,NA
+Taiwan,1970,NA
+Tajikistan,1970,NA
+Tanganyika,1970,NA
+Tanzania,1970,NA
+Thailand,1970,NA
+Tibet,1970,NA
+Togo,1970,NA
+Tonga,1970,NA
+Trinidad and Tobago,1970,NA
+Tunisia,1970,NA
+Turkey,1970,NA
+Turkmenistan,1970,NA
+Turks and Caicos Islands,1970,NA
+Tuvalu,1970,NA
+Uganda,1970,NA
+Ukraine,1970,NA
+United Arab Emirates,1970,NA
+United Arab Republic,1970,NA
+United States,1970,NA
+Upper Volta,1970,NA
+Uruguay,1970,NA
+US Virgin Islands,1970,NA
+Uzbekistan,1970,NA
+Vanuatu,1970,NA
+Vatican,1970,NA
+Venezuela,1970,NA
+Vietnam,1970,NA
+Wales,1970,1439
+Wallis and Futuna,1970,NA
+West Germany,1970,NA
+Western Sahara,1970,NA
+Yemen,1970,NA
+Yugoslavia,1970,NA
+Zambia,1970,NA
+Zanzibar,1970,NA
+Zimbabwe,1970,NA
+Afghanistan,1974,NA
+Albania,1974,NA
+Algeria,1974,NA
+Andorra,1974,NA
+Angola,1974,NA
+Anguilla,1974,NA
+Antigua and Barbuda,1974,NA
+Argentina,1974,NA
+Armenia,1974,NA
+Aruba,1974,NA
+Australia,1974,NA
+Austria,1974,NA
+Azerbaijan,1974,NA
+Bahamas,1974,NA
+Bahrain,1974,NA
+Bangladesh,1974,NA
+Barbados,1974,NA
+Belarus,1974,NA
+Belgium,1974,NA
+Belize,1974,NA
+Benin,1974,NA
+Bermuda,1974,NA
+Bhutan,1974,NA
+Bolivia,1974,NA
+Bonaire,1974,NA
+Bosnia and Herzegovina,1974,NA
+Botswana,1974,NA
+Brazil,1974,NA
+British Guiana,1974,NA
+British Virgin Islands,1974,NA
+Brunei,1974,NA
+Bulgaria,1974,NA
+Burkina Faso,1974,NA
+Burma,1974,NA
+Burundi,1974,NA
+Cambodia,1974,NA
+Cameroon,1974,NA
+Canada,1974,NA
+Cape Verde,1974,NA
+Cayman Islands,1974,NA
+Central African Republic,1974,NA
+Ceylon,1974,NA
+Chad,1974,NA
+Chagos Islands,1974,NA
+Chile,1974,NA
+China,1974,NA
+Christmas Island,1974,NA
+Cocos Islands,1974,NA
+Colombia,1974,NA
+Comoros,1974,NA
+Congo,1974,NA
+Congo-Brazzaville,1974,NA
+Cook Islands,1974,NA
+Costa Rica,1974,NA
+Croatia,1974,NA
+Cuba,1974,NA
+Curaçao,1974,NA
+Cyprus,1974,NA
+Czechia,1974,NA
+Czechoslovakia,1974,NA
+Dahomey,1974,NA
+Democratic Republic of Congo,1974,NA
+Denmark,1974,NA
+Djibouti,1974,NA
+Dominica,1974,NA
+Dominican Republic,1974,NA
+East Germany,1974,NA
+East Timor,1974,NA
+Eastern Samoa,1974,NA
+Ecuador,1974,NA
+Egypt,1974,NA
+El Salvador,1974,NA
+England,1974,2050
+Equatorial Guinea,1974,NA
+Eritrea,1974,NA
+Estonia,1974,NA
+Eswatini,1974,NA
+Ethiopia,1974,NA
+Falkland Islands,1974,NA
+Faroe Islands,1974,NA
+Federated States of Micronesia,1974,NA
+Fiji,1974,NA
+Finland,1974,NA
+France,1974,NA
+French Guiana,1974,NA
+Gabon,1974,NA
+Gambia,1974,NA
+Georgia,1974,NA
+Germany,1974,NA
+Ghana,1974,NA
+Gibraltar,1974,NA
+Greece,1974,NA
+Greenland,1974,NA
+Grenada,1974,NA
+Guadeloupe,1974,NA
+Guam,1974,NA
+Guatemala,1974,NA
+Guinea,1974,NA
+Guinea-Bissau,1974,NA
+Guyana,1974,NA
+Haiti,1974,NA
+Honduras,1974,NA
+Hong Kong,1974,NA
+Hungary,1974,NA
+Iceland,1974,NA
+India,1974,NA
+Indonesia,1974,NA
+Iran,1974,NA
+Iraq,1974,NA
+Ireland,1974,1325
+Israel,1974,NA
+Italy,1974,NA
+Ivory Coast,1974,NA
+Jamaica,1974,NA
+Japan,1974,NA
+Jordan,1974,NA
+Kazakhstan,1974,NA
+Kenya,1974,NA
+Khmer Republic,1974,NA
+Kiribati,1974,NA
+Kosovo,1974,NA
+Kurdistan,1974,NA
+Kuwait,1974,NA
+Kyrgyzstan,1974,NA
+Laos,1974,NA
+Latvia,1974,NA
+Lebanon,1974,NA
+Lesotho,1974,NA
+Liberia,1974,NA
+Libya,1974,NA
+Liechtenstein,1974,NA
+Lithuania,1974,NA
+Luxembourg,1974,NA
+Macao,1974,NA
+Macedonia,1974,NA
+Madagascar,1974,NA
+Malawi,1974,NA
+Malaya,1974,NA
+Malaysia,1974,NA
+Maldives,1974,NA
+Mali,1974,NA
+Malta,1974,NA
+Marshall Islands,1974,NA
+Martinique,1974,NA
+Mauritania,1974,NA
+Mauritius,1974,NA
+Mayotte,1974,NA
+Mexico,1974,NA
+Moldova,1974,NA
+Monaco,1974,NA
+Mongolia,1974,NA
+Montenegro,1974,NA
+Montserrat,1974,NA
+Morocco,1974,NA
+Mozambique,1974,NA
+Myanmar,1974,NA
+Namibia,1974,NA
+Nepal,1974,NA
+Netherlands,1974,NA
+Netherlands Antilles,1974,NA
+New Caledonia,1974,NA
+New Zealand,1974,NA
+Nicaragua,1974,NA
+Niger,1974,NA
+Nigeria,1974,NA
+Niue,1974,NA
+North Korea,1974,NA
+North Macedonia,1974,NA
+North Vietnam,1974,NA
+North Yemen,1974,NA
+Northern Cyprus,1974,NA
+Northern Ireland,1974,NA
+Northern Mariana Islands,1974,NA
+Northern Rhodesia,1974,NA
+Norway,1974,NA
+Oman,1974,NA
+Pakistan,1974,NA
+Palau,1974,NA
+Palestine,1974,NA
+Panama,1974,NA
+Papua New Guinea,1974,NA
+Paraguay,1974,NA
+Peru,1974,NA
+Philippines,1974,NA
+Poland,1974,NA
+Portugal,1974,NA
+Puerto Rico,1974,NA
+Qatar,1974,NA
+Reunion,1974,NA
+Romania,1974,NA
+Russia,1974,NA
+Rwanda,1974,NA
+Saba,1974,NA
+Saint Barthelemy,1974,NA
+Saint Kitts and Nevis,1974,NA
+Saint Lucia,1974,NA
+Saint Martin,1974,NA
+Saint Pierre and Miquelon,1974,NA
+Saint Vincent and the Grenadines,1974,NA
+Samoa,1974,NA
+San Marino,1974,NA
+Sao Tome and Principe,1974,NA
+Saudi Arabia,1974,NA
+Scotland,1974,1991
+Senegal,1974,NA
+Serbia,1974,NA
+Serbia and Montenegro,1974,NA
+Seychelles,1974,NA
+Sierra Leone,1974,NA
+Singapore,1974,NA
+Sint Eustatius,1974,NA
+Sint Maarten,1974,NA
+Slovakia,1974,NA
+Slovenia,1974,NA
+Solomon Islands,1974,NA
+Somalia,1974,NA
+Somaliland,1974,NA
+South Africa,1974,NA
+South Korea,1974,NA
+South Sudan,1974,NA
+South Vietnam,1974,NA
+South Yemen,1974,NA
+Southern Rhodesia,1974,NA
+Soviet Union,1974,NA
+Spain,1974,NA
+Sri Lanka,1974,NA
+Sudan,1974,NA
+Surinam,1974,NA
+Suriname,1974,NA
+Swaziland,1974,NA
+Sweden,1974,NA
+Switzerland,1974,NA
+Syria,1974,NA
+Tahiti,1974,NA
+Taiwan,1974,NA
+Tajikistan,1974,NA
+Tanganyika,1974,NA
+Tanzania,1974,NA
+Thailand,1974,NA
+Tibet,1974,NA
+Togo,1974,NA
+Tonga,1974,NA
+Trinidad and Tobago,1974,NA
+Tunisia,1974,NA
+Turkey,1974,NA
+Turkmenistan,1974,NA
+Turks and Caicos Islands,1974,NA
+Tuvalu,1974,NA
+Uganda,1974,NA
+Ukraine,1974,NA
+United Arab Emirates,1974,NA
+United Arab Republic,1974,NA
+United States,1974,NA
+Upper Volta,1974,NA
+Uruguay,1974,NA
+US Virgin Islands,1974,NA
+Uzbekistan,1974,NA
+Vanuatu,1974,NA
+Vatican,1974,NA
+Venezuela,1974,NA
+Vietnam,1974,NA
+Wales,1974,1439
+Wallis and Futuna,1974,NA
+West Germany,1974,NA
+Western Sahara,1974,NA
+Yemen,1974,NA
+Yugoslavia,1974,NA
+Zambia,1974,NA
+Zanzibar,1974,NA
+Zimbabwe,1974,NA
+Afghanistan,1978,NA
+Albania,1978,NA
+Algeria,1978,NA
+Andorra,1978,NA
+Angola,1978,NA
+Anguilla,1978,NA
+Antigua and Barbuda,1978,NA
+Argentina,1978,NA
+Armenia,1978,NA
+Aruba,1978,NA
+Australia,1978,NA
+Austria,1978,NA
+Azerbaijan,1978,NA
+Bahamas,1978,NA
+Bahrain,1978,NA
+Bangladesh,1978,NA
+Barbados,1978,NA
+Belarus,1978,NA
+Belgium,1978,NA
+Belize,1978,NA
+Benin,1978,NA
+Bermuda,1978,NA
+Bhutan,1978,NA
+Bolivia,1978,NA
+Bonaire,1978,NA
+Bosnia and Herzegovina,1978,NA
+Botswana,1978,NA
+Brazil,1978,NA
+British Guiana,1978,NA
+British Virgin Islands,1978,NA
+Brunei,1978,NA
+Bulgaria,1978,NA
+Burkina Faso,1978,NA
+Burma,1978,NA
+Burundi,1978,NA
+Cambodia,1978,NA
+Cameroon,1978,NA
+Canada,1978,NA
+Cape Verde,1978,NA
+Cayman Islands,1978,NA
+Central African Republic,1978,NA
+Ceylon,1978,NA
+Chad,1978,NA
+Chagos Islands,1978,NA
+Chile,1978,NA
+China,1978,NA
+Christmas Island,1978,NA
+Cocos Islands,1978,NA
+Colombia,1978,NA
+Comoros,1978,NA
+Congo,1978,NA
+Congo-Brazzaville,1978,NA
+Cook Islands,1978,NA
+Costa Rica,1978,NA
+Croatia,1978,NA
+Cuba,1978,NA
+Curaçao,1978,NA
+Cyprus,1978,NA
+Czechia,1978,NA
+Czechoslovakia,1978,NA
+Dahomey,1978,NA
+Democratic Republic of Congo,1978,NA
+Denmark,1978,NA
+Djibouti,1978,NA
+Dominica,1978,NA
+Dominican Republic,1978,NA
+East Germany,1978,NA
+East Timor,1978,NA
+Eastern Samoa,1978,NA
+Ecuador,1978,NA
+Egypt,1978,NA
+El Salvador,1978,NA
+England,1978,2050
+Equatorial Guinea,1978,NA
+Eritrea,1978,NA
+Estonia,1978,NA
+Eswatini,1978,NA
+Ethiopia,1978,NA
+Falkland Islands,1978,NA
+Faroe Islands,1978,NA
+Federated States of Micronesia,1978,NA
+Fiji,1978,NA
+Finland,1978,NA
+France,1978,NA
+French Guiana,1978,NA
+Gabon,1978,NA
+Gambia,1978,NA
+Georgia,1978,NA
+Germany,1978,NA
+Ghana,1978,NA
+Gibraltar,1978,NA
+Greece,1978,NA
+Greenland,1978,NA
+Grenada,1978,NA
+Guadeloupe,1978,NA
+Guam,1978,NA
+Guatemala,1978,NA
+Guinea,1978,NA
+Guinea-Bissau,1978,NA
+Guyana,1978,NA
+Haiti,1978,NA
+Honduras,1978,NA
+Hong Kong,1978,NA
+Hungary,1978,NA
+Iceland,1978,NA
+India,1978,NA
+Indonesia,1978,NA
+Iran,1978,NA
+Iraq,1978,NA
+Ireland,1978,1325
+Israel,1978,NA
+Italy,1978,NA
+Ivory Coast,1978,NA
+Jamaica,1978,NA
+Japan,1978,NA
+Jordan,1978,NA
+Kazakhstan,1978,NA
+Kenya,1978,NA
+Khmer Republic,1978,NA
+Kiribati,1978,NA
+Kosovo,1978,NA
+Kurdistan,1978,NA
+Kuwait,1978,NA
+Kyrgyzstan,1978,NA
+Laos,1978,NA
+Latvia,1978,NA
+Lebanon,1978,NA
+Lesotho,1978,NA
+Liberia,1978,NA
+Libya,1978,NA
+Liechtenstein,1978,NA
+Lithuania,1978,NA
+Luxembourg,1978,NA
+Macao,1978,NA
+Macedonia,1978,NA
+Madagascar,1978,NA
+Malawi,1978,NA
+Malaya,1978,NA
+Malaysia,1978,NA
+Maldives,1978,NA
+Mali,1978,NA
+Malta,1978,NA
+Marshall Islands,1978,NA
+Martinique,1978,NA
+Mauritania,1978,NA
+Mauritius,1978,NA
+Mayotte,1978,NA
+Mexico,1978,NA
+Moldova,1978,NA
+Monaco,1978,NA
+Mongolia,1978,NA
+Montenegro,1978,NA
+Montserrat,1978,NA
+Morocco,1978,NA
+Mozambique,1978,NA
+Myanmar,1978,NA
+Namibia,1978,NA
+Nepal,1978,NA
+Netherlands,1978,NA
+Netherlands Antilles,1978,NA
+New Caledonia,1978,NA
+New Zealand,1978,NA
+Nicaragua,1978,NA
+Niger,1978,NA
+Nigeria,1978,NA
+Niue,1978,NA
+North Korea,1978,NA
+North Macedonia,1978,NA
+North Vietnam,1978,NA
+North Yemen,1978,NA
+Northern Cyprus,1978,NA
+Northern Ireland,1978,NA
+Northern Mariana Islands,1978,NA
+Northern Rhodesia,1978,NA
+Norway,1978,NA
+Oman,1978,NA
+Pakistan,1978,NA
+Palau,1978,NA
+Palestine,1978,NA
+Panama,1978,NA
+Papua New Guinea,1978,NA
+Paraguay,1978,NA
+Peru,1978,NA
+Philippines,1978,NA
+Poland,1978,NA
+Portugal,1978,NA
+Puerto Rico,1978,NA
+Qatar,1978,NA
+Reunion,1978,NA
+Romania,1978,NA
+Russia,1978,NA
+Rwanda,1978,NA
+Saba,1978,NA
+Saint Barthelemy,1978,NA
+Saint Kitts and Nevis,1978,NA
+Saint Lucia,1978,NA
+Saint Martin,1978,NA
+Saint Pierre and Miquelon,1978,NA
+Saint Vincent and the Grenadines,1978,NA
+Samoa,1978,NA
+San Marino,1978,NA
+Sao Tome and Principe,1978,NA
+Saudi Arabia,1978,NA
+Scotland,1978,1991
+Senegal,1978,NA
+Serbia,1978,NA
+Serbia and Montenegro,1978,NA
+Seychelles,1978,NA
+Sierra Leone,1978,NA
+Singapore,1978,NA
+Sint Eustatius,1978,NA
+Sint Maarten,1978,NA
+Slovakia,1978,NA
+Slovenia,1978,NA
+Solomon Islands,1978,NA
+Somalia,1978,NA
+Somaliland,1978,NA
+South Africa,1978,NA
+South Korea,1978,NA
+South Sudan,1978,NA
+South Vietnam,1978,NA
+South Yemen,1978,NA
+Southern Rhodesia,1978,NA
+Soviet Union,1978,NA
+Spain,1978,NA
+Sri Lanka,1978,NA
+Sudan,1978,NA
+Surinam,1978,NA
+Suriname,1978,NA
+Swaziland,1978,NA
+Sweden,1978,NA
+Switzerland,1978,NA
+Syria,1978,NA
+Tahiti,1978,NA
+Taiwan,1978,NA
+Tajikistan,1978,NA
+Tanganyika,1978,NA
+Tanzania,1978,NA
+Thailand,1978,NA
+Tibet,1978,NA
+Togo,1978,NA
+Tonga,1978,NA
+Trinidad and Tobago,1978,NA
+Tunisia,1978,NA
+Turkey,1978,NA
+Turkmenistan,1978,NA
+Turks and Caicos Islands,1978,NA
+Tuvalu,1978,NA
+Uganda,1978,NA
+Ukraine,1978,NA
+United Arab Emirates,1978,NA
+United Arab Republic,1978,NA
+United States,1978,NA
+Upper Volta,1978,NA
+Uruguay,1978,NA
+US Virgin Islands,1978,NA
+Uzbekistan,1978,NA
+Vanuatu,1978,NA
+Vatican,1978,NA
+Venezuela,1978,NA
+Vietnam,1978,NA
+Wales,1978,1439
+Wallis and Futuna,1978,NA
+West Germany,1978,NA
+Western Sahara,1978,NA
+Yemen,1978,NA
+Yugoslavia,1978,NA
+Zambia,1978,NA
+Zanzibar,1978,NA
+Zimbabwe,1978,NA
+Afghanistan,1982,NA
+Albania,1982,NA
+Algeria,1982,NA
+Andorra,1982,NA
+Angola,1982,NA
+Anguilla,1982,NA
+Antigua and Barbuda,1982,NA
+Argentina,1982,NA
+Armenia,1982,NA
+Aruba,1982,NA
+Australia,1982,NA
+Austria,1982,NA
+Azerbaijan,1982,NA
+Bahamas,1982,NA
+Bahrain,1982,NA
+Bangladesh,1982,NA
+Barbados,1982,NA
+Belarus,1982,NA
+Belgium,1982,NA
+Belize,1982,NA
+Benin,1982,NA
+Bermuda,1982,NA
+Bhutan,1982,NA
+Bolivia,1982,NA
+Bonaire,1982,NA
+Bosnia and Herzegovina,1982,NA
+Botswana,1982,NA
+Brazil,1982,NA
+British Guiana,1982,NA
+British Virgin Islands,1982,NA
+Brunei,1982,NA
+Bulgaria,1982,NA
+Burkina Faso,1982,NA
+Burma,1982,NA
+Burundi,1982,NA
+Cambodia,1982,NA
+Cameroon,1982,NA
+Canada,1982,NA
+Cape Verde,1982,NA
+Cayman Islands,1982,NA
+Central African Republic,1982,NA
+Ceylon,1982,NA
+Chad,1982,NA
+Chagos Islands,1982,NA
+Chile,1982,NA
+China,1982,NA
+Christmas Island,1982,NA
+Cocos Islands,1982,NA
+Colombia,1982,NA
+Comoros,1982,NA
+Congo,1982,NA
+Congo-Brazzaville,1982,NA
+Cook Islands,1982,NA
+Costa Rica,1982,NA
+Croatia,1982,NA
+Cuba,1982,NA
+Curaçao,1982,NA
+Cyprus,1982,NA
+Czechia,1982,NA
+Czechoslovakia,1982,NA
+Dahomey,1982,NA
+Democratic Republic of Congo,1982,NA
+Denmark,1982,NA
+Djibouti,1982,NA
+Dominica,1982,NA
+Dominican Republic,1982,NA
+East Germany,1982,NA
+East Timor,1982,NA
+Eastern Samoa,1982,NA
+Ecuador,1982,NA
+Egypt,1982,NA
+El Salvador,1982,NA
+England,1982,2050
+Equatorial Guinea,1982,NA
+Eritrea,1982,NA
+Estonia,1982,NA
+Eswatini,1982,NA
+Ethiopia,1982,NA
+Falkland Islands,1982,NA
+Faroe Islands,1982,NA
+Federated States of Micronesia,1982,NA
+Fiji,1982,NA
+Finland,1982,NA
+France,1982,NA
+French Guiana,1982,NA
+Gabon,1982,NA
+Gambia,1982,NA
+Georgia,1982,NA
+Germany,1982,NA
+Ghana,1982,NA
+Gibraltar,1982,NA
+Greece,1982,NA
+Greenland,1982,NA
+Grenada,1982,NA
+Guadeloupe,1982,NA
+Guam,1982,NA
+Guatemala,1982,NA
+Guinea,1982,NA
+Guinea-Bissau,1982,NA
+Guyana,1982,NA
+Haiti,1982,NA
+Honduras,1982,NA
+Hong Kong,1982,NA
+Hungary,1982,NA
+Iceland,1982,NA
+India,1982,NA
+Indonesia,1982,NA
+Iran,1982,NA
+Iraq,1982,NA
+Ireland,1982,1325
+Israel,1982,NA
+Italy,1982,NA
+Ivory Coast,1982,NA
+Jamaica,1982,NA
+Japan,1982,NA
+Jordan,1982,NA
+Kazakhstan,1982,NA
+Kenya,1982,NA
+Khmer Republic,1982,NA
+Kiribati,1982,NA
+Kosovo,1982,NA
+Kurdistan,1982,NA
+Kuwait,1982,NA
+Kyrgyzstan,1982,NA
+Laos,1982,NA
+Latvia,1982,NA
+Lebanon,1982,NA
+Lesotho,1982,NA
+Liberia,1982,NA
+Libya,1982,NA
+Liechtenstein,1982,NA
+Lithuania,1982,NA
+Luxembourg,1982,NA
+Macao,1982,NA
+Macedonia,1982,NA
+Madagascar,1982,NA
+Malawi,1982,NA
+Malaya,1982,NA
+Malaysia,1982,NA
+Maldives,1982,NA
+Mali,1982,NA
+Malta,1982,NA
+Marshall Islands,1982,NA
+Martinique,1982,NA
+Mauritania,1982,NA
+Mauritius,1982,NA
+Mayotte,1982,NA
+Mexico,1982,NA
+Moldova,1982,NA
+Monaco,1982,NA
+Mongolia,1982,NA
+Montenegro,1982,NA
+Montserrat,1982,NA
+Morocco,1982,NA
+Mozambique,1982,NA
+Myanmar,1982,NA
+Namibia,1982,NA
+Nepal,1982,NA
+Netherlands,1982,NA
+Netherlands Antilles,1982,NA
+New Caledonia,1982,NA
+New Zealand,1982,NA
+Nicaragua,1982,NA
+Niger,1982,NA
+Nigeria,1982,NA
+Niue,1982,NA
+North Korea,1982,NA
+North Macedonia,1982,NA
+North Vietnam,1982,NA
+North Yemen,1982,NA
+Northern Cyprus,1982,NA
+Northern Ireland,1982,NA
+Northern Mariana Islands,1982,NA
+Northern Rhodesia,1982,NA
+Norway,1982,NA
+Oman,1982,NA
+Pakistan,1982,NA
+Palau,1982,NA
+Palestine,1982,NA
+Panama,1982,NA
+Papua New Guinea,1982,NA
+Paraguay,1982,NA
+Peru,1982,NA
+Philippines,1982,NA
+Poland,1982,NA
+Portugal,1982,NA
+Puerto Rico,1982,NA
+Qatar,1982,NA
+Reunion,1982,NA
+Romania,1982,NA
+Russia,1982,NA
+Rwanda,1982,NA
+Saba,1982,NA
+Saint Barthelemy,1982,NA
+Saint Kitts and Nevis,1982,NA
+Saint Lucia,1982,NA
+Saint Martin,1982,NA
+Saint Pierre and Miquelon,1982,NA
+Saint Vincent and the Grenadines,1982,NA
+Samoa,1982,NA
+San Marino,1982,NA
+Sao Tome and Principe,1982,NA
+Saudi Arabia,1982,NA
+Scotland,1982,1991
+Senegal,1982,NA
+Serbia,1982,NA
+Serbia and Montenegro,1982,NA
+Seychelles,1982,NA
+Sierra Leone,1982,NA
+Singapore,1982,NA
+Sint Eustatius,1982,NA
+Sint Maarten,1982,NA
+Slovakia,1982,NA
+Slovenia,1982,NA
+Solomon Islands,1982,NA
+Somalia,1982,NA
+Somaliland,1982,NA
+South Africa,1982,NA
+South Korea,1982,NA
+South Sudan,1982,NA
+South Vietnam,1982,NA
+South Yemen,1982,NA
+Southern Rhodesia,1982,NA
+Soviet Union,1982,NA
+Spain,1982,NA
+Sri Lanka,1982,NA
+Sudan,1982,NA
+Surinam,1982,NA
+Suriname,1982,NA
+Swaziland,1982,NA
+Sweden,1982,NA
+Switzerland,1982,NA
+Syria,1982,NA
+Tahiti,1982,NA
+Taiwan,1982,NA
+Tajikistan,1982,NA
+Tanganyika,1982,NA
+Tanzania,1982,NA
+Thailand,1982,NA
+Tibet,1982,NA
+Togo,1982,NA
+Tonga,1982,NA
+Trinidad and Tobago,1982,NA
+Tunisia,1982,NA
+Turkey,1982,NA
+Turkmenistan,1982,NA
+Turks and Caicos Islands,1982,NA
+Tuvalu,1982,NA
+Uganda,1982,NA
+Ukraine,1982,NA
+United Arab Emirates,1982,NA
+United Arab Republic,1982,NA
+United States,1982,NA
+Upper Volta,1982,NA
+Uruguay,1982,NA
+US Virgin Islands,1982,NA
+Uzbekistan,1982,NA
+Vanuatu,1982,NA
+Vatican,1982,NA
+Venezuela,1982,NA
+Vietnam,1982,NA
+Wales,1982,1439
+Wallis and Futuna,1982,NA
+West Germany,1982,NA
+Western Sahara,1982,NA
+Yemen,1982,NA
+Yugoslavia,1982,NA
+Zambia,1982,NA
+Zanzibar,1982,NA
+Zimbabwe,1982,NA
+Afghanistan,1986,NA
+Albania,1986,NA
+Algeria,1986,NA
+Andorra,1986,NA
+Angola,1986,NA
+Anguilla,1986,NA
+Antigua and Barbuda,1986,NA
+Argentina,1986,NA
+Armenia,1986,NA
+Aruba,1986,NA
+Australia,1986,NA
+Austria,1986,NA
+Azerbaijan,1986,NA
+Bahamas,1986,NA
+Bahrain,1986,NA
+Bangladesh,1986,NA
+Barbados,1986,NA
+Belarus,1986,NA
+Belgium,1986,NA
+Belize,1986,NA
+Benin,1986,NA
+Bermuda,1986,NA
+Bhutan,1986,NA
+Bolivia,1986,NA
+Bonaire,1986,NA
+Bosnia and Herzegovina,1986,NA
+Botswana,1986,NA
+Brazil,1986,NA
+British Guiana,1986,NA
+British Virgin Islands,1986,NA
+Brunei,1986,NA
+Bulgaria,1986,NA
+Burkina Faso,1986,NA
+Burma,1986,NA
+Burundi,1986,NA
+Cambodia,1986,NA
+Cameroon,1986,NA
+Canada,1986,NA
+Cape Verde,1986,NA
+Cayman Islands,1986,NA
+Central African Republic,1986,NA
+Ceylon,1986,NA
+Chad,1986,NA
+Chagos Islands,1986,NA
+Chile,1986,NA
+China,1986,NA
+Christmas Island,1986,NA
+Cocos Islands,1986,NA
+Colombia,1986,NA
+Comoros,1986,NA
+Congo,1986,NA
+Congo-Brazzaville,1986,NA
+Cook Islands,1986,NA
+Costa Rica,1986,NA
+Croatia,1986,NA
+Cuba,1986,NA
+Curaçao,1986,NA
+Cyprus,1986,NA
+Czechia,1986,NA
+Czechoslovakia,1986,NA
+Dahomey,1986,NA
+Democratic Republic of Congo,1986,NA
+Denmark,1986,NA
+Djibouti,1986,NA
+Dominica,1986,NA
+Dominican Republic,1986,NA
+East Germany,1986,NA
+East Timor,1986,NA
+Eastern Samoa,1986,NA
+Ecuador,1986,NA
+Egypt,1986,NA
+El Salvador,1986,NA
+England,1986,2050
+Equatorial Guinea,1986,NA
+Eritrea,1986,NA
+Estonia,1986,NA
+Eswatini,1986,NA
+Ethiopia,1986,NA
+Falkland Islands,1986,NA
+Faroe Islands,1986,NA
+Federated States of Micronesia,1986,NA
+Fiji,1986,NA
+Finland,1986,NA
+France,1986,NA
+French Guiana,1986,NA
+Gabon,1986,NA
+Gambia,1986,NA
+Georgia,1986,NA
+Germany,1986,NA
+Ghana,1986,NA
+Gibraltar,1986,NA
+Greece,1986,NA
+Greenland,1986,NA
+Grenada,1986,NA
+Guadeloupe,1986,NA
+Guam,1986,NA
+Guatemala,1986,NA
+Guinea,1986,NA
+Guinea-Bissau,1986,NA
+Guyana,1986,NA
+Haiti,1986,NA
+Honduras,1986,NA
+Hong Kong,1986,NA
+Hungary,1986,NA
+Iceland,1986,NA
+India,1986,NA
+Indonesia,1986,NA
+Iran,1986,NA
+Iraq,1986,NA
+Ireland,1986,1325
+Israel,1986,NA
+Italy,1986,NA
+Ivory Coast,1986,NA
+Jamaica,1986,NA
+Japan,1986,NA
+Jordan,1986,NA
+Kazakhstan,1986,NA
+Kenya,1986,NA
+Khmer Republic,1986,NA
+Kiribati,1986,NA
+Kosovo,1986,NA
+Kurdistan,1986,NA
+Kuwait,1986,NA
+Kyrgyzstan,1986,NA
+Laos,1986,NA
+Latvia,1986,NA
+Lebanon,1986,NA
+Lesotho,1986,NA
+Liberia,1986,NA
+Libya,1986,NA
+Liechtenstein,1986,NA
+Lithuania,1986,NA
+Luxembourg,1986,NA
+Macao,1986,NA
+Macedonia,1986,NA
+Madagascar,1986,NA
+Malawi,1986,NA
+Malaya,1986,NA
+Malaysia,1986,NA
+Maldives,1986,NA
+Mali,1986,NA
+Malta,1986,NA
+Marshall Islands,1986,NA
+Martinique,1986,NA
+Mauritania,1986,NA
+Mauritius,1986,NA
+Mayotte,1986,NA
+Mexico,1986,NA
+Moldova,1986,NA
+Monaco,1986,NA
+Mongolia,1986,NA
+Montenegro,1986,NA
+Montserrat,1986,NA
+Morocco,1986,NA
+Mozambique,1986,NA
+Myanmar,1986,NA
+Namibia,1986,NA
+Nepal,1986,NA
+Netherlands,1986,NA
+Netherlands Antilles,1986,NA
+New Caledonia,1986,NA
+New Zealand,1986,NA
+Nicaragua,1986,NA
+Niger,1986,NA
+Nigeria,1986,NA
+Niue,1986,NA
+North Korea,1986,NA
+North Macedonia,1986,NA
+North Vietnam,1986,NA
+North Yemen,1986,NA
+Northern Cyprus,1986,NA
+Northern Ireland,1986,NA
+Northern Mariana Islands,1986,NA
+Northern Rhodesia,1986,NA
+Norway,1986,NA
+Oman,1986,NA
+Pakistan,1986,NA
+Palau,1986,NA
+Palestine,1986,NA
+Panama,1986,NA
+Papua New Guinea,1986,NA
+Paraguay,1986,NA
+Peru,1986,NA
+Philippines,1986,NA
+Poland,1986,NA
+Portugal,1986,NA
+Puerto Rico,1986,NA
+Qatar,1986,NA
+Reunion,1986,NA
+Romania,1986,NA
+Russia,1986,NA
+Rwanda,1986,NA
+Saba,1986,NA
+Saint Barthelemy,1986,NA
+Saint Kitts and Nevis,1986,NA
+Saint Lucia,1986,NA
+Saint Martin,1986,NA
+Saint Pierre and Miquelon,1986,NA
+Saint Vincent and the Grenadines,1986,NA
+Samoa,1986,NA
+San Marino,1986,NA
+Sao Tome and Principe,1986,NA
+Saudi Arabia,1986,NA
+Scotland,1986,1991
+Senegal,1986,NA
+Serbia,1986,NA
+Serbia and Montenegro,1986,NA
+Seychelles,1986,NA
+Sierra Leone,1986,NA
+Singapore,1986,NA
+Sint Eustatius,1986,NA
+Sint Maarten,1986,NA
+Slovakia,1986,NA
+Slovenia,1986,NA
+Solomon Islands,1986,NA
+Somalia,1986,NA
+Somaliland,1986,NA
+South Africa,1986,NA
+South Korea,1986,NA
+South Sudan,1986,NA
+South Vietnam,1986,NA
+South Yemen,1986,NA
+Southern Rhodesia,1986,NA
+Soviet Union,1986,NA
+Spain,1986,NA
+Sri Lanka,1986,NA
+Sudan,1986,NA
+Surinam,1986,NA
+Suriname,1986,NA
+Swaziland,1986,NA
+Sweden,1986,NA
+Switzerland,1986,NA
+Syria,1986,NA
+Tahiti,1986,NA
+Taiwan,1986,NA
+Tajikistan,1986,NA
+Tanganyika,1986,NA
+Tanzania,1986,NA
+Thailand,1986,NA
+Tibet,1986,NA
+Togo,1986,NA
+Tonga,1986,NA
+Trinidad and Tobago,1986,NA
+Tunisia,1986,NA
+Turkey,1986,NA
+Turkmenistan,1986,NA
+Turks and Caicos Islands,1986,NA
+Tuvalu,1986,NA
+Uganda,1986,NA
+Ukraine,1986,NA
+United Arab Emirates,1986,NA
+United Arab Republic,1986,NA
+United States,1986,NA
+Upper Volta,1986,NA
+Uruguay,1986,NA
+US Virgin Islands,1986,NA
+Uzbekistan,1986,NA
+Vanuatu,1986,NA
+Vatican,1986,NA
+Venezuela,1986,NA
+Vietnam,1986,NA
+Wales,1986,1439
+Wallis and Futuna,1986,NA
+West Germany,1986,NA
+Western Sahara,1986,NA
+Yemen,1986,NA
+Yugoslavia,1986,NA
+Zambia,1986,NA
+Zanzibar,1986,NA
+Zimbabwe,1986,NA
+Afghanistan,1990,NA
+Albania,1990,NA
+Algeria,1990,NA
+Andorra,1990,NA
+Angola,1990,NA
+Anguilla,1990,NA
+Antigua and Barbuda,1990,NA
+Argentina,1990,NA
+Armenia,1990,NA
+Aruba,1990,NA
+Australia,1990,NA
+Austria,1990,NA
+Azerbaijan,1990,NA
+Bahamas,1990,NA
+Bahrain,1990,NA
+Bangladesh,1990,NA
+Barbados,1990,NA
+Belarus,1990,NA
+Belgium,1990,NA
+Belize,1990,NA
+Benin,1990,NA
+Bermuda,1990,NA
+Bhutan,1990,NA
+Bolivia,1990,NA
+Bonaire,1990,NA
+Bosnia and Herzegovina,1990,NA
+Botswana,1990,NA
+Brazil,1990,NA
+British Guiana,1990,NA
+British Virgin Islands,1990,NA
+Brunei,1990,NA
+Bulgaria,1990,NA
+Burkina Faso,1990,NA
+Burma,1990,NA
+Burundi,1990,NA
+Cambodia,1990,NA
+Cameroon,1990,NA
+Canada,1990,NA
+Cape Verde,1990,NA
+Cayman Islands,1990,NA
+Central African Republic,1990,NA
+Ceylon,1990,NA
+Chad,1990,NA
+Chagos Islands,1990,NA
+Chile,1990,NA
+China,1990,NA
+Christmas Island,1990,NA
+Cocos Islands,1990,NA
+Colombia,1990,NA
+Comoros,1990,NA
+Congo,1990,NA
+Congo-Brazzaville,1990,NA
+Cook Islands,1990,NA
+Costa Rica,1990,NA
+Croatia,1990,NA
+Cuba,1990,NA
+Curaçao,1990,NA
+Cyprus,1990,NA
+Czechia,1990,NA
+Czechoslovakia,1990,NA
+Dahomey,1990,NA
+Democratic Republic of Congo,1990,NA
+Denmark,1990,NA
+Djibouti,1990,NA
+Dominica,1990,NA
+Dominican Republic,1990,NA
+East Germany,1990,NA
+East Timor,1990,NA
+Eastern Samoa,1990,NA
+Ecuador,1990,NA
+Egypt,1990,NA
+El Salvador,1990,NA
+England,1990,2050
+Equatorial Guinea,1990,NA
+Eritrea,1990,NA
+Estonia,1990,NA
+Eswatini,1990,NA
+Ethiopia,1990,NA
+Falkland Islands,1990,NA
+Faroe Islands,1990,NA
+Federated States of Micronesia,1990,NA
+Fiji,1990,NA
+Finland,1990,NA
+France,1990,NA
+French Guiana,1990,NA
+Gabon,1990,NA
+Gambia,1990,NA
+Georgia,1990,NA
+Germany,1990,NA
+Ghana,1990,NA
+Gibraltar,1990,NA
+Greece,1990,NA
+Greenland,1990,NA
+Grenada,1990,NA
+Guadeloupe,1990,NA
+Guam,1990,NA
+Guatemala,1990,NA
+Guinea,1990,NA
+Guinea-Bissau,1990,NA
+Guyana,1990,NA
+Haiti,1990,NA
+Honduras,1990,NA
+Hong Kong,1990,NA
+Hungary,1990,NA
+Iceland,1990,NA
+India,1990,NA
+Indonesia,1990,NA
+Iran,1990,NA
+Iraq,1990,NA
+Ireland,1990,1325
+Israel,1990,NA
+Italy,1990,NA
+Ivory Coast,1990,NA
+Jamaica,1990,NA
+Japan,1990,NA
+Jordan,1990,NA
+Kazakhstan,1990,NA
+Kenya,1990,NA
+Khmer Republic,1990,NA
+Kiribati,1990,NA
+Kosovo,1990,NA
+Kurdistan,1990,NA
+Kuwait,1990,NA
+Kyrgyzstan,1990,NA
+Laos,1990,NA
+Latvia,1990,NA
+Lebanon,1990,NA
+Lesotho,1990,NA
+Liberia,1990,NA
+Libya,1990,NA
+Liechtenstein,1990,NA
+Lithuania,1990,NA
+Luxembourg,1990,NA
+Macao,1990,NA
+Macedonia,1990,NA
+Madagascar,1990,NA
+Malawi,1990,NA
+Malaya,1990,NA
+Malaysia,1990,NA
+Maldives,1990,NA
+Mali,1990,NA
+Malta,1990,NA
+Marshall Islands,1990,NA
+Martinique,1990,NA
+Mauritania,1990,NA
+Mauritius,1990,NA
+Mayotte,1990,NA
+Mexico,1990,NA
+Moldova,1990,NA
+Monaco,1990,NA
+Mongolia,1990,NA
+Montenegro,1990,NA
+Montserrat,1990,NA
+Morocco,1990,NA
+Mozambique,1990,NA
+Myanmar,1990,NA
+Namibia,1990,NA
+Nepal,1990,NA
+Netherlands,1990,NA
+Netherlands Antilles,1990,NA
+New Caledonia,1990,NA
+New Zealand,1990,NA
+Nicaragua,1990,NA
+Niger,1990,NA
+Nigeria,1990,NA
+Niue,1990,NA
+North Korea,1990,NA
+North Macedonia,1990,NA
+North Vietnam,1990,NA
+North Yemen,1990,NA
+Northern Cyprus,1990,NA
+Northern Ireland,1990,NA
+Northern Mariana Islands,1990,NA
+Northern Rhodesia,1990,NA
+Norway,1990,NA
+Oman,1990,NA
+Pakistan,1990,NA
+Palau,1990,NA
+Palestine,1990,NA
+Panama,1990,NA
+Papua New Guinea,1990,NA
+Paraguay,1990,NA
+Peru,1990,NA
+Philippines,1990,NA
+Poland,1990,NA
+Portugal,1990,NA
+Puerto Rico,1990,NA
+Qatar,1990,NA
+Reunion,1990,NA
+Romania,1990,NA
+Russia,1990,NA
+Rwanda,1990,NA
+Saba,1990,NA
+Saint Barthelemy,1990,NA
+Saint Kitts and Nevis,1990,NA
+Saint Lucia,1990,NA
+Saint Martin,1990,NA
+Saint Pierre and Miquelon,1990,NA
+Saint Vincent and the Grenadines,1990,NA
+Samoa,1990,NA
+San Marino,1990,NA
+Sao Tome and Principe,1990,NA
+Saudi Arabia,1990,NA
+Scotland,1990,1991
+Senegal,1990,NA
+Serbia,1990,NA
+Serbia and Montenegro,1990,NA
+Seychelles,1990,NA
+Sierra Leone,1990,NA
+Singapore,1990,NA
+Sint Eustatius,1990,NA
+Sint Maarten,1990,NA
+Slovakia,1990,NA
+Slovenia,1990,NA
+Solomon Islands,1990,NA
+Somalia,1990,NA
+Somaliland,1990,NA
+South Africa,1990,NA
+South Korea,1990,NA
+South Sudan,1990,NA
+South Vietnam,1990,NA
+South Yemen,1990,NA
+Southern Rhodesia,1990,NA
+Soviet Union,1990,NA
+Spain,1990,NA
+Sri Lanka,1990,NA
+Sudan,1990,NA
+Surinam,1990,NA
+Suriname,1990,NA
+Swaziland,1990,NA
+Sweden,1990,NA
+Switzerland,1990,NA
+Syria,1990,NA
+Tahiti,1990,NA
+Taiwan,1990,NA
+Tajikistan,1990,NA
+Tanganyika,1990,NA
+Tanzania,1990,NA
+Thailand,1990,NA
+Tibet,1990,NA
+Togo,1990,NA
+Tonga,1990,NA
+Trinidad and Tobago,1990,NA
+Tunisia,1990,NA
+Turkey,1990,NA
+Turkmenistan,1990,NA
+Turks and Caicos Islands,1990,NA
+Tuvalu,1990,NA
+Uganda,1990,NA
+Ukraine,1990,NA
+United Arab Emirates,1990,NA
+United Arab Republic,1990,NA
+United States,1990,NA
+Upper Volta,1990,NA
+Uruguay,1990,NA
+US Virgin Islands,1990,NA
+Uzbekistan,1990,NA
+Vanuatu,1990,NA
+Vatican,1990,NA
+Venezuela,1990,NA
+Vietnam,1990,NA
+Wales,1990,1439
+Wallis and Futuna,1990,NA
+West Germany,1990,NA
+Western Sahara,1990,NA
+Yemen,1990,NA
+Yugoslavia,1990,NA
+Zambia,1990,NA
+Zanzibar,1990,NA
+Zimbabwe,1990,NA
+Afghanistan,1994,NA
+Albania,1994,NA
+Algeria,1994,NA
+Andorra,1994,NA
+Angola,1994,NA
+Anguilla,1994,NA
+Antigua and Barbuda,1994,NA
+Argentina,1994,NA
+Armenia,1994,NA
+Aruba,1994,NA
+Australia,1994,NA
+Austria,1994,NA
+Azerbaijan,1994,NA
+Bahamas,1994,NA
+Bahrain,1994,NA
+Bangladesh,1994,NA
+Barbados,1994,NA
+Belarus,1994,NA
+Belgium,1994,NA
+Belize,1994,NA
+Benin,1994,NA
+Bermuda,1994,NA
+Bhutan,1994,NA
+Bolivia,1994,NA
+Bonaire,1994,NA
+Bosnia and Herzegovina,1994,NA
+Botswana,1994,NA
+Brazil,1994,NA
+British Guiana,1994,NA
+British Virgin Islands,1994,NA
+Brunei,1994,NA
+Bulgaria,1994,NA
+Burkina Faso,1994,NA
+Burma,1994,NA
+Burundi,1994,NA
+Cambodia,1994,NA
+Cameroon,1994,NA
+Canada,1994,NA
+Cape Verde,1994,NA
+Cayman Islands,1994,NA
+Central African Republic,1994,NA
+Ceylon,1994,NA
+Chad,1994,NA
+Chagos Islands,1994,NA
+Chile,1994,NA
+China,1994,NA
+Christmas Island,1994,NA
+Cocos Islands,1994,NA
+Colombia,1994,NA
+Comoros,1994,NA
+Congo,1994,NA
+Congo-Brazzaville,1994,NA
+Cook Islands,1994,NA
+Costa Rica,1994,NA
+Croatia,1994,NA
+Cuba,1994,NA
+Curaçao,1994,NA
+Cyprus,1994,NA
+Czechia,1994,NA
+Czechoslovakia,1994,NA
+Dahomey,1994,NA
+Democratic Republic of Congo,1994,NA
+Denmark,1994,NA
+Djibouti,1994,NA
+Dominica,1994,NA
+Dominican Republic,1994,NA
+East Germany,1994,NA
+East Timor,1994,NA
+Eastern Samoa,1994,NA
+Ecuador,1994,NA
+Egypt,1994,NA
+El Salvador,1994,NA
+England,1994,2050
+Equatorial Guinea,1994,NA
+Eritrea,1994,NA
+Estonia,1994,NA
+Eswatini,1994,NA
+Ethiopia,1994,NA
+Falkland Islands,1994,NA
+Faroe Islands,1994,NA
+Federated States of Micronesia,1994,NA
+Fiji,1994,NA
+Finland,1994,NA
+France,1994,NA
+French Guiana,1994,NA
+Gabon,1994,NA
+Gambia,1994,NA
+Georgia,1994,NA
+Germany,1994,NA
+Ghana,1994,NA
+Gibraltar,1994,NA
+Greece,1994,NA
+Greenland,1994,NA
+Grenada,1994,NA
+Guadeloupe,1994,NA
+Guam,1994,NA
+Guatemala,1994,NA
+Guinea,1994,NA
+Guinea-Bissau,1994,NA
+Guyana,1994,NA
+Haiti,1994,NA
+Honduras,1994,NA
+Hong Kong,1994,NA
+Hungary,1994,NA
+Iceland,1994,NA
+India,1994,NA
+Indonesia,1994,NA
+Iran,1994,NA
+Iraq,1994,NA
+Ireland,1994,1325
+Israel,1994,NA
+Italy,1994,NA
+Ivory Coast,1994,NA
+Jamaica,1994,NA
+Japan,1994,NA
+Jordan,1994,NA
+Kazakhstan,1994,NA
+Kenya,1994,NA
+Khmer Republic,1994,NA
+Kiribati,1994,NA
+Kosovo,1994,NA
+Kurdistan,1994,NA
+Kuwait,1994,NA
+Kyrgyzstan,1994,NA
+Laos,1994,NA
+Latvia,1994,NA
+Lebanon,1994,NA
+Lesotho,1994,NA
+Liberia,1994,NA
+Libya,1994,NA
+Liechtenstein,1994,NA
+Lithuania,1994,NA
+Luxembourg,1994,NA
+Macao,1994,NA
+Macedonia,1994,NA
+Madagascar,1994,NA
+Malawi,1994,NA
+Malaya,1994,NA
+Malaysia,1994,NA
+Maldives,1994,NA
+Mali,1994,NA
+Malta,1994,NA
+Marshall Islands,1994,NA
+Martinique,1994,NA
+Mauritania,1994,NA
+Mauritius,1994,NA
+Mayotte,1994,NA
+Mexico,1994,NA
+Moldova,1994,NA
+Monaco,1994,NA
+Mongolia,1994,NA
+Montenegro,1994,NA
+Montserrat,1994,NA
+Morocco,1994,NA
+Mozambique,1994,NA
+Myanmar,1994,NA
+Namibia,1994,NA
+Nepal,1994,NA
+Netherlands,1994,NA
+Netherlands Antilles,1994,NA
+New Caledonia,1994,NA
+New Zealand,1994,NA
+Nicaragua,1994,NA
+Niger,1994,NA
+Nigeria,1994,NA
+Niue,1994,NA
+North Korea,1994,NA
+North Macedonia,1994,NA
+North Vietnam,1994,NA
+North Yemen,1994,NA
+Northern Cyprus,1994,NA
+Northern Ireland,1994,NA
+Northern Mariana Islands,1994,NA
+Northern Rhodesia,1994,NA
+Norway,1994,NA
+Oman,1994,NA
+Pakistan,1994,NA
+Palau,1994,NA
+Palestine,1994,NA
+Panama,1994,NA
+Papua New Guinea,1994,NA
+Paraguay,1994,NA
+Peru,1994,NA
+Philippines,1994,NA
+Poland,1994,NA
+Portugal,1994,NA
+Puerto Rico,1994,NA
+Qatar,1994,NA
+Reunion,1994,NA
+Romania,1994,NA
+Russia,1994,NA
+Rwanda,1994,NA
+Saba,1994,NA
+Saint Barthelemy,1994,NA
+Saint Kitts and Nevis,1994,NA
+Saint Lucia,1994,NA
+Saint Martin,1994,NA
+Saint Pierre and Miquelon,1994,NA
+Saint Vincent and the Grenadines,1994,NA
+Samoa,1994,NA
+San Marino,1994,NA
+Sao Tome and Principe,1994,NA
+Saudi Arabia,1994,NA
+Scotland,1994,1991
+Senegal,1994,NA
+Serbia,1994,NA
+Serbia and Montenegro,1994,NA
+Seychelles,1994,NA
+Sierra Leone,1994,NA
+Singapore,1994,NA
+Sint Eustatius,1994,NA
+Sint Maarten,1994,NA
+Slovakia,1994,NA
+Slovenia,1994,NA
+Solomon Islands,1994,NA
+Somalia,1994,NA
+Somaliland,1994,NA
+South Africa,1994,NA
+South Korea,1994,NA
+South Sudan,1994,NA
+South Vietnam,1994,NA
+South Yemen,1994,NA
+Southern Rhodesia,1994,NA
+Soviet Union,1994,NA
+Spain,1994,NA
+Sri Lanka,1994,NA
+Sudan,1994,NA
+Surinam,1994,NA
+Suriname,1994,NA
+Swaziland,1994,NA
+Sweden,1994,NA
+Switzerland,1994,NA
+Syria,1994,NA
+Tahiti,1994,NA
+Taiwan,1994,NA
+Tajikistan,1994,NA
+Tanganyika,1994,NA
+Tanzania,1994,NA
+Thailand,1994,NA
+Tibet,1994,NA
+Togo,1994,NA
+Tonga,1994,NA
+Trinidad and Tobago,1994,NA
+Tunisia,1994,NA
+Turkey,1994,NA
+Turkmenistan,1994,NA
+Turks and Caicos Islands,1994,NA
+Tuvalu,1994,NA
+Uganda,1994,NA
+Ukraine,1994,NA
+United Arab Emirates,1994,NA
+United Arab Republic,1994,NA
+United States,1994,NA
+Upper Volta,1994,NA
+Uruguay,1994,NA
+US Virgin Islands,1994,NA
+Uzbekistan,1994,NA
+Vanuatu,1994,NA
+Vatican,1994,NA
+Venezuela,1994,NA
+Vietnam,1994,NA
+Wales,1994,1439
+Wallis and Futuna,1994,NA
+West Germany,1994,NA
+Western Sahara,1994,NA
+Yemen,1994,NA
+Yugoslavia,1994,NA
+Zambia,1994,NA
+Zanzibar,1994,NA
+Zimbabwe,1994,NA
+Afghanistan,1998,NA
+Albania,1998,NA
+Algeria,1998,NA
+Andorra,1998,NA
+Angola,1998,NA
+Anguilla,1998,NA
+Antigua and Barbuda,1998,NA
+Argentina,1998,NA
+Armenia,1998,NA
+Aruba,1998,NA
+Australia,1998,NA
+Austria,1998,NA
+Azerbaijan,1998,NA
+Bahamas,1998,NA
+Bahrain,1998,NA
+Bangladesh,1998,NA
+Barbados,1998,NA
+Belarus,1998,NA
+Belgium,1998,NA
+Belize,1998,NA
+Benin,1998,NA
+Bermuda,1998,NA
+Bhutan,1998,NA
+Bolivia,1998,NA
+Bonaire,1998,NA
+Bosnia and Herzegovina,1998,NA
+Botswana,1998,NA
+Brazil,1998,NA
+British Guiana,1998,NA
+British Virgin Islands,1998,NA
+Brunei,1998,NA
+Bulgaria,1998,NA
+Burkina Faso,1998,NA
+Burma,1998,NA
+Burundi,1998,NA
+Cambodia,1998,NA
+Cameroon,1998,NA
+Canada,1998,NA
+Cape Verde,1998,NA
+Cayman Islands,1998,NA
+Central African Republic,1998,NA
+Ceylon,1998,NA
+Chad,1998,NA
+Chagos Islands,1998,NA
+Chile,1998,NA
+China,1998,NA
+Christmas Island,1998,NA
+Cocos Islands,1998,NA
+Colombia,1998,NA
+Comoros,1998,NA
+Congo,1998,NA
+Congo-Brazzaville,1998,NA
+Cook Islands,1998,NA
+Costa Rica,1998,NA
+Croatia,1998,NA
+Cuba,1998,NA
+Curaçao,1998,NA
+Cyprus,1998,NA
+Czechia,1998,NA
+Czechoslovakia,1998,NA
+Dahomey,1998,NA
+Democratic Republic of Congo,1998,NA
+Denmark,1998,NA
+Djibouti,1998,NA
+Dominica,1998,NA
+Dominican Republic,1998,NA
+East Germany,1998,NA
+East Timor,1998,NA
+Eastern Samoa,1998,NA
+Ecuador,1998,NA
+Egypt,1998,NA
+El Salvador,1998,NA
+England,1998,2050
+Equatorial Guinea,1998,NA
+Eritrea,1998,NA
+Estonia,1998,NA
+Eswatini,1998,NA
+Ethiopia,1998,NA
+Falkland Islands,1998,NA
+Faroe Islands,1998,NA
+Federated States of Micronesia,1998,NA
+Fiji,1998,NA
+Finland,1998,NA
+France,1998,NA
+French Guiana,1998,NA
+Gabon,1998,NA
+Gambia,1998,NA
+Georgia,1998,NA
+Germany,1998,NA
+Ghana,1998,NA
+Gibraltar,1998,NA
+Greece,1998,NA
+Greenland,1998,NA
+Grenada,1998,NA
+Guadeloupe,1998,NA
+Guam,1998,NA
+Guatemala,1998,NA
+Guinea,1998,NA
+Guinea-Bissau,1998,NA
+Guyana,1998,NA
+Haiti,1998,NA
+Honduras,1998,NA
+Hong Kong,1998,NA
+Hungary,1998,NA
+Iceland,1998,NA
+India,1998,NA
+Indonesia,1998,NA
+Iran,1998,NA
+Iraq,1998,NA
+Ireland,1998,1325
+Israel,1998,NA
+Italy,1998,NA
+Ivory Coast,1998,NA
+Jamaica,1998,NA
+Japan,1998,NA
+Jordan,1998,NA
+Kazakhstan,1998,NA
+Kenya,1998,NA
+Khmer Republic,1998,NA
+Kiribati,1998,NA
+Kosovo,1998,NA
+Kurdistan,1998,NA
+Kuwait,1998,NA
+Kyrgyzstan,1998,NA
+Laos,1998,NA
+Latvia,1998,NA
+Lebanon,1998,NA
+Lesotho,1998,NA
+Liberia,1998,NA
+Libya,1998,NA
+Liechtenstein,1998,NA
+Lithuania,1998,NA
+Luxembourg,1998,NA
+Macao,1998,NA
+Macedonia,1998,NA
+Madagascar,1998,NA
+Malawi,1998,NA
+Malaya,1998,NA
+Malaysia,1998,NA
+Maldives,1998,NA
+Mali,1998,NA
+Malta,1998,NA
+Marshall Islands,1998,NA
+Martinique,1998,NA
+Mauritania,1998,NA
+Mauritius,1998,NA
+Mayotte,1998,NA
+Mexico,1998,NA
+Moldova,1998,NA
+Monaco,1998,NA
+Mongolia,1998,NA
+Montenegro,1998,NA
+Montserrat,1998,NA
+Morocco,1998,NA
+Mozambique,1998,NA
+Myanmar,1998,NA
+Namibia,1998,NA
+Nepal,1998,NA
+Netherlands,1998,NA
+Netherlands Antilles,1998,NA
+New Caledonia,1998,NA
+New Zealand,1998,NA
+Nicaragua,1998,NA
+Niger,1998,NA
+Nigeria,1998,NA
+Niue,1998,NA
+North Korea,1998,NA
+North Macedonia,1998,NA
+North Vietnam,1998,NA
+North Yemen,1998,NA
+Northern Cyprus,1998,NA
+Northern Ireland,1998,NA
+Northern Mariana Islands,1998,NA
+Northern Rhodesia,1998,NA
+Norway,1998,NA
+Oman,1998,NA
+Pakistan,1998,NA
+Palau,1998,NA
+Palestine,1998,NA
+Panama,1998,NA
+Papua New Guinea,1998,NA
+Paraguay,1998,NA
+Peru,1998,NA
+Philippines,1998,NA
+Poland,1998,NA
+Portugal,1998,NA
+Puerto Rico,1998,NA
+Qatar,1998,NA
+Reunion,1998,NA
+Romania,1998,NA
+Russia,1998,NA
+Rwanda,1998,NA
+Saba,1998,NA
+Saint Barthelemy,1998,NA
+Saint Kitts and Nevis,1998,NA
+Saint Lucia,1998,NA
+Saint Martin,1998,NA
+Saint Pierre and Miquelon,1998,NA
+Saint Vincent and the Grenadines,1998,NA
+Samoa,1998,NA
+San Marino,1998,NA
+Sao Tome and Principe,1998,NA
+Saudi Arabia,1998,NA
+Scotland,1998,1991
+Senegal,1998,NA
+Serbia,1998,NA
+Serbia and Montenegro,1998,NA
+Seychelles,1998,NA
+Sierra Leone,1998,NA
+Singapore,1998,NA
+Sint Eustatius,1998,NA
+Sint Maarten,1998,NA
+Slovakia,1998,NA
+Slovenia,1998,NA
+Solomon Islands,1998,NA
+Somalia,1998,NA
+Somaliland,1998,NA
+South Africa,1998,NA
+South Korea,1998,NA
+South Sudan,1998,NA
+South Vietnam,1998,NA
+South Yemen,1998,NA
+Southern Rhodesia,1998,NA
+Soviet Union,1998,NA
+Spain,1998,NA
+Sri Lanka,1998,NA
+Sudan,1998,NA
+Surinam,1998,NA
+Suriname,1998,NA
+Swaziland,1998,NA
+Sweden,1998,NA
+Switzerland,1998,NA
+Syria,1998,NA
+Tahiti,1998,NA
+Taiwan,1998,NA
+Tajikistan,1998,NA
+Tanganyika,1998,NA
+Tanzania,1998,NA
+Thailand,1998,NA
+Tibet,1998,NA
+Togo,1998,NA
+Tonga,1998,NA
+Trinidad and Tobago,1998,NA
+Tunisia,1998,NA
+Turkey,1998,NA
+Turkmenistan,1998,NA
+Turks and Caicos Islands,1998,NA
+Tuvalu,1998,NA
+Uganda,1998,NA
+Ukraine,1998,NA
+United Arab Emirates,1998,NA
+United Arab Republic,1998,NA
+United States,1998,NA
+Upper Volta,1998,NA
+Uruguay,1998,NA
+US Virgin Islands,1998,NA
+Uzbekistan,1998,NA
+Vanuatu,1998,NA
+Vatican,1998,NA
+Venezuela,1998,NA
+Vietnam,1998,NA
+Wales,1998,1439
+Wallis and Futuna,1998,NA
+West Germany,1998,NA
+Western Sahara,1998,NA
+Yemen,1998,NA
+Yugoslavia,1998,NA
+Zambia,1998,NA
+Zanzibar,1998,NA
+Zimbabwe,1998,NA
+Afghanistan,2002,NA
+Albania,2002,NA
+Algeria,2002,NA
+Andorra,2002,NA
+Angola,2002,NA
+Anguilla,2002,NA
+Antigua and Barbuda,2002,NA
+Argentina,2002,NA
+Armenia,2002,NA
+Aruba,2002,NA
+Australia,2002,NA
+Austria,2002,NA
+Azerbaijan,2002,NA
+Bahamas,2002,NA
+Bahrain,2002,NA
+Bangladesh,2002,NA
+Barbados,2002,NA
+Belarus,2002,NA
+Belgium,2002,NA
+Belize,2002,NA
+Benin,2002,NA
+Bermuda,2002,NA
+Bhutan,2002,NA
+Bolivia,2002,NA
+Bonaire,2002,NA
+Bosnia and Herzegovina,2002,NA
+Botswana,2002,NA
+Brazil,2002,NA
+British Guiana,2002,NA
+British Virgin Islands,2002,NA
+Brunei,2002,NA
+Bulgaria,2002,NA
+Burkina Faso,2002,NA
+Burma,2002,NA
+Burundi,2002,NA
+Cambodia,2002,NA
+Cameroon,2002,NA
+Canada,2002,NA
+Cape Verde,2002,NA
+Cayman Islands,2002,NA
+Central African Republic,2002,NA
+Ceylon,2002,NA
+Chad,2002,NA
+Chagos Islands,2002,NA
+Chile,2002,NA
+China,2002,NA
+Christmas Island,2002,NA
+Cocos Islands,2002,NA
+Colombia,2002,NA
+Comoros,2002,NA
+Congo,2002,NA
+Congo-Brazzaville,2002,NA
+Cook Islands,2002,NA
+Costa Rica,2002,NA
+Croatia,2002,NA
+Cuba,2002,NA
+Curaçao,2002,NA
+Cyprus,2002,NA
+Czechia,2002,NA
+Czechoslovakia,2002,NA
+Dahomey,2002,NA
+Democratic Republic of Congo,2002,NA
+Denmark,2002,NA
+Djibouti,2002,NA
+Dominica,2002,NA
+Dominican Republic,2002,NA
+East Germany,2002,NA
+East Timor,2002,NA
+Eastern Samoa,2002,NA
+Ecuador,2002,NA
+Egypt,2002,NA
+El Salvador,2002,NA
+England,2002,2050
+Equatorial Guinea,2002,NA
+Eritrea,2002,NA
+Estonia,2002,NA
+Eswatini,2002,NA
+Ethiopia,2002,NA
+Falkland Islands,2002,NA
+Faroe Islands,2002,NA
+Federated States of Micronesia,2002,NA
+Fiji,2002,NA
+Finland,2002,NA
+France,2002,NA
+French Guiana,2002,NA
+Gabon,2002,NA
+Gambia,2002,NA
+Georgia,2002,NA
+Germany,2002,NA
+Ghana,2002,NA
+Gibraltar,2002,NA
+Greece,2002,NA
+Greenland,2002,NA
+Grenada,2002,NA
+Guadeloupe,2002,NA
+Guam,2002,NA
+Guatemala,2002,NA
+Guinea,2002,NA
+Guinea-Bissau,2002,NA
+Guyana,2002,NA
+Haiti,2002,NA
+Honduras,2002,NA
+Hong Kong,2002,NA
+Hungary,2002,NA
+Iceland,2002,NA
+India,2002,NA
+Indonesia,2002,NA
+Iran,2002,NA
+Iraq,2002,NA
+Ireland,2002,1325
+Israel,2002,NA
+Italy,2002,NA
+Ivory Coast,2002,NA
+Jamaica,2002,NA
+Japan,2002,NA
+Jordan,2002,NA
+Kazakhstan,2002,NA
+Kenya,2002,NA
+Khmer Republic,2002,NA
+Kiribati,2002,NA
+Kosovo,2002,NA
+Kurdistan,2002,NA
+Kuwait,2002,NA
+Kyrgyzstan,2002,NA
+Laos,2002,NA
+Latvia,2002,NA
+Lebanon,2002,NA
+Lesotho,2002,NA
+Liberia,2002,NA
+Libya,2002,NA
+Liechtenstein,2002,NA
+Lithuania,2002,NA
+Luxembourg,2002,NA
+Macao,2002,NA
+Macedonia,2002,NA
+Madagascar,2002,NA
+Malawi,2002,NA
+Malaya,2002,NA
+Malaysia,2002,NA
+Maldives,2002,NA
+Mali,2002,NA
+Malta,2002,NA
+Marshall Islands,2002,NA
+Martinique,2002,NA
+Mauritania,2002,NA
+Mauritius,2002,NA
+Mayotte,2002,NA
+Mexico,2002,NA
+Moldova,2002,NA
+Monaco,2002,NA
+Mongolia,2002,NA
+Montenegro,2002,NA
+Montserrat,2002,NA
+Morocco,2002,NA
+Mozambique,2002,NA
+Myanmar,2002,NA
+Namibia,2002,NA
+Nepal,2002,NA
+Netherlands,2002,NA
+Netherlands Antilles,2002,NA
+New Caledonia,2002,NA
+New Zealand,2002,NA
+Nicaragua,2002,NA
+Niger,2002,NA
+Nigeria,2002,NA
+Niue,2002,NA
+North Korea,2002,NA
+North Macedonia,2002,NA
+North Vietnam,2002,NA
+North Yemen,2002,NA
+Northern Cyprus,2002,NA
+Northern Ireland,2002,NA
+Northern Mariana Islands,2002,NA
+Northern Rhodesia,2002,NA
+Norway,2002,NA
+Oman,2002,NA
+Pakistan,2002,NA
+Palau,2002,NA
+Palestine,2002,NA
+Panama,2002,NA
+Papua New Guinea,2002,NA
+Paraguay,2002,NA
+Peru,2002,NA
+Philippines,2002,NA
+Poland,2002,NA
+Portugal,2002,NA
+Puerto Rico,2002,NA
+Qatar,2002,NA
+Reunion,2002,NA
+Romania,2002,NA
+Russia,2002,NA
+Rwanda,2002,NA
+Saba,2002,NA
+Saint Barthelemy,2002,NA
+Saint Kitts and Nevis,2002,NA
+Saint Lucia,2002,NA
+Saint Martin,2002,NA
+Saint Pierre and Miquelon,2002,NA
+Saint Vincent and the Grenadines,2002,NA
+Samoa,2002,NA
+San Marino,2002,NA
+Sao Tome and Principe,2002,NA
+Saudi Arabia,2002,NA
+Scotland,2002,1991
+Senegal,2002,NA
+Serbia,2002,NA
+Serbia and Montenegro,2002,NA
+Seychelles,2002,NA
+Sierra Leone,2002,NA
+Singapore,2002,NA
+Sint Eustatius,2002,NA
+Sint Maarten,2002,NA
+Slovakia,2002,NA
+Slovenia,2002,NA
+Solomon Islands,2002,NA
+Somalia,2002,NA
+Somaliland,2002,NA
+South Africa,2002,NA
+South Korea,2002,NA
+South Sudan,2002,NA
+South Vietnam,2002,NA
+South Yemen,2002,NA
+Southern Rhodesia,2002,NA
+Soviet Union,2002,NA
+Spain,2002,NA
+Sri Lanka,2002,NA
+Sudan,2002,NA
+Surinam,2002,NA
+Suriname,2002,NA
+Swaziland,2002,NA
+Sweden,2002,NA
+Switzerland,2002,NA
+Syria,2002,NA
+Tahiti,2002,NA
+Taiwan,2002,NA
+Tajikistan,2002,NA
+Tanganyika,2002,NA
+Tanzania,2002,NA
+Thailand,2002,NA
+Tibet,2002,NA
+Togo,2002,NA
+Tonga,2002,NA
+Trinidad and Tobago,2002,NA
+Tunisia,2002,NA
+Turkey,2002,NA
+Turkmenistan,2002,NA
+Turks and Caicos Islands,2002,NA
+Tuvalu,2002,NA
+Uganda,2002,NA
+Ukraine,2002,NA
+United Arab Emirates,2002,NA
+United Arab Republic,2002,NA
+United States,2002,NA
+Upper Volta,2002,NA
+Uruguay,2002,NA
+US Virgin Islands,2002,NA
+Uzbekistan,2002,NA
+Vanuatu,2002,NA
+Vatican,2002,NA
+Venezuela,2002,NA
+Vietnam,2002,NA
+Wales,2002,1439
+Wallis and Futuna,2002,NA
+West Germany,2002,NA
+Western Sahara,2002,NA
+Yemen,2002,NA
+Yugoslavia,2002,NA
+Zambia,2002,NA
+Zanzibar,2002,NA
+Zimbabwe,2002,NA
+Afghanistan,2006,NA
+Albania,2006,NA
+Algeria,2006,NA
+Andorra,2006,NA
+Angola,2006,NA
+Anguilla,2006,NA
+Antigua and Barbuda,2006,NA
+Argentina,2006,NA
+Armenia,2006,NA
+Aruba,2006,NA
+Australia,2006,NA
+Austria,2006,NA
+Azerbaijan,2006,NA
+Bahamas,2006,NA
+Bahrain,2006,NA
+Bangladesh,2006,NA
+Barbados,2006,NA
+Belarus,2006,NA
+Belgium,2006,NA
+Belize,2006,NA
+Benin,2006,NA
+Bermuda,2006,NA
+Bhutan,2006,NA
+Bolivia,2006,NA
+Bonaire,2006,NA
+Bosnia and Herzegovina,2006,NA
+Botswana,2006,NA
+Brazil,2006,NA
+British Guiana,2006,NA
+British Virgin Islands,2006,NA
+Brunei,2006,NA
+Bulgaria,2006,NA
+Burkina Faso,2006,NA
+Burma,2006,NA
+Burundi,2006,NA
+Cambodia,2006,NA
+Cameroon,2006,NA
+Canada,2006,NA
+Cape Verde,2006,NA
+Cayman Islands,2006,NA
+Central African Republic,2006,NA
+Ceylon,2006,NA
+Chad,2006,NA
+Chagos Islands,2006,NA
+Chile,2006,NA
+China,2006,NA
+Christmas Island,2006,NA
+Cocos Islands,2006,NA
+Colombia,2006,NA
+Comoros,2006,NA
+Congo,2006,NA
+Congo-Brazzaville,2006,NA
+Cook Islands,2006,NA
+Costa Rica,2006,NA
+Croatia,2006,NA
+Cuba,2006,NA
+Curaçao,2006,NA
+Cyprus,2006,NA
+Czechia,2006,NA
+Czechoslovakia,2006,NA
+Dahomey,2006,NA
+Democratic Republic of Congo,2006,NA
+Denmark,2006,NA
+Djibouti,2006,NA
+Dominica,2006,NA
+Dominican Republic,2006,NA
+East Germany,2006,NA
+East Timor,2006,NA
+Eastern Samoa,2006,NA
+Ecuador,2006,NA
+Egypt,2006,NA
+El Salvador,2006,NA
+England,2006,2050
+Equatorial Guinea,2006,NA
+Eritrea,2006,NA
+Estonia,2006,NA
+Eswatini,2006,NA
+Ethiopia,2006,NA
+Falkland Islands,2006,NA
+Faroe Islands,2006,NA
+Federated States of Micronesia,2006,NA
+Fiji,2006,NA
+Finland,2006,NA
+France,2006,NA
+French Guiana,2006,NA
+Gabon,2006,NA
+Gambia,2006,NA
+Georgia,2006,NA
+Germany,2006,NA
+Ghana,2006,NA
+Gibraltar,2006,NA
+Greece,2006,NA
+Greenland,2006,NA
+Grenada,2006,NA
+Guadeloupe,2006,NA
+Guam,2006,NA
+Guatemala,2006,NA
+Guinea,2006,NA
+Guinea-Bissau,2006,NA
+Guyana,2006,NA
+Haiti,2006,NA
+Honduras,2006,NA
+Hong Kong,2006,NA
+Hungary,2006,NA
+Iceland,2006,NA
+India,2006,NA
+Indonesia,2006,NA
+Iran,2006,NA
+Iraq,2006,NA
+Ireland,2006,1325
+Israel,2006,NA
+Italy,2006,NA
+Ivory Coast,2006,NA
+Jamaica,2006,NA
+Japan,2006,NA
+Jordan,2006,NA
+Kazakhstan,2006,NA
+Kenya,2006,NA
+Khmer Republic,2006,NA
+Kiribati,2006,NA
+Kosovo,2006,NA
+Kurdistan,2006,NA
+Kuwait,2006,NA
+Kyrgyzstan,2006,NA
+Laos,2006,NA
+Latvia,2006,NA
+Lebanon,2006,NA
+Lesotho,2006,NA
+Liberia,2006,NA
+Libya,2006,NA
+Liechtenstein,2006,NA
+Lithuania,2006,NA
+Luxembourg,2006,NA
+Macao,2006,NA
+Macedonia,2006,NA
+Madagascar,2006,NA
+Malawi,2006,NA
+Malaya,2006,NA
+Malaysia,2006,NA
+Maldives,2006,NA
+Mali,2006,NA
+Malta,2006,NA
+Marshall Islands,2006,NA
+Martinique,2006,NA
+Mauritania,2006,NA
+Mauritius,2006,NA
+Mayotte,2006,NA
+Mexico,2006,NA
+Moldova,2006,NA
+Monaco,2006,NA
+Mongolia,2006,NA
+Montenegro,2006,NA
+Montserrat,2006,NA
+Morocco,2006,NA
+Mozambique,2006,NA
+Myanmar,2006,NA
+Namibia,2006,NA
+Nepal,2006,NA
+Netherlands,2006,NA
+Netherlands Antilles,2006,NA
+New Caledonia,2006,NA
+New Zealand,2006,NA
+Nicaragua,2006,NA
+Niger,2006,NA
+Nigeria,2006,NA
+Niue,2006,NA
+North Korea,2006,NA
+North Macedonia,2006,NA
+North Vietnam,2006,NA
+North Yemen,2006,NA
+Northern Cyprus,2006,NA
+Northern Ireland,2006,NA
+Northern Mariana Islands,2006,NA
+Northern Rhodesia,2006,NA
+Norway,2006,NA
+Oman,2006,NA
+Pakistan,2006,NA
+Palau,2006,NA
+Palestine,2006,NA
+Panama,2006,NA
+Papua New Guinea,2006,NA
+Paraguay,2006,NA
+Peru,2006,NA
+Philippines,2006,NA
+Poland,2006,NA
+Portugal,2006,NA
+Puerto Rico,2006,NA
+Qatar,2006,NA
+Reunion,2006,NA
+Romania,2006,NA
+Russia,2006,NA
+Rwanda,2006,NA
+Saba,2006,NA
+Saint Barthelemy,2006,NA
+Saint Kitts and Nevis,2006,NA
+Saint Lucia,2006,NA
+Saint Martin,2006,NA
+Saint Pierre and Miquelon,2006,NA
+Saint Vincent and the Grenadines,2006,NA
+Samoa,2006,NA
+San Marino,2006,NA
+Sao Tome and Principe,2006,NA
+Saudi Arabia,2006,NA
+Scotland,2006,1991
+Senegal,2006,NA
+Serbia,2006,NA
+Serbia and Montenegro,2006,NA
+Seychelles,2006,NA
+Sierra Leone,2006,NA
+Singapore,2006,NA
+Sint Eustatius,2006,NA
+Sint Maarten,2006,NA
+Slovakia,2006,NA
+Slovenia,2006,NA
+Solomon Islands,2006,NA
+Somalia,2006,NA
+Somaliland,2006,NA
+South Africa,2006,NA
+South Korea,2006,NA
+South Sudan,2006,NA
+South Vietnam,2006,NA
+South Yemen,2006,NA
+Southern Rhodesia,2006,NA
+Soviet Union,2006,NA
+Spain,2006,NA
+Sri Lanka,2006,NA
+Sudan,2006,NA
+Surinam,2006,NA
+Suriname,2006,NA
+Swaziland,2006,NA
+Sweden,2006,NA
+Switzerland,2006,NA
+Syria,2006,NA
+Tahiti,2006,NA
+Taiwan,2006,NA
+Tajikistan,2006,NA
+Tanganyika,2006,NA
+Tanzania,2006,NA
+Thailand,2006,NA
+Tibet,2006,NA
+Togo,2006,NA
+Tonga,2006,NA
+Trinidad and Tobago,2006,NA
+Tunisia,2006,NA
+Turkey,2006,NA
+Turkmenistan,2006,NA
+Turks and Caicos Islands,2006,NA
+Tuvalu,2006,NA
+Uganda,2006,NA
+Ukraine,2006,NA
+United Arab Emirates,2006,NA
+United Arab Republic,2006,NA
+United States,2006,NA
+Upper Volta,2006,NA
+Uruguay,2006,NA
+US Virgin Islands,2006,NA
+Uzbekistan,2006,NA
+Vanuatu,2006,NA
+Vatican,2006,NA
+Venezuela,2006,NA
+Vietnam,2006,NA
+Wales,2006,1439
+Wallis and Futuna,2006,NA
+West Germany,2006,NA
+Western Sahara,2006,NA
+Yemen,2006,NA
+Yugoslavia,2006,NA
+Zambia,2006,NA
+Zanzibar,2006,NA
+Zimbabwe,2006,NA
+Afghanistan,2010,NA
+Albania,2010,NA
+Algeria,2010,NA
+Andorra,2010,NA
+Angola,2010,NA
+Anguilla,2010,NA
+Antigua and Barbuda,2010,NA
+Argentina,2010,NA
+Armenia,2010,NA
+Aruba,2010,NA
+Australia,2010,NA
+Austria,2010,NA
+Azerbaijan,2010,NA
+Bahamas,2010,NA
+Bahrain,2010,NA
+Bangladesh,2010,NA
+Barbados,2010,NA
+Belarus,2010,NA
+Belgium,2010,NA
+Belize,2010,NA
+Benin,2010,NA
+Bermuda,2010,NA
+Bhutan,2010,NA
+Bolivia,2010,NA
+Bonaire,2010,NA
+Bosnia and Herzegovina,2010,NA
+Botswana,2010,NA
+Brazil,2010,NA
+British Guiana,2010,NA
+British Virgin Islands,2010,NA
+Brunei,2010,NA
+Bulgaria,2010,NA
+Burkina Faso,2010,NA
+Burma,2010,NA
+Burundi,2010,NA
+Cambodia,2010,NA
+Cameroon,2010,NA
+Canada,2010,NA
+Cape Verde,2010,NA
+Cayman Islands,2010,NA
+Central African Republic,2010,NA
+Ceylon,2010,NA
+Chad,2010,NA
+Chagos Islands,2010,NA
+Chile,2010,NA
+China,2010,NA
+Christmas Island,2010,NA
+Cocos Islands,2010,NA
+Colombia,2010,NA
+Comoros,2010,NA
+Congo,2010,NA
+Congo-Brazzaville,2010,NA
+Cook Islands,2010,NA
+Costa Rica,2010,NA
+Croatia,2010,NA
+Cuba,2010,NA
+Curaçao,2010,NA
+Cyprus,2010,NA
+Czechia,2010,NA
+Czechoslovakia,2010,NA
+Dahomey,2010,NA
+Democratic Republic of Congo,2010,NA
+Denmark,2010,NA
+Djibouti,2010,NA
+Dominica,2010,NA
+Dominican Republic,2010,NA
+East Germany,2010,NA
+East Timor,2010,NA
+Eastern Samoa,2010,NA
+Ecuador,2010,NA
+Egypt,2010,NA
+El Salvador,2010,NA
+England,2010,2050
+Equatorial Guinea,2010,NA
+Eritrea,2010,NA
+Estonia,2010,NA
+Eswatini,2010,NA
+Ethiopia,2010,NA
+Falkland Islands,2010,NA
+Faroe Islands,2010,NA
+Federated States of Micronesia,2010,NA
+Fiji,2010,NA
+Finland,2010,NA
+France,2010,NA
+French Guiana,2010,NA
+Gabon,2010,NA
+Gambia,2010,NA
+Georgia,2010,NA
+Germany,2010,NA
+Ghana,2010,NA
+Gibraltar,2010,NA
+Greece,2010,NA
+Greenland,2010,NA
+Grenada,2010,NA
+Guadeloupe,2010,NA
+Guam,2010,NA
+Guatemala,2010,NA
+Guinea,2010,NA
+Guinea-Bissau,2010,NA
+Guyana,2010,NA
+Haiti,2010,NA
+Honduras,2010,NA
+Hong Kong,2010,NA
+Hungary,2010,NA
+Iceland,2010,NA
+India,2010,NA
+Indonesia,2010,NA
+Iran,2010,NA
+Iraq,2010,NA
+Ireland,2010,1325
+Israel,2010,NA
+Italy,2010,NA
+Ivory Coast,2010,NA
+Jamaica,2010,NA
+Japan,2010,NA
+Jordan,2010,NA
+Kazakhstan,2010,NA
+Kenya,2010,NA
+Khmer Republic,2010,NA
+Kiribati,2010,NA
+Kosovo,2010,NA
+Kurdistan,2010,NA
+Kuwait,2010,NA
+Kyrgyzstan,2010,NA
+Laos,2010,NA
+Latvia,2010,NA
+Lebanon,2010,NA
+Lesotho,2010,NA
+Liberia,2010,NA
+Libya,2010,NA
+Liechtenstein,2010,NA
+Lithuania,2010,NA
+Luxembourg,2010,NA
+Macao,2010,NA
+Macedonia,2010,NA
+Madagascar,2010,NA
+Malawi,2010,NA
+Malaya,2010,NA
+Malaysia,2010,NA
+Maldives,2010,NA
+Mali,2010,NA
+Malta,2010,NA
+Marshall Islands,2010,NA
+Martinique,2010,NA
+Mauritania,2010,NA
+Mauritius,2010,NA
+Mayotte,2010,NA
+Mexico,2010,NA
+Moldova,2010,NA
+Monaco,2010,NA
+Mongolia,2010,NA
+Montenegro,2010,NA
+Montserrat,2010,NA
+Morocco,2010,NA
+Mozambique,2010,NA
+Myanmar,2010,NA
+Namibia,2010,NA
+Nepal,2010,NA
+Netherlands,2010,NA
+Netherlands Antilles,2010,NA
+New Caledonia,2010,NA
+New Zealand,2010,NA
+Nicaragua,2010,NA
+Niger,2010,NA
+Nigeria,2010,NA
+Niue,2010,NA
+North Korea,2010,NA
+North Macedonia,2010,NA
+North Vietnam,2010,NA
+North Yemen,2010,NA
+Northern Cyprus,2010,NA
+Northern Ireland,2010,NA
+Northern Mariana Islands,2010,NA
+Northern Rhodesia,2010,NA
+Norway,2010,NA
+Oman,2010,NA
+Pakistan,2010,NA
+Palau,2010,NA
+Palestine,2010,NA
+Panama,2010,NA
+Papua New Guinea,2010,NA
+Paraguay,2010,NA
+Peru,2010,NA
+Philippines,2010,NA
+Poland,2010,NA
+Portugal,2010,NA
+Puerto Rico,2010,NA
+Qatar,2010,NA
+Reunion,2010,NA
+Romania,2010,NA
+Russia,2010,NA
+Rwanda,2010,NA
+Saba,2010,NA
+Saint Barthelemy,2010,NA
+Saint Kitts and Nevis,2010,NA
+Saint Lucia,2010,NA
+Saint Martin,2010,NA
+Saint Pierre and Miquelon,2010,NA
+Saint Vincent and the Grenadines,2010,NA
+Samoa,2010,NA
+San Marino,2010,NA
+Sao Tome and Principe,2010,NA
+Saudi Arabia,2010,NA
+Scotland,2010,1991
+Senegal,2010,NA
+Serbia,2010,NA
+Serbia and Montenegro,2010,NA
+Seychelles,2010,NA
+Sierra Leone,2010,NA
+Singapore,2010,NA
+Sint Eustatius,2010,NA
+Sint Maarten,2010,NA
+Slovakia,2010,NA
+Slovenia,2010,NA
+Solomon Islands,2010,NA
+Somalia,2010,NA
+Somaliland,2010,NA
+South Africa,2010,NA
+South Korea,2010,NA
+South Sudan,2010,NA
+South Vietnam,2010,NA
+South Yemen,2010,NA
+Southern Rhodesia,2010,NA
+Soviet Union,2010,NA
+Spain,2010,NA
+Sri Lanka,2010,NA
+Sudan,2010,NA
+Surinam,2010,NA
+Suriname,2010,NA
+Swaziland,2010,NA
+Sweden,2010,NA
+Switzerland,2010,NA
+Syria,2010,NA
+Tahiti,2010,NA
+Taiwan,2010,NA
+Tajikistan,2010,NA
+Tanganyika,2010,NA
+Tanzania,2010,NA
+Thailand,2010,NA
+Tibet,2010,NA
+Togo,2010,NA
+Tonga,2010,NA
+Trinidad and Tobago,2010,NA
+Tunisia,2010,NA
+Turkey,2010,NA
+Turkmenistan,2010,NA
+Turks and Caicos Islands,2010,NA
+Tuvalu,2010,NA
+Uganda,2010,NA
+Ukraine,2010,NA
+United Arab Emirates,2010,NA
+United Arab Republic,2010,NA
+United States,2010,NA
+Upper Volta,2010,NA
+Uruguay,2010,NA
+US Virgin Islands,2010,NA
+Uzbekistan,2010,NA
+Vanuatu,2010,NA
+Vatican,2010,NA
+Venezuela,2010,NA
+Vietnam,2010,NA
+Wales,2010,1439
+Wallis and Futuna,2010,NA
+West Germany,2010,NA
+Western Sahara,2010,NA
+Yemen,2010,NA
+Yugoslavia,2010,NA
+Zambia,2010,NA
+Zanzibar,2010,NA
+Zimbabwe,2010,NA
+Afghanistan,2014,NA
+Albania,2014,NA
+Algeria,2014,NA
+Andorra,2014,NA
+Angola,2014,NA
+Anguilla,2014,NA
+Antigua and Barbuda,2014,NA
+Argentina,2014,NA
+Armenia,2014,NA
+Aruba,2014,NA
+Australia,2014,NA
+Austria,2014,NA
+Azerbaijan,2014,NA
+Bahamas,2014,NA
+Bahrain,2014,NA
+Bangladesh,2014,NA
+Barbados,2014,NA
+Belarus,2014,NA
+Belgium,2014,NA
+Belize,2014,NA
+Benin,2014,NA
+Bermuda,2014,NA
+Bhutan,2014,NA
+Bolivia,2014,NA
+Bonaire,2014,NA
+Bosnia and Herzegovina,2014,NA
+Botswana,2014,NA
+Brazil,2014,NA
+British Guiana,2014,NA
+British Virgin Islands,2014,NA
+Brunei,2014,NA
+Bulgaria,2014,NA
+Burkina Faso,2014,NA
+Burma,2014,NA
+Burundi,2014,NA
+Cambodia,2014,NA
+Cameroon,2014,NA
+Canada,2014,NA
+Cape Verde,2014,NA
+Cayman Islands,2014,NA
+Central African Republic,2014,NA
+Ceylon,2014,NA
+Chad,2014,NA
+Chagos Islands,2014,NA
+Chile,2014,NA
+China,2014,NA
+Christmas Island,2014,NA
+Cocos Islands,2014,NA
+Colombia,2014,NA
+Comoros,2014,NA
+Congo,2014,NA
+Congo-Brazzaville,2014,NA
+Cook Islands,2014,NA
+Costa Rica,2014,NA
+Croatia,2014,NA
+Cuba,2014,NA
+Curaçao,2014,NA
+Cyprus,2014,NA
+Czechia,2014,NA
+Czechoslovakia,2014,NA
+Dahomey,2014,NA
+Democratic Republic of Congo,2014,NA
+Denmark,2014,NA
+Djibouti,2014,NA
+Dominica,2014,NA
+Dominican Republic,2014,NA
+East Germany,2014,NA
+East Timor,2014,NA
+Eastern Samoa,2014,NA
+Ecuador,2014,NA
+Egypt,2014,NA
+El Salvador,2014,NA
+England,2014,2050
+Equatorial Guinea,2014,NA
+Eritrea,2014,NA
+Estonia,2014,NA
+Eswatini,2014,NA
+Ethiopia,2014,NA
+Falkland Islands,2014,NA
+Faroe Islands,2014,NA
+Federated States of Micronesia,2014,NA
+Fiji,2014,NA
+Finland,2014,NA
+France,2014,NA
+French Guiana,2014,NA
+Gabon,2014,NA
+Gambia,2014,NA
+Georgia,2014,NA
+Germany,2014,NA
+Ghana,2014,NA
+Gibraltar,2014,NA
+Greece,2014,NA
+Greenland,2014,NA
+Grenada,2014,NA
+Guadeloupe,2014,NA
+Guam,2014,NA
+Guatemala,2014,NA
+Guinea,2014,NA
+Guinea-Bissau,2014,NA
+Guyana,2014,NA
+Haiti,2014,NA
+Honduras,2014,NA
+Hong Kong,2014,NA
+Hungary,2014,NA
+Iceland,2014,NA
+India,2014,NA
+Indonesia,2014,NA
+Iran,2014,NA
+Iraq,2014,NA
+Ireland,2014,1325
+Israel,2014,NA
+Italy,2014,NA
+Ivory Coast,2014,NA
+Jamaica,2014,NA
+Japan,2014,NA
+Jordan,2014,NA
+Kazakhstan,2014,NA
+Kenya,2014,NA
+Khmer Republic,2014,NA
+Kiribati,2014,NA
+Kosovo,2014,NA
+Kurdistan,2014,NA
+Kuwait,2014,NA
+Kyrgyzstan,2014,NA
+Laos,2014,NA
+Latvia,2014,NA
+Lebanon,2014,NA
+Lesotho,2014,NA
+Liberia,2014,NA
+Libya,2014,NA
+Liechtenstein,2014,NA
+Lithuania,2014,NA
+Luxembourg,2014,NA
+Macao,2014,NA
+Macedonia,2014,NA
+Madagascar,2014,NA
+Malawi,2014,NA
+Malaya,2014,NA
+Malaysia,2014,NA
+Maldives,2014,NA
+Mali,2014,NA
+Malta,2014,NA
+Marshall Islands,2014,NA
+Martinique,2014,NA
+Mauritania,2014,NA
+Mauritius,2014,NA
+Mayotte,2014,NA
+Mexico,2014,NA
+Moldova,2014,NA
+Monaco,2014,NA
+Mongolia,2014,NA
+Montenegro,2014,NA
+Montserrat,2014,NA
+Morocco,2014,NA
+Mozambique,2014,NA
+Myanmar,2014,NA
+Namibia,2014,NA
+Nepal,2014,NA
+Netherlands,2014,NA
+Netherlands Antilles,2014,NA
+New Caledonia,2014,NA
+New Zealand,2014,NA
+Nicaragua,2014,NA
+Niger,2014,NA
+Nigeria,2014,NA
+Niue,2014,NA
+North Korea,2014,NA
+North Macedonia,2014,NA
+North Vietnam,2014,NA
+North Yemen,2014,NA
+Northern Cyprus,2014,NA
+Northern Ireland,2014,NA
+Northern Mariana Islands,2014,NA
+Northern Rhodesia,2014,NA
+Norway,2014,NA
+Oman,2014,NA
+Pakistan,2014,NA
+Palau,2014,NA
+Palestine,2014,NA
+Panama,2014,NA
+Papua New Guinea,2014,NA
+Paraguay,2014,NA
+Peru,2014,NA
+Philippines,2014,NA
+Poland,2014,NA
+Portugal,2014,NA
+Puerto Rico,2014,NA
+Qatar,2014,NA
+Reunion,2014,NA
+Romania,2014,NA
+Russia,2014,NA
+Rwanda,2014,NA
+Saba,2014,NA
+Saint Barthelemy,2014,NA
+Saint Kitts and Nevis,2014,NA
+Saint Lucia,2014,NA
+Saint Martin,2014,NA
+Saint Pierre and Miquelon,2014,NA
+Saint Vincent and the Grenadines,2014,NA
+Samoa,2014,NA
+San Marino,2014,NA
+Sao Tome and Principe,2014,NA
+Saudi Arabia,2014,NA
+Scotland,2014,1991
+Senegal,2014,NA
+Serbia,2014,NA
+Serbia and Montenegro,2014,NA
+Seychelles,2014,NA
+Sierra Leone,2014,NA
+Singapore,2014,NA
+Sint Eustatius,2014,NA
+Sint Maarten,2014,NA
+Slovakia,2014,NA
+Slovenia,2014,NA
+Solomon Islands,2014,NA
+Somalia,2014,NA
+Somaliland,2014,NA
+South Africa,2014,NA
+South Korea,2014,NA
+South Sudan,2014,NA
+South Vietnam,2014,NA
+South Yemen,2014,NA
+Southern Rhodesia,2014,NA
+Soviet Union,2014,NA
+Spain,2014,NA
+Sri Lanka,2014,NA
+Sudan,2014,NA
+Surinam,2014,NA
+Suriname,2014,NA
+Swaziland,2014,NA
+Sweden,2014,NA
+Switzerland,2014,NA
+Syria,2014,NA
+Tahiti,2014,NA
+Taiwan,2014,NA
+Tajikistan,2014,NA
+Tanganyika,2014,NA
+Tanzania,2014,NA
+Thailand,2014,NA
+Tibet,2014,NA
+Togo,2014,NA
+Tonga,2014,NA
+Trinidad and Tobago,2014,NA
+Tunisia,2014,NA
+Turkey,2014,NA
+Turkmenistan,2014,NA
+Turks and Caicos Islands,2014,NA
+Tuvalu,2014,NA
+Uganda,2014,NA
+Ukraine,2014,NA
+United Arab Emirates,2014,NA
+United Arab Republic,2014,NA
+United States,2014,NA
+Upper Volta,2014,NA
+Uruguay,2014,NA
+US Virgin Islands,2014,NA
+Uzbekistan,2014,NA
+Vanuatu,2014,NA
+Vatican,2014,NA
+Venezuela,2014,NA
+Vietnam,2014,NA
+Wales,2014,1439
+Wallis and Futuna,2014,NA
+West Germany,2014,NA
+Western Sahara,2014,NA
+Yemen,2014,NA
+Yugoslavia,2014,NA
+Zambia,2014,NA
+Zanzibar,2014,NA
+Zimbabwe,2014,NA
+Afghanistan,2018,NA
+Albania,2018,NA
+Algeria,2018,NA
+Andorra,2018,NA
+Angola,2018,NA
+Anguilla,2018,NA
+Antigua and Barbuda,2018,NA
+Argentina,2018,NA
+Armenia,2018,NA
+Aruba,2018,NA
+Australia,2018,NA
+Austria,2018,NA
+Azerbaijan,2018,NA
+Bahamas,2018,NA
+Bahrain,2018,NA
+Bangladesh,2018,NA
+Barbados,2018,NA
+Belarus,2018,NA
+Belgium,2018,NA
+Belize,2018,NA
+Benin,2018,NA
+Bermuda,2018,NA
+Bhutan,2018,NA
+Bolivia,2018,NA
+Bonaire,2018,NA
+Bosnia and Herzegovina,2018,NA
+Botswana,2018,NA
+Brazil,2018,NA
+British Guiana,2018,NA
+British Virgin Islands,2018,NA
+Brunei,2018,NA
+Bulgaria,2018,NA
+Burkina Faso,2018,NA
+Burma,2018,NA
+Burundi,2018,NA
+Cambodia,2018,NA
+Cameroon,2018,NA
+Canada,2018,NA
+Cape Verde,2018,NA
+Cayman Islands,2018,NA
+Central African Republic,2018,NA
+Ceylon,2018,NA
+Chad,2018,NA
+Chagos Islands,2018,NA
+Chile,2018,NA
+China,2018,NA
+Christmas Island,2018,NA
+Cocos Islands,2018,NA
+Colombia,2018,NA
+Comoros,2018,NA
+Congo,2018,NA
+Congo-Brazzaville,2018,NA
+Cook Islands,2018,NA
+Costa Rica,2018,NA
+Croatia,2018,NA
+Cuba,2018,NA
+Curaçao,2018,NA
+Cyprus,2018,NA
+Czechia,2018,NA
+Czechoslovakia,2018,NA
+Dahomey,2018,NA
+Democratic Republic of Congo,2018,NA
+Denmark,2018,NA
+Djibouti,2018,NA
+Dominica,2018,NA
+Dominican Republic,2018,NA
+East Germany,2018,NA
+East Timor,2018,NA
+Eastern Samoa,2018,NA
+Ecuador,2018,NA
+Egypt,2018,NA
+El Salvador,2018,NA
+England,2018,2050
+Equatorial Guinea,2018,NA
+Eritrea,2018,NA
+Estonia,2018,NA
+Eswatini,2018,NA
+Ethiopia,2018,NA
+Falkland Islands,2018,NA
+Faroe Islands,2018,NA
+Federated States of Micronesia,2018,NA
+Fiji,2018,NA
+Finland,2018,NA
+France,2018,NA
+French Guiana,2018,NA
+Gabon,2018,NA
+Gambia,2018,NA
+Georgia,2018,NA
+Germany,2018,NA
+Ghana,2018,NA
+Gibraltar,2018,NA
+Greece,2018,NA
+Greenland,2018,NA
+Grenada,2018,NA
+Guadeloupe,2018,NA
+Guam,2018,NA
+Guatemala,2018,NA
+Guinea,2018,NA
+Guinea-Bissau,2018,NA
+Guyana,2018,NA
+Haiti,2018,NA
+Honduras,2018,NA
+Hong Kong,2018,NA
+Hungary,2018,NA
+Iceland,2018,NA
+India,2018,NA
+Indonesia,2018,NA
+Iran,2018,NA
+Iraq,2018,NA
+Ireland,2018,1325
+Israel,2018,NA
+Italy,2018,NA
+Ivory Coast,2018,NA
+Jamaica,2018,NA
+Japan,2018,NA
+Jordan,2018,NA
+Kazakhstan,2018,NA
+Kenya,2018,NA
+Khmer Republic,2018,NA
+Kiribati,2018,NA
+Kosovo,2018,NA
+Kurdistan,2018,NA
+Kuwait,2018,NA
+Kyrgyzstan,2018,NA
+Laos,2018,NA
+Latvia,2018,NA
+Lebanon,2018,NA
+Lesotho,2018,NA
+Liberia,2018,NA
+Libya,2018,NA
+Liechtenstein,2018,NA
+Lithuania,2018,NA
+Luxembourg,2018,NA
+Macao,2018,NA
+Macedonia,2018,NA
+Madagascar,2018,NA
+Malawi,2018,NA
+Malaya,2018,NA
+Malaysia,2018,NA
+Maldives,2018,NA
+Mali,2018,NA
+Malta,2018,NA
+Marshall Islands,2018,NA
+Martinique,2018,NA
+Mauritania,2018,NA
+Mauritius,2018,NA
+Mayotte,2018,NA
+Mexico,2018,NA
+Moldova,2018,NA
+Monaco,2018,NA
+Mongolia,2018,NA
+Montenegro,2018,NA
+Montserrat,2018,NA
+Morocco,2018,NA
+Mozambique,2018,NA
+Myanmar,2018,NA
+Namibia,2018,NA
+Nepal,2018,NA
+Netherlands,2018,NA
+Netherlands Antilles,2018,NA
+New Caledonia,2018,NA
+New Zealand,2018,NA
+Nicaragua,2018,NA
+Niger,2018,NA
+Nigeria,2018,NA
+Niue,2018,NA
+North Korea,2018,NA
+North Macedonia,2018,NA
+North Vietnam,2018,NA
+North Yemen,2018,NA
+Northern Cyprus,2018,NA
+Northern Ireland,2018,NA
+Northern Mariana Islands,2018,NA
+Northern Rhodesia,2018,NA
+Norway,2018,NA
+Oman,2018,NA
+Pakistan,2018,NA
+Palau,2018,NA
+Palestine,2018,NA
+Panama,2018,NA
+Papua New Guinea,2018,NA
+Paraguay,2018,NA
+Peru,2018,NA
+Philippines,2018,NA
+Poland,2018,NA
+Portugal,2018,NA
+Puerto Rico,2018,NA
+Qatar,2018,NA
+Reunion,2018,NA
+Romania,2018,NA
+Russia,2018,NA
+Rwanda,2018,NA
+Saba,2018,NA
+Saint Barthelemy,2018,NA
+Saint Kitts and Nevis,2018,NA
+Saint Lucia,2018,NA
+Saint Martin,2018,NA
+Saint Pierre and Miquelon,2018,NA
+Saint Vincent and the Grenadines,2018,NA
+Samoa,2018,NA
+San Marino,2018,NA
+Sao Tome and Principe,2018,NA
+Saudi Arabia,2018,NA
+Scotland,2018,1991
+Senegal,2018,NA
+Serbia,2018,NA
+Serbia and Montenegro,2018,NA
+Seychelles,2018,NA
+Sierra Leone,2018,NA
+Singapore,2018,NA
+Sint Eustatius,2018,NA
+Sint Maarten,2018,NA
+Slovakia,2018,NA
+Slovenia,2018,NA
+Solomon Islands,2018,NA
+Somalia,2018,NA
+Somaliland,2018,NA
+South Africa,2018,NA
+South Korea,2018,NA
+South Sudan,2018,NA
+South Vietnam,2018,NA
+South Yemen,2018,NA
+Southern Rhodesia,2018,NA
+Soviet Union,2018,NA
+Spain,2018,NA
+Sri Lanka,2018,NA
+Sudan,2018,NA
+Surinam,2018,NA
+Suriname,2018,NA
+Swaziland,2018,NA
+Sweden,2018,NA
+Switzerland,2018,NA
+Syria,2018,NA
+Tahiti,2018,NA
+Taiwan,2018,NA
+Tajikistan,2018,NA
+Tanganyika,2018,NA
+Tanzania,2018,NA
+Thailand,2018,NA
+Tibet,2018,NA
+Togo,2018,NA
+Tonga,2018,NA
+Trinidad and Tobago,2018,NA
+Tunisia,2018,NA
+Turkey,2018,NA
+Turkmenistan,2018,NA
+Turks and Caicos Islands,2018,NA
+Tuvalu,2018,NA
+Uganda,2018,NA
+Ukraine,2018,NA
+United Arab Emirates,2018,NA
+United Arab Republic,2018,NA
+United States,2018,NA
+Upper Volta,2018,NA
+Uruguay,2018,NA
+US Virgin Islands,2018,NA
+Uzbekistan,2018,NA
+Vanuatu,2018,NA
+Vatican,2018,NA
+Venezuela,2018,NA
+Vietnam,2018,NA
+Wales,2018,1439
+Wallis and Futuna,2018,NA
+West Germany,2018,NA
+Western Sahara,2018,NA
+Yemen,2018,NA
+Yugoslavia,2018,NA
+Zambia,2018,NA
+Zanzibar,2018,NA
+Zimbabwe,2018,NA
+Afghanistan,2022,NA
+Albania,2022,NA
+Algeria,2022,NA
+Andorra,2022,NA
+Angola,2022,NA
+Anguilla,2022,NA
+Antigua and Barbuda,2022,NA
+Argentina,2022,NA
+Armenia,2022,NA
+Aruba,2022,NA
+Australia,2022,NA
+Austria,2022,NA
+Azerbaijan,2022,NA
+Bahamas,2022,NA
+Bahrain,2022,NA
+Bangladesh,2022,NA
+Barbados,2022,NA
+Belarus,2022,NA
+Belgium,2022,NA
+Belize,2022,NA
+Benin,2022,NA
+Bermuda,2022,NA
+Bhutan,2022,NA
+Bolivia,2022,NA
+Bonaire,2022,NA
+Bosnia and Herzegovina,2022,NA
+Botswana,2022,NA
+Brazil,2022,NA
+British Guiana,2022,NA
+British Virgin Islands,2022,NA
+Brunei,2022,NA
+Bulgaria,2022,NA
+Burkina Faso,2022,NA
+Burma,2022,NA
+Burundi,2022,NA
+Cambodia,2022,NA
+Cameroon,2022,NA
+Canada,2022,NA
+Cape Verde,2022,NA
+Cayman Islands,2022,NA
+Central African Republic,2022,NA
+Ceylon,2022,NA
+Chad,2022,NA
+Chagos Islands,2022,NA
+Chile,2022,NA
+China,2022,NA
+Christmas Island,2022,NA
+Cocos Islands,2022,NA
+Colombia,2022,NA
+Comoros,2022,NA
+Congo,2022,NA
+Congo-Brazzaville,2022,NA
+Cook Islands,2022,NA
+Costa Rica,2022,NA
+Croatia,2022,NA
+Cuba,2022,NA
+Curaçao,2022,NA
+Cyprus,2022,NA
+Czechia,2022,NA
+Czechoslovakia,2022,NA
+Dahomey,2022,NA
+Democratic Republic of Congo,2022,NA
+Denmark,2022,NA
+Djibouti,2022,NA
+Dominica,2022,NA
+Dominican Republic,2022,NA
+East Germany,2022,NA
+East Timor,2022,NA
+Eastern Samoa,2022,NA
+Ecuador,2022,NA
+Egypt,2022,NA
+El Salvador,2022,NA
+England,2022,2050
+Equatorial Guinea,2022,NA
+Eritrea,2022,NA
+Estonia,2022,NA
+Eswatini,2022,NA
+Ethiopia,2022,NA
+Falkland Islands,2022,NA
+Faroe Islands,2022,NA
+Federated States of Micronesia,2022,NA
+Fiji,2022,NA
+Finland,2022,NA
+France,2022,NA
+French Guiana,2022,NA
+Gabon,2022,NA
+Gambia,2022,NA
+Georgia,2022,NA
+Germany,2022,NA
+Ghana,2022,NA
+Gibraltar,2022,NA
+Greece,2022,NA
+Greenland,2022,NA
+Grenada,2022,NA
+Guadeloupe,2022,NA
+Guam,2022,NA
+Guatemala,2022,NA
+Guinea,2022,NA
+Guinea-Bissau,2022,NA
+Guyana,2022,NA
+Haiti,2022,NA
+Honduras,2022,NA
+Hong Kong,2022,NA
+Hungary,2022,NA
+Iceland,2022,NA
+India,2022,NA
+Indonesia,2022,NA
+Iran,2022,NA
+Iraq,2022,NA
+Ireland,2022,1325
+Israel,2022,NA
+Italy,2022,NA
+Ivory Coast,2022,NA
+Jamaica,2022,NA
+Japan,2022,NA
+Jordan,2022,NA
+Kazakhstan,2022,NA
+Kenya,2022,NA
+Khmer Republic,2022,NA
+Kiribati,2022,NA
+Kosovo,2022,NA
+Kurdistan,2022,NA
+Kuwait,2022,NA
+Kyrgyzstan,2022,NA
+Laos,2022,NA
+Latvia,2022,NA
+Lebanon,2022,NA
+Lesotho,2022,NA
+Liberia,2022,NA
+Libya,2022,NA
+Liechtenstein,2022,NA
+Lithuania,2022,NA
+Luxembourg,2022,NA
+Macao,2022,NA
+Macedonia,2022,NA
+Madagascar,2022,NA
+Malawi,2022,NA
+Malaya,2022,NA
+Malaysia,2022,NA
+Maldives,2022,NA
+Mali,2022,NA
+Malta,2022,NA
+Marshall Islands,2022,NA
+Martinique,2022,NA
+Mauritania,2022,NA
+Mauritius,2022,NA
+Mayotte,2022,NA
+Mexico,2022,NA
+Moldova,2022,NA
+Monaco,2022,NA
+Mongolia,2022,NA
+Montenegro,2022,NA
+Montserrat,2022,NA
+Morocco,2022,NA
+Mozambique,2022,NA
+Myanmar,2022,NA
+Namibia,2022,NA
+Nepal,2022,NA
+Netherlands,2022,NA
+Netherlands Antilles,2022,NA
+New Caledonia,2022,NA
+New Zealand,2022,NA
+Nicaragua,2022,NA
+Niger,2022,NA
+Nigeria,2022,NA
+Niue,2022,NA
+North Korea,2022,NA
+North Macedonia,2022,NA
+North Vietnam,2022,NA
+North Yemen,2022,NA
+Northern Cyprus,2022,NA
+Northern Ireland,2022,NA
+Northern Mariana Islands,2022,NA
+Northern Rhodesia,2022,NA
+Norway,2022,NA
+Oman,2022,NA
+Pakistan,2022,NA
+Palau,2022,NA
+Palestine,2022,NA
+Panama,2022,NA
+Papua New Guinea,2022,NA
+Paraguay,2022,NA
+Peru,2022,NA
+Philippines,2022,NA
+Poland,2022,NA
+Portugal,2022,NA
+Puerto Rico,2022,NA
+Qatar,2022,NA
+Reunion,2022,NA
+Romania,2022,NA
+Russia,2022,NA
+Rwanda,2022,NA
+Saba,2022,NA
+Saint Barthelemy,2022,NA
+Saint Kitts and Nevis,2022,NA
+Saint Lucia,2022,NA
+Saint Martin,2022,NA
+Saint Pierre and Miquelon,2022,NA
+Saint Vincent and the Grenadines,2022,NA
+Samoa,2022,NA
+San Marino,2022,NA
+Sao Tome and Principe,2022,NA
+Saudi Arabia,2022,NA
+Scotland,2022,1991
+Senegal,2022,NA
+Serbia,2022,NA
+Serbia and Montenegro,2022,NA
+Seychelles,2022,NA
+Sierra Leone,2022,NA
+Singapore,2022,NA
+Sint Eustatius,2022,NA
+Sint Maarten,2022,NA
+Slovakia,2022,NA
+Slovenia,2022,NA
+Solomon Islands,2022,NA
+Somalia,2022,NA
+Somaliland,2022,NA
+South Africa,2022,NA
+South Korea,2022,NA
+South Sudan,2022,NA
+South Vietnam,2022,NA
+South Yemen,2022,NA
+Southern Rhodesia,2022,NA
+Soviet Union,2022,NA
+Spain,2022,NA
+Sri Lanka,2022,NA
+Sudan,2022,NA
+Surinam,2022,NA
+Suriname,2022,NA
+Swaziland,2022,NA
+Sweden,2022,NA
+Switzerland,2022,NA
+Syria,2022,NA
+Tahiti,2022,NA
+Taiwan,2022,NA
+Tajikistan,2022,NA
+Tanganyika,2022,NA
+Tanzania,2022,NA
+Thailand,2022,NA
+Tibet,2022,NA
+Togo,2022,NA
+Tonga,2022,NA
+Trinidad and Tobago,2022,NA
+Tunisia,2022,NA
+Turkey,2022,NA
+Turkmenistan,2022,NA
+Turks and Caicos Islands,2022,NA
+Tuvalu,2022,NA
+Uganda,2022,NA
+Ukraine,2022,NA
+United Arab Emirates,2022,NA
+United Arab Republic,2022,NA
+United States,2022,NA
+Upper Volta,2022,NA
+Uruguay,2022,NA
+US Virgin Islands,2022,NA
+Uzbekistan,2022,NA
+Vanuatu,2022,NA
+Vatican,2022,NA
+Venezuela,2022,NA
+Vietnam,2022,NA
+Wales,2022,1439
+Wallis and Futuna,2022,NA
+West Germany,2022,NA
+Western Sahara,2022,NA
+Yemen,2022,NA
+Yugoslavia,2022,NA
+Zambia,2022,NA
+Zanzibar,2022,NA
+Zimbabwe,2022,NA
+Afghanistan,2026,NA
+Albania,2026,NA
+Algeria,2026,NA
+Andorra,2026,NA
+Angola,2026,NA
+Anguilla,2026,NA
+Antigua and Barbuda,2026,NA
+Argentina,2026,NA
+Armenia,2026,NA
+Aruba,2026,NA
+Australia,2026,NA
+Austria,2026,NA
+Azerbaijan,2026,NA
+Bahamas,2026,NA
+Bahrain,2026,NA
+Bangladesh,2026,NA
+Barbados,2026,NA
+Belarus,2026,NA
+Belgium,2026,NA
+Belize,2026,NA
+Benin,2026,NA
+Bermuda,2026,NA
+Bhutan,2026,NA
+Bolivia,2026,NA
+Bonaire,2026,NA
+Bosnia and Herzegovina,2026,NA
+Botswana,2026,NA
+Brazil,2026,NA
+British Guiana,2026,NA
+British Virgin Islands,2026,NA
+Brunei,2026,NA
+Bulgaria,2026,NA
+Burkina Faso,2026,NA
+Burma,2026,NA
+Burundi,2026,NA
+Cambodia,2026,NA
+Cameroon,2026,NA
+Canada,2026,NA
+Cape Verde,2026,NA
+Cayman Islands,2026,NA
+Central African Republic,2026,NA
+Ceylon,2026,NA
+Chad,2026,NA
+Chagos Islands,2026,NA
+Chile,2026,NA
+China,2026,NA
+Christmas Island,2026,NA
+Cocos Islands,2026,NA
+Colombia,2026,NA
+Comoros,2026,NA
+Congo,2026,NA
+Congo-Brazzaville,2026,NA
+Cook Islands,2026,NA
+Costa Rica,2026,NA
+Croatia,2026,NA
+Cuba,2026,NA
+Curaçao,2026,NA
+Cyprus,2026,NA
+Czechia,2026,NA
+Czechoslovakia,2026,NA
+Dahomey,2026,NA
+Democratic Republic of Congo,2026,NA
+Denmark,2026,NA
+Djibouti,2026,NA
+Dominica,2026,NA
+Dominican Republic,2026,NA
+East Germany,2026,NA
+East Timor,2026,NA
+Eastern Samoa,2026,NA
+Ecuador,2026,NA
+Egypt,2026,NA
+El Salvador,2026,NA
+England,2026,2050
+Equatorial Guinea,2026,NA
+Eritrea,2026,NA
+Estonia,2026,NA
+Eswatini,2026,NA
+Ethiopia,2026,NA
+Falkland Islands,2026,NA
+Faroe Islands,2026,NA
+Federated States of Micronesia,2026,NA
+Fiji,2026,NA
+Finland,2026,NA
+France,2026,NA
+French Guiana,2026,NA
+Gabon,2026,NA
+Gambia,2026,NA
+Georgia,2026,NA
+Germany,2026,NA
+Ghana,2026,NA
+Gibraltar,2026,NA
+Greece,2026,NA
+Greenland,2026,NA
+Grenada,2026,NA
+Guadeloupe,2026,NA
+Guam,2026,NA
+Guatemala,2026,NA
+Guinea,2026,NA
+Guinea-Bissau,2026,NA
+Guyana,2026,NA
+Haiti,2026,NA
+Honduras,2026,NA
+Hong Kong,2026,NA
+Hungary,2026,NA
+Iceland,2026,NA
+India,2026,NA
+Indonesia,2026,NA
+Iran,2026,NA
+Iraq,2026,NA
+Ireland,2026,1325
+Israel,2026,NA
+Italy,2026,NA
+Ivory Coast,2026,NA
+Jamaica,2026,NA
+Japan,2026,NA
+Jordan,2026,NA
+Kazakhstan,2026,NA
+Kenya,2026,NA
+Khmer Republic,2026,NA
+Kiribati,2026,NA
+Kosovo,2026,NA
+Kurdistan,2026,NA
+Kuwait,2026,NA
+Kyrgyzstan,2026,NA
+Laos,2026,NA
+Latvia,2026,NA
+Lebanon,2026,NA
+Lesotho,2026,NA
+Liberia,2026,NA
+Libya,2026,NA
+Liechtenstein,2026,NA
+Lithuania,2026,NA
+Luxembourg,2026,NA
+Macao,2026,NA
+Macedonia,2026,NA
+Madagascar,2026,NA
+Malawi,2026,NA
+Malaya,2026,NA
+Malaysia,2026,NA
+Maldives,2026,NA
+Mali,2026,NA
+Malta,2026,NA
+Marshall Islands,2026,NA
+Martinique,2026,NA
+Mauritania,2026,NA
+Mauritius,2026,NA
+Mayotte,2026,NA
+Mexico,2026,NA
+Moldova,2026,NA
+Monaco,2026,NA
+Mongolia,2026,NA
+Montenegro,2026,NA
+Montserrat,2026,NA
+Morocco,2026,NA
+Mozambique,2026,NA
+Myanmar,2026,NA
+Namibia,2026,NA
+Nepal,2026,NA
+Netherlands,2026,NA
+Netherlands Antilles,2026,NA
+New Caledonia,2026,NA
+New Zealand,2026,NA
+Nicaragua,2026,NA
+Niger,2026,NA
+Nigeria,2026,NA
+Niue,2026,NA
+North Korea,2026,NA
+North Macedonia,2026,NA
+North Vietnam,2026,NA
+North Yemen,2026,NA
+Northern Cyprus,2026,NA
+Northern Ireland,2026,NA
+Northern Mariana Islands,2026,NA
+Northern Rhodesia,2026,NA
+Norway,2026,NA
+Oman,2026,NA
+Pakistan,2026,NA
+Palau,2026,NA
+Palestine,2026,NA
+Panama,2026,NA
+Papua New Guinea,2026,NA
+Paraguay,2026,NA
+Peru,2026,NA
+Philippines,2026,NA
+Poland,2026,NA
+Portugal,2026,NA
+Puerto Rico,2026,NA
+Qatar,2026,NA
+Reunion,2026,NA
+Romania,2026,NA
+Russia,2026,NA
+Rwanda,2026,NA
+Saba,2026,NA
+Saint Barthelemy,2026,NA
+Saint Kitts and Nevis,2026,NA
+Saint Lucia,2026,NA
+Saint Martin,2026,NA
+Saint Pierre and Miquelon,2026,NA
+Saint Vincent and the Grenadines,2026,NA
+Samoa,2026,NA
+San Marino,2026,NA
+Sao Tome and Principe,2026,NA
+Saudi Arabia,2026,NA
+Scotland,2026,1991
+Senegal,2026,NA
+Serbia,2026,NA
+Serbia and Montenegro,2026,NA
+Seychelles,2026,NA
+Sierra Leone,2026,NA
+Singapore,2026,NA
+Sint Eustatius,2026,NA
+Sint Maarten,2026,NA
+Slovakia,2026,NA
+Slovenia,2026,NA
+Solomon Islands,2026,NA
+Somalia,2026,NA
+Somaliland,2026,NA
+South Africa,2026,NA
+South Korea,2026,NA
+South Sudan,2026,NA
+South Vietnam,2026,NA
+South Yemen,2026,NA
+Southern Rhodesia,2026,NA
+Soviet Union,2026,NA
+Spain,2026,NA
+Sri Lanka,2026,NA
+Sudan,2026,NA
+Surinam,2026,NA
+Suriname,2026,NA
+Swaziland,2026,NA
+Sweden,2026,NA
+Switzerland,2026,NA
+Syria,2026,NA
+Tahiti,2026,NA
+Taiwan,2026,NA
+Tajikistan,2026,NA
+Tanganyika,2026,NA
+Tanzania,2026,NA
+Thailand,2026,NA
+Tibet,2026,NA
+Togo,2026,NA
+Tonga,2026,NA
+Trinidad and Tobago,2026,NA
+Tunisia,2026,NA
+Turkey,2026,NA
+Turkmenistan,2026,NA
+Turks and Caicos Islands,2026,NA
+Tuvalu,2026,NA
+Uganda,2026,NA
+Ukraine,2026,NA
+United Arab Emirates,2026,NA
+United Arab Republic,2026,NA
+United States,2026,NA
+Upper Volta,2026,NA
+Uruguay,2026,NA
+US Virgin Islands,2026,NA
+Uzbekistan,2026,NA
+Vanuatu,2026,NA
+Vatican,2026,NA
+Venezuela,2026,NA
+Vietnam,2026,NA
+Wales,2026,1439
+Wallis and Futuna,2026,NA
+West Germany,2026,NA
+Western Sahara,2026,NA
+Yemen,2026,NA
+Yugoslavia,2026,NA
+Zambia,2026,NA
+Zanzibar,2026,NA
+Zimbabwe,2026,NA

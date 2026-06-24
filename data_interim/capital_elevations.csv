@@ -1,0 +1,198 @@
+Country,Capital,Elevation_m
+Armenia,Yerevan,989
+Botswana,Gaborone,983
+Turkey,Ankara,938
+Venezuela,Caracas,935
+Jordan,Amman,900
+Palestine,Ramallah,880
+Tajikistan,Dushanbe,789
+Palestine,East Jerusalem[Note 1],779
+Nigeria,Abuja,777
+Kyrgyzstan,Bishkek,771
+Israel,Jerusalem,754
+San Marino,San Marino,749
+Cameroon,Yaoundé,726
+Syria,Damascus,691
+Spain,Madrid,667
+El Salvador,San Salvador,658
+Saudi Arabia,Riyadh,624
+Australia,Canberra,605
+Bulgaria,Sofia,560
+Pakistan,Islamabad,560
+Bosnia and Herzegovina,Sarajevo,550
+South Sudan,Juba,550
+Switzerland,Bern,542
+Chile,Santiago,521
+Uzbekistan,Tashkent,459
+Liechtenstein,Vaduz,455
+Georgia,Tbilisi,451
+Sudan,Khartoum,377
+Central African Republic,Bangui,369
+Mali,Bamako,349
+Kazakhstan,Astana,338
+Burkina Faso,Ouagadougou,305
+Chad,N'Djamena,298
+Slovenia,Ljubljana,281
+Luxembourg,Luxembourg,273
+Czech Republic,Prague,244
+North Macedonia,Skopje,243
+Democratic Republic of the Congo,Kinshasa,240
+Ivory Coast,Yamoussoukro,217
+Turkmenistan,Ashgabat,215
+India,New Delhi,210
+Niger,Niamey,207
+Belarus,Minsk,198
+Laos,Vientiane,174
+Austria,Vienna,170
+Cyprus,Nicosia,170
+Ukraine,Kyiv,168
+Congo,Brazzaville,155
+Peru,Lima,154
+Greece,Athens,153
+São Tomé and Príncipe,São Tomé,141
+Slovakia,Bratislava,131
+Croatia,Zagreb,130
+Lithuania,Vilnius,124
+Russia,Moscow,124
+Serbia,Belgrade,116
+Comoros,Moroni,110
+Equatorial Guinea,Malabo,107
+Albania,Tirana,104
+Hungary,Budapest,102
+Haiti,Port-au-Prince,98
+Ghana,Accra,98
+Poland,Warsaw,93
+"Micronesia, Federated States of",Palikir,90
+Nicaragua,Managua,83
+Moldova,Chișinău,80
+Myanmar,Naypyidaw,77
+Belize,Belmopan,76
+Belgium,Brussels,76
+Sierra Leone,Freetown,76
+Canada,Ottawa,74
+Palau,Ngerulmud,72
+Romania,Bucharest,70
+Oman,Muscat,68
+Mozambique,Maputo,63
+Togo,Lomé,63
+Montenegro,Podgorica,61
+Malaysia,Kuala Lumpur,60
+Lebanon,Beirut,55
+Malta,Valletta,54
+Paraguay,Asunción,54
+Jamaica,Kingston,53
+Morocco,Rabat,53
+Mauritius,Port Louis,50
+China,Beijing,44
+Uruguay,Montevideo,43
+Vatican City,Vatican City,41
+Iraq,Baghdad,40
+Papua New Guinea,Port Moresby,39
+Benin,Porto-Novo,38
+Estonia,Tallinn,37
+Senegal,Dakar,37
+France,Paris,34
+Germany,Berlin,34
+South Korea,Seoul,33
+Solomon Islands,Honiara,29
+Somalia,Mogadishu,28
+Azerbaijan,Baku,28
+Finland,Helsinki,25
+Vietnam,Hanoi,25
+Grenada,Saint George's,25
+Egypt,Cairo,22
+Japan,Tokyo,17
+Iceland,Reykjavík,15
+Portugal,Lisbon,15
+Sweden,Stockholm,15
+Cambodia,Phnom Penh,15
+Italy,Rome,14
+United Kingdom,London,14
+Qatar,Doha,13
+United Arab Emirates,Abu Dhabi,13
+Norway,Oslo,12
+East Timor,Dili,11
+Argentina,Buenos Aires,10
+New Zealand,Wellington,10
+Nauru,Yaren,9
+Indonesia,Jakarta,8
+Republic of Ireland,Dublin,8
+Latvia,Riga,8
+Philippines,Manila,7
+Bahrain,Manama,6
+North Korea,Pyongyang,6
+Barbados,Bridgetown,6
+Angola,Luanda,6
+Libya,Tripoli,6
+Mauritania,Nouakchott,6
+Denmark,Copenhagen,5
+Kuwait,Kuwait,5
+Sri Lanka,Sri Jayawardenapura-Kotte,4
+Cuba,Havana,4
+Bolivia,La Paz (government seat),3
+Bangladesh,Dhaka,3
+Marshall Islands,Majuro,3
+Ecuador,Quito,2
+Bolivia,Sucre (de jure capital),2
+Colombia,Bogotá,2
+Ethiopia,Addis Ababa,2
+Bhutan,Thimphu,2
+Eritrea,Asmara,2
+Yemen,Sanaa,2
+Mexico,Mexico City,2
+Iran,Tehran,2
+Bahamas,Nassau,2
+St. Lucia,Castries,2
+United States,"Washington, D.C.",2
+Netherlands,Amsterdam,2
+Kenya,Nairobi,1
+Afghanistan,Kabul,1
+Namibia,Windhoek,1
+Lesotho,Maseru,1
+Rwanda,Kigali,1
+Guatemala,Guatemala City,1
+Burundi,Gitega,1
+Zimbabwe,Harare,1
+Nepal,Kathmandu,1
+Mongolia,Ulaanbaatar,1
+Madagascar,Antananarivo,1
+South Africa,Pretoria,1
+Zambia,Lusaka,1
+Eswatini,Mbabane,1
+Uganda,Kampala,1
+Costa Rica,San José,1
+Honduras,Tegucigalpa,1
+Brazil,Brasília,1
+Malawi,Lilongwe,1
+Andorra,Andorra la Vella,1
+Tanzania,Dodoma,1
+Algeria,Algiers,1
+Thailand,Bangkok,1
+Suriname,Paramaribo,1
+Monaco,Monaco City,0
+Brunei,Bandar Seri Begawan,0
+Maldives,Malé,0
+Singapore,Singapore,0
+Antigua and Barbuda,Saint John's,0
+Dominica,Roseau,0
+Dominican Republic,Santo Domingo,0
+Guyana,Georgetown,0
+Panama,Panama City,0
+Saint Kitts and Nevis,Basseterre,0
+St. Vincent and the Grenadines,Kingstown,0
+Trinidad and Tobago,Port of Spain,0
+Cape Verde,Praia,0
+Djibouti,Djibouti,0
+Gabon,Libreville,0
+Gambia,Banjul,0
+Guinea,Conakry,0
+Guinea-Bissau,Bissau,0
+Liberia,Monrovia,0
+Seychelles,Victoria,0
+Tunisia,Tunis,0
+Fiji,Suva,0
+Kiribati,South Tarawa,0
+Samoa,Apia,0
+Tonga,Nuku'alofa,0
+Tuvalu,Vaiaku,0
+Vanuatu,Port Vila,0
